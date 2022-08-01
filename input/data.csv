@@ -1,0 +1,2315 @@
+Country ISO3,Country Name,Indicator Id,Indicator,Subindicator Type,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017
+ALB,Albania,3275,Access to Financing,Value,3.7,9.4,14,19.2,23.3,20.3,20.2,18.9,10.1,10.3
+ALB,Albania,3276,Corruption,Value,21.3,12.8,13.6,10.9,22.2,25.5,21.2,13.8,23.6,16.4
+ALB,Albania,3277,Inadequate Supply of Infrastructure,Value,16.5,10.4,8.5,7.7,3,2.2,3.7,6.3,4.5,4.8
+ALB,Albania,3278,Inadequately Educated Workforce,Value,3.4,6.5,4.2,3.8,2,0.6,7.4,3.3,11.3,6.9
+ALB,Albania,3279,Inefficient Government Bureaucracy,Value,14.6,11.8,10.6,8.7,11.6,12.7,13.8,9.3,6.6,7.2
+ALB,Albania,3280,Policy Instability,Value,9.1,11.4,9.2,7.5,6.1,3.1,2.4,3.8,8.9,5.2
+ALB,Albania,3281,Poor Work Ethic in Labor Force,Value,6.6,6.8,5,4.9,3,4.7,8.7,3.6,5.6,5.4
+ALB,Albania,3282,Tax Rates,Value,9.2,7.7,6,12,5.2,2.8,11.3,21.7,21.3,21.7
+ALB,Albania,3283,Tax Regulations,Value,9.3,10.9,13.4,10.2,9.8,11.6,3.5,,1.9,9.3
+ALB,Albania,3284,Crime and Theft,Value,,,,,,,,,2.4,4
+ALB,Albania,3285,Foreign Currency Regulations,Value,,,,,,,,,0.4,0
+ALB,Albania,3286,Government Instability/Coups,Value,,,,,,,,,0.3,1.2
+ALB,Albania,3287,Inflation,Value,,,,,,,,,2.4,5.5
+ALB,Albania,3288,Poor Public Health,Value,,,,,,,,,0.2,0.7
+ALB,Albania,3289,Restrictive Labor Regulations,Value,,,,,,,,,0,0
+ALB,Albania,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,1.3
+ARE,United Arab Emirates,3275,Access to Financing,Value,9.3,23,20,22.8,19.1,19.1,13.9,13.9,18,17
+ARE,United Arab Emirates,3276,Corruption,Value,,,,,,,,,1.6,2
+ARE,United Arab Emirates,3277,Inadequate Supply of Infrastructure,Value,8.8,7.4,5.2,3.7,3.2,3.2,2.6,2.6,2.6,2.8
+ARE,United Arab Emirates,3278,Inadequately Educated Workforce,Value,12.1,15.7,14.8,12.8,16.4,16.4,14.4,14.4,12,14
+ARE,United Arab Emirates,3279,Inefficient Government Bureaucracy,Value,5.6,6.1,11,7.4,6.7,6.7,4.7,4.7,7.1,4.1
+ARE,United Arab Emirates,3280,Policy Instability,Value,5,5.6,8,4.7,6.5,6.5,4.4,4.4,5.2,2.4
+ARE,United Arab Emirates,3281,Poor Work Ethic in Labor Force,Value,5.3,5.8,7.7,8.6,6.1,6.1,7.9,7.9,7.4,8.6
+ARE,United Arab Emirates,3282,Tax Rates,Value,,,,,,,,,1.2,3.9
+ARE,United Arab Emirates,3283,Tax Regulations,Value,,,,,,,,,0.6,1.9
+ARE,United Arab Emirates,3284,Crime and Theft,Value,,,,,,,,,0.6,1.4
+ARE,United Arab Emirates,3285,Foreign Currency Regulations,Value,4.9,1.8,1.4,9.4,4.1,4.1,2.2,2.2,5.6,4.8
+ARE,United Arab Emirates,3286,Government Instability/Coups,Value,,,,,,,,,0.8,0
+ARE,United Arab Emirates,3287,Inflation,Value,26.2,13.1,12.1,7.1,7.7,7.7,15.2,15.2,12,14.4
+ARE,United Arab Emirates,3288,Poor Public Health,Value,,,,,,,,,1.4,2.5
+ARE,United Arab Emirates,3289,Restrictive Labor Regulations,Value,17.1,13.2,14.6,13.4,19.2,19.2,19.9,19.9,18.1,12.6
+ARE,United Arab Emirates,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,7.8
+ARG,Argentina,3275,Access to Financing,Value,11,17.1,13.9,9.1,10.1,8.9,11.3,12.6,11.7,8.2
+ARG,Argentina,3276,Corruption,Value,8.6,15,12.7,12.1,11.5,11.2,10.9,11.2,11.2,7
+ARG,Argentina,3277,Inadequate Supply of Infrastructure,Value,6.5,3,2.9,3.6,2.6,4,4.1,3.6,4.9,4.3
+ARG,Argentina,3278,Inadequately Educated Workforce,Value,,,,,,,,,2.6,1.7
+ARG,Argentina,3279,Inefficient Government Bureaucracy,Value,6,7.9,9,7.3,9.9,8.7,6.5,5.8,7.5,7.5
+ARG,Argentina,3280,Policy Instability,Value,22.9,20.1,19.4,11.4,13.9,7.4,7.5,5.6,5.9,9
+ARG,Argentina,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,1.5,1.9
+ARG,Argentina,3282,Tax Rates,Value,,,,,,,,,15.9,20.2
+ARG,Argentina,3283,Tax Regulations,Value,5.8,6.4,6.4,7.5,5.5,6.1,5.9,,3.9,5.9
+ARG,Argentina,3284,Crime and Theft,Value,,,,,,,,,1.1,0.7
+ARG,Argentina,3285,Foreign Currency Regulations,Value,,,,,,,,,3.1,0.5
+ARG,Argentina,3286,Government Instability/Coups,Value,5,2,1.6,1.6,1,0.5,0.3,0.3,0.7,3.9
+ARG,Argentina,3287,Inflation,Value,15.2,9.4,15.1,21.5,19.2,19.2,19.1,18.3,23.1,20.7
+ARG,Argentina,3288,Poor Public Health,Value,,,,,,,,,0.2,0.2
+ARG,Argentina,3289,Restrictive Labor Regulations,Value,8.4,8.6,7,9.6,6.2,6.8,6.2,5.6,5.8,7.9
+ARG,Argentina,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,0.4
+ARM,Armenia,3275,Access to Financing,Value,8.9,12.7,11.4,8.4,12.7,13.8,14.3,13.5,15.3,13
+ARM,Armenia,3276,Corruption,Value,17.5,17.6,16.9,19.9,16.9,15.4,16.4,10.1,11.3,9.9
+ARM,Armenia,3277,Inadequate Supply of Infrastructure,Value,6.6,6.9,10.5,7.8,7.1,7.3,5,8.5,6.1,6.9
+ARM,Armenia,3278,Inadequately Educated Workforce,Value,5.7,5.2,5.4,7.1,9.3,6.1,6.9,10.8,8.9,7.7
+ARM,Armenia,3279,Inefficient Government Bureaucracy,Value,10.2,14.2,10.8,14,13.6,13.2,10.1,11.2,10.6,8.5
+ARM,Armenia,3280,Policy Instability,Value,5.6,2.2,2.9,2.5,1.2,3.8,2.7,3.4,3.3,3.3
+ARM,Armenia,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,2.8,2.5
+ARM,Armenia,3282,Tax Rates,Value,,,,,,,,,10.5,12.9
+ARM,Armenia,3283,Tax Regulations,Value,15.7,15,16.5,14.5,10.5,11.3,14.3,,10.1,11.5
+ARM,Armenia,3284,Crime and Theft,Value,,,,,,,,,0.3,0.3
+ARM,Armenia,3285,Foreign Currency Regulations,Value,10.3,8.3,10,5.2,4.8,4.8,5.8,10.8,7.9,8.5
+ARM,Armenia,3286,Government Instability/Coups,Value,,,,,,,,,0.1,1
+ARM,Armenia,3287,Inflation,Value,6.4,3.3,4.5,6.4,5.4,3.4,3.3,5.6,6.8,5.9
+ARM,Armenia,3288,Poor Public Health,Value,,,,,,,,,0.9,0.6
+ARM,Armenia,3289,Restrictive Labor Regulations,Value,,,,,,,,,1.3,1.3
+ARM,Armenia,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,6.2
+AUS,Australia,3275,Access to Financing,Value,6.5,14,17.1,10.7,9,6.7,5.2,3.7,6.4,2.2
+AUS,Australia,3276,Corruption,Value,,,,,,,,,0.1,0.5
+AUS,Australia,3277,Inadequate Supply of Infrastructure,Value,15.7,10.5,11.7,10.3,5.4,7.9,10.1,8.2,6.1,7.6
+AUS,Australia,3278,Inadequately Educated Workforce,Value,12.9,8.7,8.3,7.7,5.1,2.4,3.7,3.5,3.9,4.4
+AUS,Australia,3279,Inefficient Government Bureaucracy,Value,8.6,10.7,11.1,12.3,14,13.4,10.7,11.4,11.6,11.7
+AUS,Australia,3280,Policy Instability,Value,,,,,,,,,5,10.2
+AUS,Australia,3281,Poor Work Ethic in Labor Force,Value,4.6,6.4,3.5,7.4,8.6,6.3,9.2,8.9,7.7,8.2
+AUS,Australia,3282,Tax Rates,Value,10.1,11.8,12,12.3,9.8,13.3,11.1,13.4,17.3,14.5
+AUS,Australia,3283,Tax Regulations,Value,7.7,11.2,10.2,8,9.4,11.4,10,,10.3,7.4
+AUS,Australia,3284,Crime and Theft,Value,,,,,,,,,0.1,0.1
+AUS,Australia,3285,Foreign Currency Regulations,Value,,,,,,,,,2.3,0.8
+AUS,Australia,3286,Government Instability/Coups,Value,,,,,,,,,1.7,7.1
+AUS,Australia,3287,Inflation,Value,11.6,2.9,3.9,6.8,1.8,1.7,1.1,1.6,1.1,0.5
+AUS,Australia,3288,Poor Public Health,Value,,,,,,,,,0,0
+AUS,Australia,3289,Restrictive Labor Regulations,Value,16.3,15.8,13.1,16.6,20.3,17.3,25.4,22.5,20.2,20.3
+AUS,Australia,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,4.6
+AUT,Austria,3275,Access to Financing,Value,5.1,12.6,10.2,10.6,5.7,6.8,9.1,4.4,4,2.1
+AUT,Austria,3276,Corruption,Value,,,,,,,,,0.1,0.1
+AUT,Austria,3277,Inadequate Supply of Infrastructure,Value,3.1,2.8,4.8,3,2.8,1.4,1.7,2.1,1.3,1.4
+AUT,Austria,3278,Inadequately Educated Workforce,Value,19.9,7.2,8.6,10.1,13.9,10.4,5.9,4.6,6.5,5.8
+AUT,Austria,3279,Inefficient Government Bureaucracy,Value,8.9,13.8,13.8,15.8,16.2,13.2,14.9,18.7,21.2,21.3
+AUT,Austria,3280,Policy Instability,Value,,,,,,,,,2.5,3.5
+AUT,Austria,3281,Poor Work Ethic in Labor Force,Value,4.3,2.1,4.3,3.9,2.4,4.1,1.1,1.8,2.1,3.6
+AUT,Austria,3282,Tax Rates,Value,17,11.6,11.4,16.6,12.3,15.3,20.8,22.4,19.8,20.4
+AUT,Austria,3283,Tax Regulations,Value,14.9,14.3,12.7,11,9.5,14.5,14.3,,13.1,11.3
+AUT,Austria,3284,Crime and Theft,Value,,,,,,,,,0.4,0
+AUT,Austria,3285,Foreign Currency Regulations,Value,,,,,,,,,0.4,0.4
+AUT,Austria,3286,Government Instability/Coups,Value,,,,,,,,,0.1,0.7
+AUT,Austria,3287,Inflation,Value,3.5,3.9,3,3.5,3.3,1.4,0.9,0.1,0.5,0.7
+AUT,Austria,3288,Poor Public Health,Value,,,,,,,,,0,0.2
+AUT,Austria,3289,Restrictive Labor Regulations,Value,18.8,19.7,21.2,18.3,16.3,18.1,17.9,20.8,23.6,23.2
+AUT,Austria,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,5.1
+AZE,Azerbaijan,3275,Access to Financing,Value,10.7,8.2,14.3,13.6,14.2,10.6,14.6,14.6,8.7,16.5
+AZE,Azerbaijan,3276,Corruption,Value,20.4,19.6,21.6,19.6,23.4,23.6,19.9,19.9,16.6,5.4
+AZE,Azerbaijan,3277,Inadequate Supply of Infrastructure,Value,5.5,8.1,7.9,10.5,10,4.5,10.1,10.1,4.4,4.4
+AZE,Azerbaijan,3278,Inadequately Educated Workforce,Value,7,10.2,10,9.1,8.9,11.2,11.3,11.3,8.1,6.7
+AZE,Azerbaijan,3279,Inefficient Government Bureaucracy,Value,10.2,8.5,10.8,6,7.4,7,4.8,4.8,7,7
+AZE,Azerbaijan,3280,Policy Instability,Value,,,,,,,,,1.7,1.7
+AZE,Azerbaijan,3281,Poor Work Ethic in Labor Force,Value,3.8,7.8,5.9,5.9,6.8,4.9,6.6,6.6,6,4.9
+AZE,Azerbaijan,3282,Tax Rates,Value,11.4,9.8,7.9,10.4,9.8,13.2,11.8,11.8,9.2,5.1
+AZE,Azerbaijan,3283,Tax Regulations,Value,7.1,9.5,11.9,11.2,8.3,10.6,4.6,,9.7,11.5
+AZE,Azerbaijan,3284,Crime and Theft,Value,,,,,,,,,2.7,3.9
+AZE,Azerbaijan,3285,Foreign Currency Regulations,Value,,,,,,,,,10.3,14.8
+AZE,Azerbaijan,3286,Government Instability/Coups,Value,,,,,,,,,0.3,2.6
+AZE,Azerbaijan,3287,Inflation,Value,13.8,8.3,2.5,5.1,2.3,3.6,2,2,10.3,10.4
+AZE,Azerbaijan,3288,Poor Public Health,Value,,,,,,,,,2.1,2.5
+AZE,Azerbaijan,3289,Restrictive Labor Regulations,Value,,,,,,,,,2.2,2.4
+AZE,Azerbaijan,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,0.3
+BDI,Burundi,3275,Access to Financing,Value,13.6,20.5,20,17.8,19.8,24.8,20.8,20.8,15.3,23.6
+BDI,Burundi,3276,Corruption,Value,12.3,16.8,19.5,24,18.5,23.8,26,26,18.2,12.1
+BDI,Burundi,3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,4.2,6
+BDI,Burundi,3278,Inadequately Educated Workforce,Value,,,,,,,,,3,2.4
+BDI,Burundi,3279,Inefficient Government Bureaucracy,Value,1.7,6.8,5.8,6.1,6.9,3.1,2.4,2.4,3.9,3.2
+BDI,Burundi,3280,Policy Instability,Value,19.6,14.1,10.6,8.7,9.8,5.3,14.3,14.3,23.4,11.6
+BDI,Burundi,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,1.6,1.8
+BDI,Burundi,3282,Tax Rates,Value,2.5,2.6,7.4,6.9,9.3,9.2,7.6,7.6,4.8,6.5
+BDI,Burundi,3283,Tax Regulations,Value,7.8,3.8,10.5,5.3,5,1.3,2.4,,0.5,1.6
+BDI,Burundi,3284,Crime and Theft,Value,10.7,6.8,2.8,4.1,1.9,1.6,1.8,1.8,3.1,1.4
+BDI,Burundi,3285,Foreign Currency Regulations,Value,,,,,,,,,2.5,7.1
+BDI,Burundi,3286,Government Instability/Coups,Value,12.8,3.4,2,2.6,1,1.1,2.1,2.1,4.8,7.8
+BDI,Burundi,3287,Inflation,Value,15.7,5.8,5,7.2,9.2,7.5,10,10,9.2,12
+BDI,Burundi,3288,Poor Public Health,Value,,,,,,,,,1.6,0.1
+BDI,Burundi,3289,Restrictive Labor Regulations,Value,,,,,,,,,0.3,1.5
+BDI,Burundi,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,1.4
+BEL,Belgium,3275,Access to Financing,Value,6.1,11.1,5.7,5.1,7.7,7.8,4.8,5.7,3.7,5
+BEL,Belgium,3276,Corruption,Value,,,,,,,,,0,0.4
+BEL,Belgium,3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,7.5,4.4
+BEL,Belgium,3278,Inadequately Educated Workforce,Value,9.8,5.1,5.8,8.1,4.1,2.3,1.4,2.6,2.1,4.1
+BEL,Belgium,3279,Inefficient Government Bureaucracy,Value,12.2,16.2,20.5,14.8,14.3,15,15.9,15,11.1,14.6
+BEL,Belgium,3280,Policy Instability,Value,6.7,7.2,7.7,5.9,7.7,6.1,6.5,4.6,4.5,5.2
+BEL,Belgium,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,0.4,1.6
+BEL,Belgium,3282,Tax Rates,Value,17.3,16.6,16.6,16.6,21.1,20.1,22.5,25.4,27.7,23.7
+BEL,Belgium,3283,Tax Regulations,Value,11.1,9.8,9.9,9.2,15,14.2,17.2,,17.4,16
+BEL,Belgium,3284,Crime and Theft,Value,,,,,,,,,0,0
+BEL,Belgium,3285,Foreign Currency Regulations,Value,,,,,,,,,0.6,0.1
+BEL,Belgium,3286,Government Instability/Coups,Value,4.2,6.8,2.6,4.1,1.7,1.6,0.4,0.2,1,1.7
+BEL,Belgium,3287,Inflation,Value,6.3,3.2,1.1,7.3,4.5,2.7,1.5,1,1,0.4
+BEL,Belgium,3288,Poor Public Health,Value,,,,,,,,,0.7,0.3
+BEL,Belgium,3289,Restrictive Labor Regulations,Value,19.2,18.6,22.1,21.5,14.6,22.2,22.5,20.9,17.4,16.1
+BEL,Belgium,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,6.4
+BEN,Benin,3275,Access to Financing,Value,11.7,20.2,21.5,21.3,17.2,20.1,,16.5,,23.8
+BEN,Benin,3276,Corruption,Value,17.7,15.6,20.7,21.9,23.8,21.4,,14.1,,14.3
+BEN,Benin,3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,,5
+BEN,Benin,3278,Inadequately Educated Workforce,Value,4.6,3.9,2.8,2.8,3.7,3,,4.8,,4.1
+BEN,Benin,3279,Inefficient Government Bureaucracy,Value,5.7,5,10.1,9.3,6.4,12.2,,7.1,,7.9
+BEN,Benin,3280,Policy Instability,Value,4.6,1.2,1.7,1.7,2.7,2.2,,2.8,,7.4
+BEN,Benin,3281,Poor Work Ethic in Labor Force,Value,4.8,0.4,2.4,2.7,3,2.1,,4.3,,3.7
+BEN,Benin,3282,Tax Rates,Value,13.7,15.4,9.3,9.7,14,9.9,,13.8,,14
+BEN,Benin,3283,Tax Regulations,Value,18.5,17.3,11.9,5.5,6.6,11.7,,,,3.2
+BEN,Benin,3284,Crime and Theft,Value,,,,,,,,,,1.8
+BEN,Benin,3285,Foreign Currency Regulations,Value,,,,,,,,,,2.9
+BEN,Benin,3286,Government Instability/Coups,Value,,,,,,,,,,1.8
+BEN,Benin,3287,Inflation,Value,5.1,3.3,8.5,3.9,5.2,2.9,,5.6,,4.7
+BEN,Benin,3288,Poor Public Health,Value,,,,,,,,,,0.4
+BEN,Benin,3289,Restrictive Labor Regulations,Value,,,,,,,,,,1.1
+BEN,Benin,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,3.9
+BFA,Burkina Faso,3275,Access to Financing,Value,19.3,28.1,24.3,25.5,28.6,27.7,29.2,,,
+BFA,Burkina Faso,3276,Corruption,Value,20.1,16.7,15.8,19.3,17.5,17.4,23.6,,,
+BFA,Burkina Faso,3277,Inadequate Supply of Infrastructure,Value,5.3,6.1,9.7,11.3,9.5,9.3,7.2,,,
+BFA,Burkina Faso,3278,Inadequately Educated Workforce,Value,4.1,5.6,8,6.3,4.4,7.2,5.2,,,
+BFA,Burkina Faso,3279,Inefficient Government Bureaucracy,Value,3.2,7.6,7,9.2,7.4,2.4,5.6,,,
+BFA,Burkina Faso,3282,Tax Rates,Value,11.8,8.6,6.6,7.5,11.2,8.2,8.6,,,
+BFA,Burkina Faso,3283,Tax Regulations,Value,14.9,11.7,11.4,6.3,8.2,5.8,5.6,,,
+BFA,Burkina Faso,3284,Crime and Theft,Value,4,0.7,0.7,0.3,1.3,0.9,1,,,
+BFA,Burkina Faso,3287,Inflation,Value,8.6,1.7,3.4,2.6,1.7,1.4,2.2,,,
+BGD,Bangladesh,3275,Access to Financing,Value,9.9,10.8,8.2,6.3,9.5,7.4,7.5,9.7,9.8,7.5
+BGD,Bangladesh,3276,Corruption,Value,18.5,16,14.5,18.5,16.7,22.2,20.7,18.7,16.5,15.7
+BGD,Bangladesh,3277,Inadequate Supply of Infrastructure,Value,11.7,20.3,24.1,21.8,19.9,17.4,21,18.3,20.4,14.4
+BGD,Bangladesh,3278,Inadequately Educated Workforce,Value,5.8,5.2,6.7,6.2,4.3,6.1,4.3,3.9,8.5,11.5
+BGD,Bangladesh,3279,Inefficient Government Bureaucracy,Value,14.7,15.4,14.8,17.3,9.5,15.4,15.3,11.8,9.6,11.7
+BGD,Bangladesh,3280,Policy Instability,Value,11.8,9.3,9.1,6.7,8.1,3.5,5.7,4.7,4.4,5.8
+BGD,Bangladesh,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,3.1,8.3
+BGD,Bangladesh,3282,Tax Rates,Value,,,,,,,,,4.6,4.5
+BGD,Bangladesh,3283,Tax Regulations,Value,4.7,4.7,4.4,3.9,2.5,3.4,2.9,,4.1,3.5
+BGD,Bangladesh,3284,Crime and Theft,Value,,,,,,,,,4,3.6
+BGD,Bangladesh,3285,Foreign Currency Regulations,Value,,,,,,,,,3.6,1.9
+BGD,Bangladesh,3286,Government Instability/Coups,Value,8.7,4.6,5.2,1.8,5.7,6.6,9.3,12.7,3.9,4.3
+BGD,Bangladesh,3287,Inflation,Value,4.7,2.6,2.3,5.1,8.4,2.5,2.7,2.6,1.5,1.6
+BGD,Bangladesh,3288,Poor Public Health,Value,,,,,,,,,0.9,2
+BGD,Bangladesh,3289,Restrictive Labor Regulations,Value,,,,,,,,,1.6,0.5
+BGD,Bangladesh,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,3
+BGR,Bulgaria,3275,Access to Financing,Value,6.6,15.8,13.8,10.2,8.4,12.4,11.4,12.7,8,8.5
+BGR,Bulgaria,3276,Corruption,Value,15.7,15,15.1,13.8,13.1,13,14,11.4,12.9,17.8
+BGR,Bulgaria,3277,Inadequate Supply of Infrastructure,Value,10.2,8.5,9.3,9,11,5.8,8.2,5.4,9.4,3.4
+BGR,Bulgaria,3278,Inadequately Educated Workforce,Value,11.2,7,8,6.7,8.6,7.3,8.7,9.9,10.9,8.2
+BGR,Bulgaria,3279,Inefficient Government Bureaucracy,Value,14,11.2,9.7,11.1,12.9,11.5,13.2,10.7,6.5,12
+BGR,Bulgaria,3280,Policy Instability,Value,3.6,5.2,4.8,3.9,8.1,11.3,9.4,9.6,4.7,6.7
+BGR,Bulgaria,3281,Poor Work Ethic in Labor Force,Value,7,6.8,7.6,6.1,3.5,6.2,4.6,6,9.9,8.8
+BGR,Bulgaria,3282,Tax Rates,Value,,,,,,,,,8.9,9.3
+BGR,Bulgaria,3283,Tax Regulations,Value,,,,,,,,,4.2,5.3
+BGR,Bulgaria,3284,Crime and Theft,Value,,,,,,,,,3.2,2.5
+BGR,Bulgaria,3285,Foreign Currency Regulations,Value,,,,,,,,,0.9,0.3
+BGR,Bulgaria,3286,Government Instability/Coups,Value,7.9,4.3,4.4,4.5,3.2,10.8,7.5,7.1,5.9,5.9
+BGR,Bulgaria,3287,Inflation,Value,10.2,5.4,5.2,10.9,6.1,3.9,3.6,4.3,3.6,3.3
+BGR,Bulgaria,3288,Poor Public Health,Value,,,,,,,,,1.5,0.8
+BGR,Bulgaria,3289,Restrictive Labor Regulations,Value,,,,,,,,,5.6,4.3
+BGR,Bulgaria,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,2.9
+BHR,Bahrain,3275,Access to Financing,Value,,,,,,,,,8.8,12
+BHR,Bahrain,3276,Corruption,Value,5.2,3.8,3.5,3.4,4.3,6.6,4.3,3,7.5,4.7
+BHR,Bahrain,3277,Inadequate Supply of Infrastructure,Value,8.9,9,8.9,9.8,6.1,8.9,9.7,10.3,9.2,6.1
+BHR,Bahrain,3278,Inadequately Educated Workforce,Value,12,11.3,13.1,11.4,8.8,10,12,8.5,10,9.4
+BHR,Bahrain,3279,Inefficient Government Bureaucracy,Value,13.8,14.3,12.3,10.9,12.5,15.6,16,15,13.1,12.9
+BHR,Bahrain,3280,Policy Instability,Value,6.7,6.6,4.7,6.7,13.4,10.4,6.5,7.3,7.9,6.6
+BHR,Bahrain,3281,Poor Work Ethic in Labor Force,Value,11.8,15.9,16.7,13,9.7,10.6,7.9,10.2,10.1,9
+BHR,Bahrain,3282,Tax Rates,Value,,,,,,,,,2.1,2.6
+BHR,Bahrain,3283,Tax Regulations,Value,,,,,,,,,1.5,1.4
+BHR,Bahrain,3284,Crime and Theft,Value,,,,,,,,,2,1.4
+BHR,Bahrain,3285,Foreign Currency Regulations,Value,3.8,0,1.9,1.2,0,0,0.2,0,1.8,2.9
+BHR,Bahrain,3286,Government Instability/Coups,Value,,,,,,,,,2.1,2.2
+BHR,Bahrain,3287,Inflation,Value,7.7,3.8,6.1,5.8,3.7,2.1,0.3,0.4,2.6,2.7
+BHR,Bahrain,3288,Poor Public Health,Value,,,,,,,,,0.5,0.9
+BHR,Bahrain,3289,Restrictive Labor Regulations,Value,25.1,22,16.9,15.9,10.2,8.9,15.1,16.7,11.4,16.4
+BHR,Bahrain,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,8.9
+BIH,Bosnia and Herzegovina,3275,Access to Financing,Value,5.4,2.8,13.5,13.5,17.2,17.2,,7,7.3,8.8
+BIH,Bosnia and Herzegovina,3276,Corruption,Value,9.9,10.6,9.2,9.2,3.8,3.8,,12,13,11.5
+BIH,Bosnia and Herzegovina,3277,Inadequate Supply of Infrastructure,Value,10,3,8.2,8.2,2.3,2.3,,5.2,5.3,2.6
+BIH,Bosnia and Herzegovina,3278,Inadequately Educated Workforce,Value,4.8,3.2,2.4,2.4,0.9,0.9,,4.2,5.3,3.7
+BIH,Bosnia and Herzegovina,3279,Inefficient Government Bureaucracy,Value,13.4,12.5,11.5,11.5,6.4,6.4,,17.1,13.7,14.2
+BIH,Bosnia and Herzegovina,3280,Policy Instability,Value,15.5,16.4,7.5,7.5,11.9,11.9,,10.1,10.5,9.7
+BIH,Bosnia and Herzegovina,3281,Poor Work Ethic in Labor Force,Value,4.7,1.1,2.7,2.7,2.7,2.7,,3.8,3.3,5.1
+BIH,Bosnia and Herzegovina,3282,Tax Rates,Value,,,,,,,,,7.9,10.5
+BIH,Bosnia and Herzegovina,3283,Tax Regulations,Value,5,7.2,9.1,9.1,7.2,7.2,,,8.8,6.9
+BIH,Bosnia and Herzegovina,3284,Crime and Theft,Value,,,,,,,,,5,5.6
+BIH,Bosnia and Herzegovina,3285,Foreign Currency Regulations,Value,,,,,,,,,0.6,1.6
+BIH,Bosnia and Herzegovina,3286,Government Instability/Coups,Value,17.6,25.1,8.6,8.6,11.5,11.5,,9.1,11.1,9.3
+BIH,Bosnia and Herzegovina,3287,Inflation,Value,,,,,,,,,1.4,0.9
+BIH,Bosnia and Herzegovina,3288,Poor Public Health,Value,,,,,,,,,0.8,0.4
+BIH,Bosnia and Herzegovina,3289,Restrictive Labor Regulations,Value,,,,,,,,,3.6,6.5
+BIH,Bosnia and Herzegovina,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,2.5
+BOL,Bolivia,3275,Access to Financing,Value,7.7,15.8,20.2,27.4,25.6,15.2,20.8,6.2,3.6,
+BOL,Bolivia,3276,Corruption,Value,7.9,12,14.2,2.8,3.9,10.3,7.1,15.7,19.1,
+BOL,Bolivia,3277,Inadequate Supply of Infrastructure,Value,5,5.1,5.4,10.8,9.8,7.5,10.3,10.8,2.9,
+BOL,Bolivia,3278,Inadequately Educated Workforce,Value,,,,,,,,,6.2,
+BOL,Bolivia,3279,Inefficient Government Bureaucracy,Value,8.8,10.3,14.9,8.1,11.9,11.9,10.7,18.4,17.2,
+BOL,Bolivia,3280,Policy Instability,Value,18.2,18,10.2,4.8,3.7,8.2,1.9,6.2,3.4,
+BOL,Bolivia,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,5.4,
+BOL,Bolivia,3282,Tax Rates,Value,5,4.3,1.9,0.8,0.9,1.7,1.6,5.1,11.1,
+BOL,Bolivia,3283,Tax Regulations,Value,5.2,5.9,4.5,1.1,0.7,1.8,2.9,,9.2,
+BOL,Bolivia,3284,Crime and Theft,Value,,,,,,,,,1.1,
+BOL,Bolivia,3285,Foreign Currency Regulations,Value,,,,,,,,,0,
+BOL,Bolivia,3286,Government Instability/Coups,Value,13.4,5.6,2.1,0.9,1,0.8,1,0.4,0.2,
+BOL,Bolivia,3287,Inflation,Value,14.1,3.5,1.9,1.4,1.1,1.9,0.9,0.3,0.5,
+BOL,Bolivia,3288,Poor Public Health,Value,,,,,,,,,1.3,
+BOL,Bolivia,3289,Restrictive Labor Regulations,Value,,,,,,,,,15.5,
+BRA,Brazil,3275,Access to Financing,Value,4.2,10.4,5.6,3.3,3.9,2.6,3.4,6,,5.2
+BRA,Brazil,3276,Corruption,Value,6.7,7,6.9,6.4,6,7.3,8.8,12.2,,12.3
+BRA,Brazil,3277,Inadequate Supply of Infrastructure,Value,15.1,9.5,13.8,15.1,17.5,19.7,15,12.2,,10.4
+BRA,Brazil,3278,Inadequately Educated Workforce,Value,5.7,4.9,5.1,8.6,7.4,5.8,6.1,6.9,,4
+BRA,Brazil,3279,Inefficient Government Bureaucracy,Value,13.5,11,11.3,10.5,11.1,14.9,12.8,11.5,,12
+BRA,Brazil,3280,Policy Instability,Value,2.4,1.1,1.7,1,0.9,2.7,2.4,4.9,,7.4
+BRA,Brazil,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,,1.1
+BRA,Brazil,3282,Tax Rates,Value,14.8,18.5,17.7,19.3,17.2,15.1,13.5,15.4,,18.6
+BRA,Brazil,3283,Tax Regulations,Value,19,19,19.3,16.6,18.7,16.8,18.2,,,5.4
+BRA,Brazil,3284,Crime and Theft,Value,,,,,,,,,,1.9
+BRA,Brazil,3285,Foreign Currency Regulations,Value,,,,,,,,,,0.1
+BRA,Brazil,3286,Government Instability/Coups,Value,,,,,,,,,,4.2
+BRA,Brazil,3287,Inflation,Value,,,,,,,,,,2.1
+BRA,Brazil,3288,Poor Public Health,Value,,,,,,,,,,1.1
+BRA,Brazil,3289,Restrictive Labor Regulations,Value,13.8,14,12.9,12.2,10.1,11.7,15,13.5,,12.5
+BRA,Brazil,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,1.8
+BRB,Barbados,3275,Access to Financing,Value,15.5,14.8,17.6,15.1,15.2,20.9,14.8,,8,
+BRB,Barbados,3276,Corruption,Value,,,,,,,,,0.5,
+BRB,Barbados,3277,Inadequate Supply of Infrastructure,Value,5.5,4.1,4.6,4.1,3.6,2.5,2,,2.1,
+BRB,Barbados,3278,Inadequately Educated Workforce,Value,,,,,,,,,7.4,
+BRB,Barbados,3279,Inefficient Government Bureaucracy,Value,15.8,13.9,19.6,14.1,17.8,20.7,19.7,,16.1,
+BRB,Barbados,3280,Policy Instability,Value,,,,,,,,,2.9,
+BRB,Barbados,3281,Poor Work Ethic in Labor Force,Value,15.8,17.7,14.5,15.7,15.1,15.5,15.5,,19.2,
+BRB,Barbados,3282,Tax Rates,Value,6.7,7.8,8.3,11,9.7,7,11.9,,14,
+BRB,Barbados,3283,Tax Regulations,Value,3.7,3.5,5.5,2.9,2.9,2.2,4.3,,3.2,
+BRB,Barbados,3284,Crime and Theft,Value,,,,,,,,,1.1,
+BRB,Barbados,3285,Foreign Currency Regulations,Value,8.6,7.3,10.1,8.6,4.6,6,5.8,,5.3,
+BRB,Barbados,3286,Government Instability/Coups,Value,,,,,,,,,1.7,
+BRB,Barbados,3287,Inflation,Value,12.8,8.8,4.1,12.4,9.2,5.1,6.2,,3.9,
+BRB,Barbados,3288,Poor Public Health,Value,,,,,,,,,0,
+BRB,Barbados,3289,Restrictive Labor Regulations,Value,8.3,10.7,9,6.1,5.3,7.7,7.4,,8.7,
+BRN,Brunei Darussalam,3275,Access to Financing,Value,13.7,15.1,12.3,13,12.7,17.1,,,15.1,17.6
+BRN,Brunei Darussalam,3276,Corruption,Value,2.1,1.6,2.3,2.8,2.1,1.1,,,2.3,0
+BRN,Brunei Darussalam,3277,Inadequate Supply of Infrastructure,Value,4.5,7.4,10.2,7.7,9.1,9.8,,,12.2,11.9
+BRN,Brunei Darussalam,3278,Inadequately Educated Workforce,Value,14.7,10.7,9.8,10.5,10,9.1,,,6.8,7.3
+BRN,Brunei Darussalam,3279,Inefficient Government Bureaucracy,Value,15.6,15.3,15.1,13.2,10.7,13.9,,,17.4,15.2
+BRN,Brunei Darussalam,3280,Policy Instability,Value,2.4,2.3,5.9,5.6,4.6,2.3,,,6.5,6.8
+BRN,Brunei Darussalam,3281,Poor Work Ethic in Labor Force,Value,20.1,17.9,15.5,16.5,13.6,15.3,,,12.4,14.4
+BRN,Brunei Darussalam,3282,Tax Rates,Value,2.1,1.1,1.7,1.8,1.9,0.2,,,0.3,0.8
+BRN,Brunei Darussalam,3283,Tax Regulations,Value,,,,,,,,,0,1.5
+BRN,Brunei Darussalam,3284,Crime and Theft,Value,,,,,,,,,0.5,0.2
+BRN,Brunei Darussalam,3285,Foreign Currency Regulations,Value,,,,,,,,,0.6,0.3
+BRN,Brunei Darussalam,3286,Government Instability/Coups,Value,,,,,,,,,1.3,0.9
+BRN,Brunei Darussalam,3287,Inflation,Value,,,,,,,,,1,1.3
+BRN,Brunei Darussalam,3288,Poor Public Health,Value,,,,,,,,,0.1,0.2
+BRN,Brunei Darussalam,3289,Restrictive Labor Regulations,Value,19.1,20.5,19.3,20.3,20.3,14.6,,,13.1,9.5
+BRN,Brunei Darussalam,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,12.2
+BTN,Bhutan,3275,Access to Financing,Value,,,,,,,,,17,16.4
+BTN,Bhutan,3276,Corruption,Value,,,,,,,,,1.4,1.6
+BTN,Bhutan,3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,11.5,10.8
+BTN,Bhutan,3278,Inadequately Educated Workforce,Value,,,,,,,,,7.8,8
+BTN,Bhutan,3279,Inefficient Government Bureaucracy,Value,,,,,,,,,5.5,5.4
+BTN,Bhutan,3280,Policy Instability,Value,,,,,,,,,5.1,3.5
+BTN,Bhutan,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,10.3,10.5
+BTN,Bhutan,3282,Tax Rates,Value,,,,,,,,,5.9,4.6
+BTN,Bhutan,3283,Tax Regulations,Value,,,,,,,,,3.3,5.2
+BTN,Bhutan,3284,Crime and Theft,Value,,,,,,,,,0.4,1.3
+BTN,Bhutan,3285,Foreign Currency Regulations,Value,,,,,,,,,8.2,8.2
+BTN,Bhutan,3286,Government Instability/Coups,Value,,,,,,,,,0.7,1.2
+BTN,Bhutan,3287,Inflation,Value,,,,,,,,,3,1.5
+BTN,Bhutan,3288,Poor Public Health,Value,,,,,,,,,0.7,0.3
+BTN,Bhutan,3289,Restrictive Labor Regulations,Value,,,,,,,,,13.7,14.1
+BTN,Bhutan,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,7.4
+BWA,Botswana,3275,Access to Financing,Value,10.1,13.6,12.8,13.6,15.9,12.4,9.2,10.4,13.3,11.1
+BWA,Botswana,3276,Corruption,Value,6.3,4.6,4.4,6.6,6.3,4.1,7.4,7.1,7.9,10.5
+BWA,Botswana,3277,Inadequate Supply of Infrastructure,Value,10.5,9.4,10.7,9.4,7.9,8.8,10.4,7.7,10.1,8.4
+BWA,Botswana,3278,Inadequately Educated Workforce,Value,14,14.9,13,13.2,12.2,12.4,12.4,9.3,10.8,8.7
+BWA,Botswana,3279,Inefficient Government Bureaucracy,Value,11.1,12.6,12.9,11.6,10.7,12.9,11.1,12.7,9.5,8.8
+BWA,Botswana,3280,Policy Instability,Value,,,,,,,,,2.8,2.3
+BWA,Botswana,3281,Poor Work Ethic in Labor Force,Value,19,16.5,17.4,16.2,19.8,20.7,18.5,19,16.2,19
+BWA,Botswana,3282,Tax Rates,Value,,,,,,,,,1.9,3
+BWA,Botswana,3283,Tax Regulations,Value,,,,,,,,,0.6,0.6
+BWA,Botswana,3284,Crime and Theft,Value,5.2,4.4,3.6,5.3,2,1.2,3.8,5.1,3.8,3.6
+BWA,Botswana,3285,Foreign Currency Regulations,Value,,,,,,,,,0.7,0.9
+BWA,Botswana,3286,Government Instability/Coups,Value,,,,,,,,,1.4,2.1
+BWA,Botswana,3287,Inflation,Value,7.4,6.5,6.2,6.2,4.3,3,3,2.5,2.8,1.2
+BWA,Botswana,3288,Poor Public Health,Value,,,,,,,,,1.5,2
+BWA,Botswana,3289,Restrictive Labor Regulations,Value,7.2,7.5,8.8,8.3,9.2,9.5,9.9,11.9,8.6,10
+BWA,Botswana,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,7.7
+CAN,Canada,3275,Access to Financing,Value,10.9,22.6,15.4,14.1,14,16.5,15.6,16,15.3,5.8
+CAN,Canada,3276,Corruption,Value,,,,,,,,,0.1,0.7
+CAN,Canada,3277,Inadequate Supply of Infrastructure,Value,5.8,6,7.3,11.4,5,7.8,9.1,7,7.9,9.7
+CAN,Canada,3278,Inadequately Educated Workforce,Value,7.9,4.1,6,8.5,9.9,7.5,7.8,5.7,5.1,4.5
+CAN,Canada,3279,Inefficient Government Bureaucracy,Value,11.8,12.8,13.2,17.7,16.4,12.9,12.5,15.1,15.7,19.3
+CAN,Canada,3280,Policy Instability,Value,4.4,4.7,5.7,8.5,3.5,3.4,3.5,4.7,5,7.9
+CAN,Canada,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,2.8,2.9
+CAN,Canada,3282,Tax Rates,Value,23.6,16.7,18,12.9,9.4,9.9,15.1,9.7,14.8,15.8
+CAN,Canada,3283,Tax Regulations,Value,14.6,12.3,13.1,10,9.1,10.2,9.1,,10.8,9.1
+CAN,Canada,3284,Crime and Theft,Value,,,,,,,,,0.2,0
+CAN,Canada,3285,Foreign Currency Regulations,Value,,,,,,,,,0.6,1.2
+CAN,Canada,3286,Government Instability/Coups,Value,,,,,,,,,0.3,1.7
+CAN,Canada,3287,Inflation,Value,3.9,1.2,2.1,3.3,2.3,0.5,0.9,0.6,0.6,1.2
+CAN,Canada,3288,Poor Public Health,Value,,,,,,,,,0.1,0
+CAN,Canada,3289,Restrictive Labor Regulations,Value,9.5,13.3,12.1,7.2,8.7,9.5,9.7,6.7,4.9,5.8
+CAN,Canada,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,14.4
+CHE,Switzerland,3275,Access to Financing,Value,11.4,14.6,12.4,10.3,7.8,7.7,9.2,10.6,7.6,9.7
+CHE,Switzerland,3276,Corruption,Value,,,,,,,,,0.2,0.6
+CHE,Switzerland,3277,Inadequate Supply of Infrastructure,Value,4.3,4.1,3.8,4.4,2.3,2.8,1.9,2.5,3.2,0.2
+CHE,Switzerland,3278,Inadequately Educated Workforce,Value,17.3,12.9,12,18.3,14.1,15.4,21.2,10.1,12.5,13.7
+CHE,Switzerland,3279,Inefficient Government Bureaucracy,Value,13.1,13.8,14.8,14.6,12.8,14.8,11.3,15.8,15.6,19
+CHE,Switzerland,3280,Policy Instability,Value,,,,,,,,,3.9,5.6
+CHE,Switzerland,3281,Poor Work Ethic in Labor Force,Value,3.1,4.5,4.4,3.6,2.6,4.5,4.2,4.6,3.2,2.7
+CHE,Switzerland,3282,Tax Rates,Value,11.4,6.9,7.8,7.1,6.7,8.7,5.9,6.3,9.3,6.8
+CHE,Switzerland,3283,Tax Regulations,Value,14.7,15.8,14.1,12.1,10.5,13,10.3,,15.6,10.1
+CHE,Switzerland,3284,Crime and Theft,Value,,,,,,,,,0.5,0
+CHE,Switzerland,3285,Foreign Currency Regulations,Value,,,,,,,,,3.4,3.7
+CHE,Switzerland,3286,Government Instability/Coups,Value,,,,,,,,,0,0
+CHE,Switzerland,3287,Inflation,Value,3.2,4.3,2.3,2.5,1.1,1.3,0.7,1.2,0.2,0
+CHE,Switzerland,3288,Poor Public Health,Value,,,,,,,,,0,0.2
+CHE,Switzerland,3289,Restrictive Labor Regulations,Value,13.7,10.3,13.2,14.6,12.7,9.9,11.6,14.4,14.4,18
+CHE,Switzerland,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,9.9
+CHL,Chile,3275,Access to Financing,Value,5.1,6.4,7.8,5.2,9.9,8,6.5,5.6,,2
+CHL,Chile,3276,Corruption,Value,6.5,3.5,2.2,0.9,1.1,1.2,1,1.3,,0.9
+CHL,Chile,3277,Inadequate Supply of Infrastructure,Value,4.1,3.5,4.9,6,5.2,7.3,7.3,6.8,,2
+CHL,Chile,3278,Inadequately Educated Workforce,Value,11.7,13,14.6,16.5,15.6,16.5,16.3,15.8,,7.8
+CHL,Chile,3279,Inefficient Government Bureaucracy,Value,17.6,20.9,18.1,17.6,12.3,13.8,12.5,14.6,,16.8
+CHL,Chile,3280,Policy Instability,Value,,,,,,,,,,15.9
+CHL,Chile,3281,Poor Work Ethic in Labor Force,Value,5.2,4.1,5.2,4.1,3.9,4.4,3.6,4,,2.9
+CHL,Chile,3282,Tax Rates,Value,4.7,5.7,5.8,7.3,7,4.5,7.4,5.7,,8.8
+CHL,Chile,3283,Tax Regulations,Value,,,,,,,,,,11.2
+CHL,Chile,3284,Crime and Theft,Value,,,,,,,,,,3.4
+CHL,Chile,3285,Foreign Currency Regulations,Value,,,,,,,,,,0
+CHL,Chile,3286,Government Instability/Coups,Value,,,,,,,,,,3.5
+CHL,Chile,3287,Inflation,Value,4.9,1.3,0.7,2.4,0.4,0.1,0.5,0.4,,0
+CHL,Chile,3288,Poor Public Health,Value,,,,,,,,,,0.4
+CHL,Chile,3289,Restrictive Labor Regulations,Value,26,28.9,27.3,22.3,18.8,19.2,18.4,18,,17.5
+CHL,Chile,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,6.8
+CHN,China,3275,Access to Financing,Value,13.7,16.8,13.2,11.5,13.1,11.4,15.8,11.6,,10.9
+CHN,China,3276,Corruption,Value,7.4,7.4,9.5,8.5,9.2,10.1,12.4,8.3,,8.2
+CHN,China,3277,Inadequate Supply of Infrastructure,Value,7.2,8.5,8,7.8,6.4,7.1,8.4,9,,7.3
+CHN,China,3278,Inadequately Educated Workforce,Value,6.2,7.3,7.4,6.6,5.2,6.3,4,4,,5
+CHN,China,3279,Inefficient Government Bureaucracy,Value,11.5,11.1,9,10.9,9.7,10.2,6.6,9.2,,8.6
+CHN,China,3280,Policy Instability,Value,13,9.3,10.1,9.9,9.9,6.2,6.3,8.1,,8.4
+CHN,China,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,,4.9
+CHN,China,3282,Tax Rates,Value,6.8,7.1,7.1,6.9,8.1,7.8,6,8.5,,7.8
+CHN,China,3283,Tax Regulations,Value,8,9.6,8.4,6.4,5.7,6.3,9.1,,,7
+CHN,China,3284,Crime and Theft,Value,,,,,,,,,,1.6
+CHN,China,3285,Foreign Currency Regulations,Value,,,,,,,,,,3.9
+CHN,China,3286,Government Instability/Coups,Value,,,,,,,,,,4.1
+CHN,China,3287,Inflation,Value,10.8,5.8,9,11.6,10.2,7,6.4,5.8,,8.5
+CHN,China,3288,Poor Public Health,Value,,,,,,,,,,3
+CHN,China,3289,Restrictive Labor Regulations,Value,,,,,,,,,,4
+CHN,China,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,6.9
+CIV,Cote d'Ivoire,3275,Access to Financing,Value,15.1,17.6,19.8,19.7,24.8,27.6,32.3,29.5,22,
+CIV,Cote d'Ivoire,3276,Corruption,Value,17.9,20.7,19.7,18.1,16.5,19.2,15.1,13.3,17.5,
+CIV,Cote d'Ivoire,3277,Inadequate Supply of Infrastructure,Value,3.1,3.2,3.8,4.5,5,4.9,11,5.7,6.3,
+CIV,Cote d'Ivoire,3278,Inadequately Educated Workforce,Value,,,,,,,,,4.7,
+CIV,Cote d'Ivoire,3279,Inefficient Government Bureaucracy,Value,6.4,6.4,4.2,4.1,4.1,8.8,11.7,7.6,15.2,
+CIV,Cote d'Ivoire,3280,Policy Instability,Value,11,9.8,10.6,10.4,5.9,3.7,0.4,3,1.6,
+CIV,Cote d'Ivoire,3281,Poor Work Ethic in Labor Force,Value,4.3,3.1,2.1,3.5,3.2,1.7,2.7,3.4,2,
+CIV,Cote d'Ivoire,3282,Tax Rates,Value,7,4,4.5,3.8,7.1,9.8,14.8,14.2,14.8,
+CIV,Cote d'Ivoire,3283,Tax Regulations,Value,8.2,7.1,6.4,3.1,4.6,3.8,0.1,,2,
+CIV,Cote d'Ivoire,3284,Crime and Theft,Value,,,,,,,,,4.6,
+CIV,Cote d'Ivoire,3285,Foreign Currency Regulations,Value,,,,,,,,,0.3,
+CIV,Cote d'Ivoire,3286,Government Instability/Coups,Value,16.3,17,17.7,19.6,13.8,5.3,0.3,4.6,1.1,
+CIV,Cote d'Ivoire,3287,Inflation,Value,,,,,,,,,3,
+CIV,Cote d'Ivoire,3288,Poor Public Health,Value,,,,,,,,,0.1,
+CIV,Cote d'Ivoire,3289,Restrictive Labor Regulations,Value,,,,,,,,,2.7,
+CMR,Cameroon,3275,Access to Financing,Value,20.4,24.8,20.7,22.3,19.3,22.2,17.9,13.4,15.2,16
+CMR,Cameroon,3276,Corruption,Value,20.6,20.7,21.3,21.2,22.8,23.5,18.6,20.3,16.8,18.1
+CMR,Cameroon,3277,Inadequate Supply of Infrastructure,Value,6.1,12.1,12.1,12.6,16.2,13.4,12.5,10,9.8,8.9
+CMR,Cameroon,3278,Inadequately Educated Workforce,Value,,,,,,,,,5.5,6
+CMR,Cameroon,3279,Inefficient Government Bureaucracy,Value,10.4,7.2,11.4,9.7,11.2,9.2,6.2,7.1,8.9,5.4
+CMR,Cameroon,3280,Policy Instability,Value,2.6,0.9,0.2,0.8,0.2,0.3,1.9,0.4,1.1,5
+CMR,Cameroon,3281,Poor Work Ethic in Labor Force,Value,2.5,1.9,2.5,1.9,3.2,2.9,5.5,6.7,5.6,1.6
+CMR,Cameroon,3282,Tax Rates,Value,10.7,9.2,10.9,8.4,9.7,7.9,8.6,16.1,11.4,15.5
+CMR,Cameroon,3283,Tax Regulations,Value,15.8,9.5,13.2,10.9,7,9.6,9.6,,8.9,10.4
+CMR,Cameroon,3284,Crime and Theft,Value,,,,,,,,,1.4,1
+CMR,Cameroon,3285,Foreign Currency Regulations,Value,,,,,,,,,2.3,3.3
+CMR,Cameroon,3286,Government Instability/Coups,Value,,,,,,,,,0.4,0.2
+CMR,Cameroon,3287,Inflation,Value,5.3,2.2,2.2,3.5,2,1.2,3.3,1.9,2.8,1.9
+CMR,Cameroon,3288,Poor Public Health,Value,,,,,,,,,1.9,0.9
+CMR,Cameroon,3289,Restrictive Labor Regulations,Value,,,,,,,,,2.9,2.1
+CMR,Cameroon,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,3.6
+COD,"Congo, Dem. Rep.",3275,Access to Financing,Value,,,,,,,,,18.4,15.6
+COD,"Congo, Dem. Rep.",3276,Corruption,Value,,,,,,,,,16.7,14.1
+COD,"Congo, Dem. Rep.",3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,13.4,11.7
+COD,"Congo, Dem. Rep.",3278,Inadequately Educated Workforce,Value,,,,,,,,,4.5,3.5
+COD,"Congo, Dem. Rep.",3279,Inefficient Government Bureaucracy,Value,,,,,,,,,2.2,3.7
+COD,"Congo, Dem. Rep.",3280,Policy Instability,Value,,,,,,,,,7.9,12
+COD,"Congo, Dem. Rep.",3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,3.8,2.6
+COD,"Congo, Dem. Rep.",3282,Tax Rates,Value,,,,,,,,,12.1,8.3
+COD,"Congo, Dem. Rep.",3283,Tax Regulations,Value,,,,,,,,,8.7,3.7
+COD,"Congo, Dem. Rep.",3284,Crime and Theft,Value,,,,,,,,,0.6,1.3
+COD,"Congo, Dem. Rep.",3285,Foreign Currency Regulations,Value,,,,,,,,,0.5,3.1
+COD,"Congo, Dem. Rep.",3286,Government Instability/Coups,Value,,,,,,,,,2.6,10.5
+COD,"Congo, Dem. Rep.",3287,Inflation,Value,,,,,,,,,0.8,5.3
+COD,"Congo, Dem. Rep.",3288,Poor Public Health,Value,,,,,,,,,1.2,1.2
+COD,"Congo, Dem. Rep.",3289,Restrictive Labor Regulations,Value,,,,,,,,,4.3,1.9
+COD,"Congo, Dem. Rep.",40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,1.6
+COL,Colombia,3275,Access to Financing,Value,7.5,12.3,11.1,10.1,8.1,8.1,6.6,6.1,5.2,4.4
+COL,Colombia,3276,Corruption,Value,11.8,12.4,16.6,18,18.1,20.2,19.3,15.5,16.2,17.6
+COL,Colombia,3277,Inadequate Supply of Infrastructure,Value,7.6,7.8,7.5,12.1,9.1,14.6,14.3,11.1,9,8.7
+COL,Colombia,3278,Inadequately Educated Workforce,Value,,,,,,,,,6,3.6
+COL,Colombia,3279,Inefficient Government Bureaucracy,Value,9,10.1,10.7,10.6,12.1,12.2,12.2,9.8,8.7,9.2
+COL,Colombia,3280,Policy Instability,Value,7.9,5.1,2.7,2.8,3,1.8,3,3.6,3,7.9
+COL,Colombia,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,2.4,1.8
+COL,Colombia,3282,Tax Rates,Value,13.2,10.3,11.3,9,7.7,7.7,7.5,18.6,21.1,14.2
+COL,Colombia,3283,Tax Regulations,Value,8.4,9.3,10.1,5.5,5.9,7.4,8.8,,8.6,5.7
+COL,Colombia,3284,Crime and Theft,Value,5.6,3.7,4.6,7.5,7.8,8.1,7.7,4.7,5.3,5.6
+COL,Colombia,3285,Foreign Currency Regulations,Value,,,,,,,,,0.8,2.6
+COL,Colombia,3286,Government Instability/Coups,Value,,,,,,,,,0.9,3.7
+COL,Colombia,3287,Inflation,Value,,,,,,,,,4.5,4.5
+COL,Colombia,3288,Poor Public Health,Value,,,,,,,,,0.9,1.3
+COL,Colombia,3289,Restrictive Labor Regulations,Value,8.4,7.8,6.7,7.3,7.3,6.3,5,4.5,5.4,7.5
+COL,Colombia,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,1.8
+CPV,Cabo Verde,3275,Access to Financing,Value,,,,,,,,,21.6,22.5
+CPV,Cabo Verde,3276,Corruption,Value,,,,,,,,,3,3.3
+CPV,Cabo Verde,3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,6.4,6.1
+CPV,Cabo Verde,3278,Inadequately Educated Workforce,Value,,,,,,,,,6.9,8.2
+CPV,Cabo Verde,3279,Inefficient Government Bureaucracy,Value,,,,,,,,,11.3,13.7
+CPV,Cabo Verde,3280,Policy Instability,Value,,,,,,,,,0.1,1
+CPV,Cabo Verde,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,3,5.3
+CPV,Cabo Verde,3282,Tax Rates,Value,,,,,,,,,17.2,13.2
+CPV,Cabo Verde,3283,Tax Regulations,Value,,,,,,,,,9.8,4.6
+CPV,Cabo Verde,3284,Crime and Theft,Value,,,,,,,,,4,4.9
+CPV,Cabo Verde,3285,Foreign Currency Regulations,Value,,,,,,,,,0.5,0.9
+CPV,Cabo Verde,3286,Government Instability/Coups,Value,,,,,,,,,0.5,0.1
+CPV,Cabo Verde,3287,Inflation,Value,,,,,,,,,1.7,1.7
+CPV,Cabo Verde,3288,Poor Public Health,Value,,,,,,,,,2.2,3.7
+CPV,Cabo Verde,3289,Restrictive Labor Regulations,Value,,,,,,,,,7.5,5.8
+CPV,Cabo Verde,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,5
+CRI,Costa Rica,3275,Access to Financing,Value,6.2,15.5,13.8,11.9,9.6,10,10.9,10.9,10.3,9.3
+CRI,Costa Rica,3276,Corruption,Value,4.9,7.3,5.6,5.3,7,7.4,8.3,5.5,8,4.5
+CRI,Costa Rica,3277,Inadequate Supply of Infrastructure,Value,20.5,16.9,19.5,19,18.6,20.4,23.9,16.7,16.1,18.4
+CRI,Costa Rica,3278,Inadequately Educated Workforce,Value,7.3,3.4,5.1,2.8,2.2,2.8,2.2,2.7,2,3.8
+CRI,Costa Rica,3279,Inefficient Government Bureaucracy,Value,21,24.6,22.4,19.5,21.2,24.3,26.8,21.4,22.9,23.1
+CRI,Costa Rica,3280,Policy Instability,Value,,,,,,,,,2,3.7
+CRI,Costa Rica,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,2.2,1.8
+CRI,Costa Rica,3282,Tax Rates,Value,6.7,4.2,4.6,5.2,5.8,4.8,4.6,12.8,13.4,10.4
+CRI,Costa Rica,3283,Tax Regulations,Value,,,,,,,,,7,7.5
+CRI,Costa Rica,3284,Crime and Theft,Value,4.2,5,4.5,6.8,5.5,3.1,1.1,1.8,1.6,1.4
+CRI,Costa Rica,3285,Foreign Currency Regulations,Value,,,,,,,,,1.9,1.1
+CRI,Costa Rica,3286,Government Instability/Coups,Value,,,,,,,,,0.5,0.7
+CRI,Costa Rica,3287,Inflation,Value,12.1,8.1,5.8,5.5,2.9,3.6,1.8,4.1,1.6,1.6
+CRI,Costa Rica,3288,Poor Public Health,Value,,,,,,,,,0.3,0
+CRI,Costa Rica,3289,Restrictive Labor Regulations,Value,6.8,6.4,5.3,6.1,5.3,6.2,7.6,6.9,5.6,9
+CRI,Costa Rica,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,3.6
+CYP,Cyprus,3275,Access to Financing,Value,8.4,16.3,16.9,11,23.1,19.8,28.7,24.6,24.9,19.5
+CYP,Cyprus,3276,Corruption,Value,,,,,,,,,14.7,7.7
+CYP,Cyprus,3277,Inadequate Supply of Infrastructure,Value,9.5,12.6,6.9,2.3,3.1,5.2,2.1,5.9,4.9,10.9
+CYP,Cyprus,3278,Inadequately Educated Workforce,Value,5.8,4.8,4.6,2.5,2.4,0.8,0.7,2.4,7.9,5.1
+CYP,Cyprus,3279,Inefficient Government Bureaucracy,Value,23.1,19.6,17.2,8.9,14.4,17.3,18.8,18.9,13.8,19.4
+CYP,Cyprus,3280,Policy Instability,Value,,,,,,,,,1.4,2.8
+CYP,Cyprus,3281,Poor Work Ethic in Labor Force,Value,5.5,6.1,4.8,8.1,3.9,3.7,1.7,3.9,4.7,3.4
+CYP,Cyprus,3282,Tax Rates,Value,5.5,5,8.5,12.7,5.7,5.8,5.1,2.5,6.8,1.7
+CYP,Cyprus,3283,Tax Regulations,Value,4.8,5.8,6.1,3.8,1.2,1.8,2.4,,0.9,2.8
+CYP,Cyprus,3284,Crime and Theft,Value,,,,,,,,,0.1,0.3
+CYP,Cyprus,3285,Foreign Currency Regulations,Value,,,,,,,,,0.7,1.7
+CYP,Cyprus,3286,Government Instability/Coups,Value,,,,,,,,,3.8,0.7
+CYP,Cyprus,3287,Inflation,Value,7.6,3.4,5.1,7.1,7.7,5,3.3,1.7,0.1,0.5
+CYP,Cyprus,3288,Poor Public Health,Value,,,,,,,,,0.5,2.3
+CYP,Cyprus,3289,Restrictive Labor Regulations,Value,16.1,10.1,11.2,6.5,11.2,7.6,8.8,6.1,8.6,10.2
+CYP,Cyprus,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,11.1
+CZE,Czech Republic,3275,Access to Financing,Value,4.9,14.9,11.7,8.8,8.1,7,5.8,3.5,3.7,2.8
+CZE,Czech Republic,3276,Corruption,Value,13.3,13.5,15.4,17.2,19.1,17.2,16.3,13.2,11.3,9.6
+CZE,Czech Republic,3277,Inadequate Supply of Infrastructure,Value,5.9,2.6,4.9,2.7,2.4,2.9,3.1,5.2,4.4,4.6
+CZE,Czech Republic,3278,Inadequately Educated Workforce,Value,9.1,5.9,5.5,5.1,4,6.3,6.3,7.1,7.3,7.3
+CZE,Czech Republic,3279,Inefficient Government Bureaucracy,Value,17,15.2,15,15,15.1,12.6,18.6,21.8,19.7,16.9
+CZE,Czech Republic,3280,Policy Instability,Value,,,,,,,,,10.6,9.8
+CZE,Czech Republic,3281,Poor Work Ethic in Labor Force,Value,9.4,6.4,7.4,5.7,5.5,5.9,3.9,5,2.9,1.8
+CZE,Czech Republic,3282,Tax Rates,Value,11.6,8.2,7.8,7.8,8.4,11.3,6.2,5.7,10,10.9
+CZE,Czech Republic,3283,Tax Regulations,Value,7.4,5.5,6.6,9.7,9.2,10.1,8,,16,17.6
+CZE,Czech Republic,3284,Crime and Theft,Value,,,,,,,,,0.6,0.8
+CZE,Czech Republic,3285,Foreign Currency Regulations,Value,,,,,,,,,0.6,0.3
+CZE,Czech Republic,3286,Government Instability/Coups,Value,,,,,,,,,0.2,2.6
+CZE,Czech Republic,3287,Inflation,Value,,,,,,,,,0,0.2
+CZE,Czech Republic,3288,Poor Public Health,Value,,,,,,,,,0.4,0
+CZE,Czech Republic,3289,Restrictive Labor Regulations,Value,9.2,6.9,7.2,8.2,7.6,10.5,9,7.6,7,8.3
+CZE,Czech Republic,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,6.7
+DEU,Germany,3275,Access to Financing,Value,6.8,14.9,16.1,8.7,7.9,9.9,9.9,8.9,5.3,3.9
+DEU,Germany,3276,Corruption,Value,,,,,,,,,2.2,3.2
+DEU,Germany,3277,Inadequate Supply of Infrastructure,Value,1.6,1.6,2.6,3.5,2.4,2.7,3.3,2.8,3.8,5.4
+DEU,Germany,3278,Inadequately Educated Workforce,Value,9.5,6.9,8.2,11,12.6,8.9,10.1,7.6,11.1,8.1
+DEU,Germany,3279,Inefficient Government Bureaucracy,Value,12.2,10.5,10.7,11.2,7.7,10.4,8.9,16,12,9
+DEU,Germany,3280,Policy Instability,Value,1.9,6.6,6.8,5.5,7.3,5.2,6.2,1.6,5.2,4.8
+DEU,Germany,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,5.7,5.8
+DEU,Germany,3282,Tax Rates,Value,17.7,14.4,12.9,11.2,12,12.7,10.9,15.1,14.1,12.1
+DEU,Germany,3283,Tax Regulations,Value,23.4,20.9,20.1,18.1,18.1,19,17.2,,14.3,10.7
+DEU,Germany,3284,Crime and Theft,Value,,,,,,,,,2,3.8
+DEU,Germany,3285,Foreign Currency Regulations,Value,1.5,0.3,0.1,1.1,1.6,1,1.6,1.6,2,4
+DEU,Germany,3286,Government Instability/Coups,Value,,,,,,,,,2.4,4.7
+DEU,Germany,3287,Inflation,Value,,,,,,,,,1.4,4.5
+DEU,Germany,3288,Poor Public Health,Value,,,,,,,,,1.6,3.1
+DEU,Germany,3289,Restrictive Labor Regulations,Value,22.8,19.6,17.4,20.7,16.7,15.6,17.8,14.4,10.6,10.5
+DEU,Germany,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,6.4
+DNK,Denmark,3275,Access to Financing,Value,11.6,25.5,21.5,12.2,19.2,20.5,18.3,11.6,11,9.3
+DNK,Denmark,3276,Corruption,Value,,,,,,,,,0.2,0.5
+DNK,Denmark,3277,Inadequate Supply of Infrastructure,Value,4.3,2,2.7,4,3.6,2.7,3.5,3.3,4.5,5.1
+DNK,Denmark,3278,Inadequately Educated Workforce,Value,11.2,4.8,4,8.2,3.4,3.7,3.5,9,9.5,9.5
+DNK,Denmark,3279,Inefficient Government Bureaucracy,Value,7.3,6.4,9.6,7.5,13,10.5,11.5,11.9,10.6,10.9
+DNK,Denmark,3280,Policy Instability,Value,,,,,,,,,3.6,3.2
+DNK,Denmark,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,5.7,6
+DNK,Denmark,3282,Tax Rates,Value,28.3,25.6,24.7,29.5,18.6,21.2,23.2,19.3,18.1,20.5
+DNK,Denmark,3283,Tax Regulations,Value,19.6,13.7,12.9,15.5,11.1,11.8,14.2,,15.8,13.3
+DNK,Denmark,3284,Crime and Theft,Value,,,,,,,,,0.3,1.8
+DNK,Denmark,3285,Foreign Currency Regulations,Value,2.5,6.9,7.6,0.4,0.8,0.4,0.3,0.8,0.5,0.3
+DNK,Denmark,3286,Government Instability/Coups,Value,,,,,,,,,0.2,3.1
+DNK,Denmark,3287,Inflation,Value,3.3,1.5,1.4,1.8,1.1,0.7,0.5,0.3,0.7,0.9
+DNK,Denmark,3288,Poor Public Health,Value,,,,,,,,,0.6,0.8
+DNK,Denmark,3289,Restrictive Labor Regulations,Value,5.2,9.8,7.6,8.4,11.3,11.6,10.8,11.6,14.3,10.3
+DNK,Denmark,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,4.6
+DOM,Dominican Republic,3275,Access to Financing,Value,5.3,13.5,10.7,8.3,9.9,13.7,11.5,8.4,8,6.1
+DOM,Dominican Republic,3276,Corruption,Value,19.7,17,19.3,16.7,16.4,17.7,10.4,13.5,18.8,16.9
+DOM,Dominican Republic,3277,Inadequate Supply of Infrastructure,Value,5.3,5.5,7.7,7.9,3.8,2.2,4.3,4.2,3.9,3
+DOM,Dominican Republic,3278,Inadequately Educated Workforce,Value,10.3,9.2,5.4,9.6,9.6,10,8.9,12.4,11.8,11.4
+DOM,Dominican Republic,3279,Inefficient Government Bureaucracy,Value,10,12.3,12.8,12.2,13.3,11.9,7.5,9.2,12,15.2
+DOM,Dominican Republic,3280,Policy Instability,Value,8.9,2.1,3.1,2.1,3.2,0.1,1,2.1,1,2.5
+DOM,Dominican Republic,3281,Poor Work Ethic in Labor Force,Value,5.5,3.7,4.9,5.2,4.5,3.1,4.7,5.5,4.1,4.2
+DOM,Dominican Republic,3282,Tax Rates,Value,14.8,12.4,10.3,12.6,9.8,11.2,15.6,16,16.4,13
+DOM,Dominican Republic,3283,Tax Regulations,Value,10.3,8,8.5,3.8,4.4,6,4.4,,7,3.2
+DOM,Dominican Republic,3284,Crime and Theft,Value,,,,,,,,,7,10.8
+DOM,Dominican Republic,3285,Foreign Currency Regulations,Value,,,,,,,,,0.3,1.2
+DOM,Dominican Republic,3286,Government Instability/Coups,Value,,,,,,,,,0.5,2.9
+DOM,Dominican Republic,3287,Inflation,Value,,,,,,,,,1.1,1.7
+DOM,Dominican Republic,3288,Poor Public Health,Value,,,,,,,,,1.6,1.3
+DOM,Dominican Republic,3289,Restrictive Labor Regulations,Value,,,,,,,,,3.7,4.5
+DOM,Dominican Republic,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,2.2
+DZA,Algeria,3275,Access to Financing,Value,20.6,23,16.4,19.2,15.7,15.8,15.1,15.3,13.7,11.8
+DZA,Algeria,3276,Corruption,Value,10.7,10.2,13.8,16,14,11.3,13.9,9.6,13.3,12.8
+DZA,Algeria,3277,Inadequate Supply of Infrastructure,Value,6.4,5.9,6.1,2.7,8.1,6.5,5.8,7.1,5.6,3.8
+DZA,Algeria,3278,Inadequately Educated Workforce,Value,6.5,7.6,10.7,7.7,8.1,9,6.1,6.3,5.7,3.9
+DZA,Algeria,3279,Inefficient Government Bureaucracy,Value,18.2,20.1,21.1,18.4,20.5,17.5,12.6,14.2,17.5,18.9
+DZA,Algeria,3280,Policy Instability,Value,8.3,6.6,8.8,3.8,4.9,7.5,4.7,3.6,6.5,9.4
+DZA,Algeria,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,5.7,4.3
+DZA,Algeria,3282,Tax Rates,Value,6.3,3.2,3.7,6.9,2.4,3.6,9.4,8.1,4.5,6.1
+DZA,Algeria,3283,Tax Regulations,Value,6.9,6.3,2.9,5.5,6.3,3.5,5.1,,4.6,5.3
+DZA,Algeria,3284,Crime and Theft,Value,,,,,,,,,2.2,0.2
+DZA,Algeria,3285,Foreign Currency Regulations,Value,,,,,,,,,6.2,4.4
+DZA,Algeria,3286,Government Instability/Coups,Value,,,,,,,,,0.6,1.7
+DZA,Algeria,3287,Inflation,Value,,,,,,,,,5.7,7.7
+DZA,Algeria,3288,Poor Public Health,Value,,,,,,,,,0.5,0.2
+DZA,Algeria,3289,Restrictive Labor Regulations,Value,6.5,6.6,1.8,2.2,4.3,4.6,6.2,6,5.3,4.5
+DZA,Algeria,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,5
+ECU,Ecuador,3275,Access to Financing,Value,8.7,15.4,6.4,7.1,7.1,6.5,,8.7,12.8,6.9
+ECU,Ecuador,3276,Corruption,Value,14.7,11.7,15.7,16.5,16.5,16.8,,8.6,8.5,11.8
+ECU,Ecuador,3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,1.2,0.3
+ECU,Ecuador,3278,Inadequately Educated Workforce,Value,3.3,3.5,1.6,3.4,3.4,4.4,,7.1,4,4.9
+ECU,Ecuador,3279,Inefficient Government Bureaucracy,Value,9,8.2,10.6,9.1,9.1,6.8,,11.1,11.5,9.9
+ECU,Ecuador,3280,Policy Instability,Value,19.9,19.6,17.8,12.5,12.5,4.3,,5.2,8.5,16.6
+ECU,Ecuador,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,2.9,2.5
+ECU,Ecuador,3282,Tax Rates,Value,4.5,5.1,5.9,5,5,8.3,,13.7,11.6,14.2
+ECU,Ecuador,3283,Tax Regulations,Value,5.6,7.1,10.2,6.9,6.9,8.9,,,8.3,7.2
+ECU,Ecuador,3284,Crime and Theft,Value,,,,,,,,,2.2,0.9
+ECU,Ecuador,3285,Foreign Currency Regulations,Value,,,,,,,,,4.9,2.9
+ECU,Ecuador,3286,Government Instability/Coups,Value,13,5.7,6.7,4.2,4.2,1.1,,1.4,2.6,5.8
+ECU,Ecuador,3287,Inflation,Value,,,,,,,,,2.1,1.2
+ECU,Ecuador,3288,Poor Public Health,Value,,,,,,,,,0.9,0.1
+ECU,Ecuador,3289,Restrictive Labor Regulations,Value,12.1,14.4,13.5,12.9,12.9,9.2,,14.5,14.9,11.8
+ECU,Ecuador,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,2.9
+EGY,"Egypt, Arab Rep.",3275,Access to Financing,Value,6.8,7.6,8.2,10.6,5.6,7.8,10.2,9.2,,7.8
+EGY,"Egypt, Arab Rep.",3276,Corruption,Value,7.2,9.5,19,7.3,6.3,7.5,7.7,4.1,,9.8
+EGY,"Egypt, Arab Rep.",3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,,4.3
+EGY,"Egypt, Arab Rep.",3278,Inadequately Educated Workforce,Value,14.6,10.4,10.1,13.4,5.3,6.4,5.4,10.1,,7.9
+EGY,"Egypt, Arab Rep.",3279,Inefficient Government Bureaucracy,Value,12.1,12.3,6.1,9.1,5.3,1.9,2.7,10.5,,9
+EGY,"Egypt, Arab Rep.",3280,Policy Instability,Value,,,,,,,,,,15.2
+EGY,"Egypt, Arab Rep.",3281,Poor Work Ethic in Labor Force,Value,8.6,7.8,5.6,7.1,4.3,5.4,5.4,10.4,,5
+EGY,"Egypt, Arab Rep.",3282,Tax Rates,Value,7.4,7.3,4.5,2.3,4.6,4.2,3.9,3.2,,7.7
+EGY,"Egypt, Arab Rep.",3283,Tax Regulations,Value,11.4,12,9.2,3,5.4,2.5,3.1,,,3
+EGY,"Egypt, Arab Rep.",3284,Crime and Theft,Value,,,,,,,,,,0.7
+EGY,"Egypt, Arab Rep.",3285,Foreign Currency Regulations,Value,,,,,,,,,,6
+EGY,"Egypt, Arab Rep.",3286,Government Instability/Coups,Value,,,,,,,,,,3.5
+EGY,"Egypt, Arab Rep.",3287,Inflation,Value,11.9,9.9,14.8,4.6,3,3.7,3.2,5,,14.2
+EGY,"Egypt, Arab Rep.",3288,Poor Public Health,Value,,,,,,,,,,0.8
+EGY,"Egypt, Arab Rep.",3289,Restrictive Labor Regulations,Value,8.1,7,5.9,8.2,6.5,2.1,4.1,4.4,,3.3
+EGY,"Egypt, Arab Rep.",40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,1.8
+ESP,Spain,3275,Access to Financing,Value,13,26,23.4,27.7,27.8,27.7,26.7,18.9,,9.6
+ESP,Spain,3276,Corruption,Value,,,,,,,,,,5
+ESP,Spain,3277,Inadequate Supply of Infrastructure,Value,9.3,7.1,2.6,2.6,1.4,1,0.4,1.3,,2
+ESP,Spain,3278,Inadequately Educated Workforce,Value,11.6,7.5,8.6,6.3,3.4,2.5,2.5,4,,6.9
+ESP,Spain,3279,Inefficient Government Bureaucracy,Value,12.6,14.1,15.9,14.6,13.5,17.6,13.6,15.9,,15.2
+ESP,Spain,3280,Policy Instability,Value,6.4,1.3,2.4,5,2.3,1.6,1.5,3.5,,7.4
+ESP,Spain,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,,3.2
+ESP,Spain,3282,Tax Rates,Value,10.9,8.1,8.6,8.3,9.4,10.5,12.8,17.3,,15.1
+ESP,Spain,3283,Tax Regulations,Value,5.5,7.1,7.9,5.9,5,4.9,6.7,,,5.4
+ESP,Spain,3284,Crime and Theft,Value,,,,,,,,,,0
+ESP,Spain,3285,Foreign Currency Regulations,Value,,,,,,,,,,0.1
+ESP,Spain,3286,Government Instability/Coups,Value,,,,,,,,,,3.4
+ESP,Spain,3287,Inflation,Value,9.1,1.7,1.3,3.6,2,0.8,0.3,0,,1
+ESP,Spain,3288,Poor Public Health,Value,,,,,,,,,,0.9
+ESP,Spain,3289,Restrictive Labor Regulations,Value,17.3,19.7,21.6,18.3,16.1,14,14.4,14.7,,13.5
+ESP,Spain,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,11.3
+EST,Estonia,3275,Access to Financing,Value,6.8,21.7,18.9,17.6,15,12,8,11,8,5.4
+EST,Estonia,3276,Corruption,Value,,,,,,,,,1.8,2.2
+EST,Estonia,3277,Inadequate Supply of Infrastructure,Value,4.7,6.8,6.8,8.7,7.2,9.2,7.1,7.6,5,5.7
+EST,Estonia,3278,Inadequately Educated Workforce,Value,18.2,11.3,12.2,19.9,19.2,21.9,24.8,19.7,17.3,17.9
+EST,Estonia,3279,Inefficient Government Bureaucracy,Value,8.9,10.5,10.3,11,10.9,10.5,9.8,10.3,9.9,8.5
+EST,Estonia,3280,Policy Instability,Value,,,,,,,,,3.9,4.3
+EST,Estonia,3281,Poor Work Ethic in Labor Force,Value,8.2,5.7,6.8,7,7.6,5,8.2,7.4,8.3,7.5
+EST,Estonia,3282,Tax Rates,Value,5,6.9,11.5,12.4,9.6,10.8,14,18.3,18.2,18.1
+EST,Estonia,3283,Tax Regulations,Value,4.7,10.5,9.3,3,2.1,1.9,1.8,,4.4,3.6
+EST,Estonia,3284,Crime and Theft,Value,,,,,,,,,0.7,0.5
+EST,Estonia,3285,Foreign Currency Regulations,Value,,,,,,,,,0,0
+EST,Estonia,3286,Government Instability/Coups,Value,,,,,,,,,0.7,9.4
+EST,Estonia,3287,Inflation,Value,19.7,6.6,2.8,9.9,8.5,7.4,4.9,1.2,1.7,1.9
+EST,Estonia,3288,Poor Public Health,Value,,,,,,,,,1.4,1.5
+EST,Estonia,3289,Restrictive Labor Regulations,Value,11.4,9.6,6,4.8,2.2,6.2,6.6,4.4,8.5,5.6
+EST,Estonia,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,7.9
+ETH,Ethiopia,3275,Access to Financing,Value,12.3,13.4,16.8,21.5,14.9,11.4,12.5,10.6,10.7,11.1
+ETH,Ethiopia,3276,Corruption,Value,14.3,6.7,8.8,8,13.9,12.3,12.4,8.2,14.4,15.9
+ETH,Ethiopia,3277,Inadequate Supply of Infrastructure,Value,9.5,6.9,6.7,5.5,7.1,3.7,7.6,7,7.1,6.8
+ETH,Ethiopia,3278,Inadequately Educated Workforce,Value,,,,,,,,,4.2,4.5
+ETH,Ethiopia,3279,Inefficient Government Bureaucracy,Value,13.8,9.7,9.8,10.6,12.8,13.8,14.1,9.3,7.3,10.3
+ETH,Ethiopia,3280,Policy Instability,Value,5.6,4.1,3.5,3.3,9.6,3.5,4,8,2.2,3.2
+ETH,Ethiopia,3281,Poor Work Ethic in Labor Force,Value,6.8,3.1,5,4.3,2.5,4,6,4.5,4.7,6.2
+ETH,Ethiopia,3282,Tax Rates,Value,5.7,12.3,4.5,4.9,3.8,10.4,6.9,8,9.3,4.3
+ETH,Ethiopia,3283,Tax Regulations,Value,,,,,,,,,6.4,3.1
+ETH,Ethiopia,3284,Crime and Theft,Value,,,,,,,,,3.6,1.8
+ETH,Ethiopia,3285,Foreign Currency Regulations,Value,6,16,19,13.9,5.7,16.4,13.8,8.8,10.4,17.4
+ETH,Ethiopia,3286,Government Instability/Coups,Value,,,,,,,,,5.6,2.4
+ETH,Ethiopia,3287,Inflation,Value,13.5,16.7,11.6,12.6,12,10.3,7.1,6.4,6.9,6.8
+ETH,Ethiopia,3288,Poor Public Health,Value,,,,,,,,,0.9,1.5
+ETH,Ethiopia,3289,Restrictive Labor Regulations,Value,,,,,,,,,2,3
+ETH,Ethiopia,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,1.7
+FIN,Finland,3275,Access to Financing,Value,6.4,17.9,9.8,12.7,11.7,16.8,13.7,9.4,10.5,7.7
+FIN,Finland,3276,Corruption,Value,,,,,,,,,0,0
+FIN,Finland,3277,Inadequate Supply of Infrastructure,Value,3.2,2.2,1.8,1.8,0.9,1.6,1.5,1.6,0.5,0.8
+FIN,Finland,3278,Inadequately Educated Workforce,Value,9.9,3.9,3.4,2.2,2.4,2,2,1.5,0.8,1.7
+FIN,Finland,3279,Inefficient Government Bureaucracy,Value,8.8,6.7,13.6,12.4,9.3,7.5,9.3,10.1,9.4,9.8
+FIN,Finland,3280,Policy Instability,Value,4.1,1.5,2.9,2.2,4.6,2.6,5,7.7,9.2,6.1
+FIN,Finland,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,0.3,0.6
+FIN,Finland,3282,Tax Rates,Value,19.7,22.6,24.6,26.9,22.8,22,22.3,23.5,19.1,21.5
+FIN,Finland,3283,Tax Regulations,Value,13,12.7,15.4,11.8,8.7,10.1,12.4,,10.3,11.7
+FIN,Finland,3284,Crime and Theft,Value,,,,,,,,,0,0
+FIN,Finland,3285,Foreign Currency Regulations,Value,,,,,,,,,0,1.2
+FIN,Finland,3286,Government Instability/Coups,Value,,,,,,,,,1.6,2
+FIN,Finland,3287,Inflation,Value,6.9,3.9,0.9,3.1,3.3,1.6,1,0,0.8,0.3
+FIN,Finland,3288,Poor Public Health,Value,,,,,,,,,0,0.3
+FIN,Finland,3289,Restrictive Labor Regulations,Value,23.7,21.6,21.9,23.3,19.3,23.8,21.2,22.9,29.4,27.3
+FIN,Finland,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,8.9
+FRA,France,3275,Access to Financing,Value,9.9,17.7,19.1,14.1,16,13.5,12.1,11.4,3.6,6.5
+FRA,France,3276,Corruption,Value,,,,,,,,,0,1.8
+FRA,France,3277,Inadequate Supply of Infrastructure,Value,1.7,1.7,1.7,2.3,1.8,0.6,1.6,3.1,0.6,0.9
+FRA,France,3278,Inadequately Educated Workforce,Value,5.4,5.3,3.1,4,3.1,1.5,1.9,2.9,3.9,3.1
+FRA,France,3279,Inefficient Government Bureaucracy,Value,10.8,9.5,8.9,9.1,7.5,8.8,10.3,12.1,11.7,11.8
+FRA,France,3280,Policy Instability,Value,4.9,1.7,2,3.1,4.7,7.3,7.1,1.5,1.8,7.7
+FRA,France,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,2.6,2.6
+FRA,France,3282,Tax Rates,Value,17.2,17.3,19.2,20.3,14.5,20.2,17.8,19,23.4,19.6
+FRA,France,3283,Tax Regulations,Value,17.5,15.3,17,17,13,14,15.3,,19.2,17.6
+FRA,France,3284,Crime and Theft,Value,,,,,,,,,0.3,0
+FRA,France,3285,Foreign Currency Regulations,Value,,,,,,,,,0.5,1.1
+FRA,France,3286,Government Instability/Coups,Value,,,,,,,,,0.5,2.1
+FRA,France,3287,Inflation,Value,2.3,2.3,1,1.4,1.8,1.3,0.6,0.8,0.8,0.2
+FRA,France,3288,Poor Public Health,Value,,,,,,,,,0,0
+FRA,France,3289,Restrictive Labor Regulations,Value,26.7,23.4,23.1,23.8,20.6,20.5,24.3,20,23.8,19.1
+FRA,France,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,5.9
+GAB,Gabon,3275,Access to Financing,Value,,,,,,,,,17.7,
+GAB,Gabon,3276,Corruption,Value,,,,,,,,,7.8,
+GAB,Gabon,3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,11.9,
+GAB,Gabon,3278,Inadequately Educated Workforce,Value,,,,,,,,,15.3,
+GAB,Gabon,3279,Inefficient Government Bureaucracy,Value,,,,,,,,,9.2,
+GAB,Gabon,3280,Policy Instability,Value,,,,,,,,,0.7,
+GAB,Gabon,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,6.3,
+GAB,Gabon,3282,Tax Rates,Value,,,,,,,,,4.9,
+GAB,Gabon,3283,Tax Regulations,Value,,,,,,,,,5.6,
+GAB,Gabon,3284,Crime and Theft,Value,,,,,,,,,1,
+GAB,Gabon,3285,Foreign Currency Regulations,Value,,,,,,,,,1,
+GAB,Gabon,3286,Government Instability/Coups,Value,,,,,,,,,0,
+GAB,Gabon,3287,Inflation,Value,,,,,,,,,4.9,
+GAB,Gabon,3288,Poor Public Health,Value,,,,,,,,,0.5,
+GAB,Gabon,3289,Restrictive Labor Regulations,Value,,,,,,,,,7.5,
+GBR,United Kingdom,3275,Access to Financing,Value,9.2,22.1,16.4,14.5,15.3,20.7,17.3,14.1,8.1,8.6
+GBR,United Kingdom,3276,Corruption,Value,,,,,,,,,0.2,0
+GBR,United Kingdom,3277,Inadequate Supply of Infrastructure,Value,6,6.7,4.8,5,6.9,7.8,7.2,9.5,12.6,9.3
+GBR,United Kingdom,3278,Inadequately Educated Workforce,Value,9.9,5.8,5.4,6.8,7.9,9.2,10.8,12.7,10.8,10.3
+GBR,United Kingdom,3279,Inefficient Government Bureaucracy,Value,11.5,14.3,12.8,13.5,8.6,11,8.5,10.1,8.9,10.5
+GBR,United Kingdom,3280,Policy Instability,Value,,,,,,,,,8.7,11.3
+GBR,United Kingdom,3281,Poor Work Ethic in Labor Force,Value,6.7,4.7,3.8,6.1,6,5.9,6.1,5.3,4.4,5.6
+GBR,United Kingdom,3282,Tax Rates,Value,11.4,12.1,18,17.8,15.3,11,12.8,10.8,12.5,10.6
+GBR,United Kingdom,3283,Tax Regulations,Value,13.3,12.6,15.7,11.7,10.2,8.9,14.2,,14.8,11.9
+GBR,United Kingdom,3284,Crime and Theft,Value,,,,,,,,,0.1,1.2
+GBR,United Kingdom,3285,Foreign Currency Regulations,Value,,,,,,,,,1.2,0.6
+GBR,United Kingdom,3286,Government Instability/Coups,Value,,,,,,,,,0,3.5
+GBR,United Kingdom,3287,Inflation,Value,9.2,1.7,3.4,9.4,5.8,2.5,1.4,0.9,0.8,0.9
+GBR,United Kingdom,3288,Poor Public Health,Value,,,,,,,,,2.1,1
+GBR,United Kingdom,3289,Restrictive Labor Regulations,Value,8,5.5,6.4,8.4,6.4,6.7,6.1,7,7,6.3
+GBR,United Kingdom,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,8.4
+GEO,Georgia,3275,Access to Financing,Value,11.6,18.8,14.4,15.4,15.4,19,18.8,13.6,13.2,12
+GEO,Georgia,3276,Corruption,Value,,,,,,,,,0.8,1.7
+GEO,Georgia,3277,Inadequate Supply of Infrastructure,Value,10.5,7.2,5.9,7.8,7.8,7,10.4,11.3,9,7.3
+GEO,Georgia,3278,Inadequately Educated Workforce,Value,12.4,13,13.3,13.4,13.4,14.2,20.2,15.3,15.5,17.3
+GEO,Georgia,3279,Inefficient Government Bureaucracy,Value,7.4,5.9,2.9,3.8,3.8,5.3,4.9,9.2,9.8,9.2
+GEO,Georgia,3280,Policy Instability,Value,12.6,13.7,14.4,9.5,9.5,10,6.5,9.8,8.2,6.5
+GEO,Georgia,3281,Poor Work Ethic in Labor Force,Value,7.6,6.8,10.9,10.2,10.2,12.2,9,5.8,8,9.7
+GEO,Georgia,3282,Tax Rates,Value,,,,,,,,,4.6,3.8
+GEO,Georgia,3283,Tax Regulations,Value,6.2,5.1,9.7,9.6,9.6,4.7,4.2,,3.9,1.8
+GEO,Georgia,3284,Crime and Theft,Value,,,,,,,,,0.3,0
+GEO,Georgia,3285,Foreign Currency Regulations,Value,,,,,,,,,2.8,1.8
+GEO,Georgia,3286,Government Instability/Coups,Value,9,16.1,10.9,4.1,4.1,6.8,3.7,1.7,3.9,6.2
+GEO,Georgia,3287,Inflation,Value,12.5,4.5,3.3,11.1,11.1,0.8,2.3,11.3,10.1,11
+GEO,Georgia,3288,Poor Public Health,Value,,,,,,,,,0,1.3
+GEO,Georgia,3289,Restrictive Labor Regulations,Value,,,,,,,,,1.6,0.8
+GEO,Georgia,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,9.7
+GHA,Ghana,3275,Access to Financing,Value,15.4,20.1,21.1,22.5,17.9,21.4,20.2,19.2,18,16.3
+GHA,Ghana,3276,Corruption,Value,8.7,7.6,8.5,10.8,11.9,11.3,6.2,9.9,14.4,12.3
+GHA,Ghana,3277,Inadequate Supply of Infrastructure,Value,13.8,9.3,12.5,10.2,9.4,4.1,3,9.9,6.3,9.1
+GHA,Ghana,3278,Inadequately Educated Workforce,Value,7.3,5.4,3.9,5.7,2.8,1.4,3.7,2.4,1.6,1.7
+GHA,Ghana,3279,Inefficient Government Bureaucracy,Value,12.7,8.5,8.6,7.6,5.1,11.8,5.2,5.9,3.7,3.5
+GHA,Ghana,3280,Policy Instability,Value,,,,,,,,,5.5,5.1
+GHA,Ghana,3281,Poor Work Ethic in Labor Force,Value,11.3,9.3,7.9,10.4,11,11.9,5.6,3.6,4.9,4.7
+GHA,Ghana,3282,Tax Rates,Value,6.7,6.1,8.5,11.7,11.5,12.4,14.6,10.5,14,15.3
+GHA,Ghana,3283,Tax Regulations,Value,6.4,4.6,4.1,3.5,4.5,3.2,4.9,,6.5,5.5
+GHA,Ghana,3284,Crime and Theft,Value,,,,,,,,,1.9,1
+GHA,Ghana,3285,Foreign Currency Regulations,Value,,,,,,,,,8.8,5.8
+GHA,Ghana,3286,Government Instability/Coups,Value,,,,,,,,,0.5,2.8
+GHA,Ghana,3287,Inflation,Value,5.8,15.7,12.2,7.8,8.8,8,10,12.9,7,7.8
+GHA,Ghana,3288,Poor Public Health,Value,,,,,,,,,1.7,3.9
+GHA,Ghana,3289,Restrictive Labor Regulations,Value,,,,,,,,,0.7,1.3
+GHA,Ghana,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,3.8
+GIN,Guinea,3275,Access to Financing,Value,,,,,,,,,,12.1
+GIN,Guinea,3276,Corruption,Value,,,,,,,,,,22.8
+GIN,Guinea,3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,,10.4
+GIN,Guinea,3278,Inadequately Educated Workforce,Value,,,,,,,,,,10.8
+GIN,Guinea,3279,Inefficient Government Bureaucracy,Value,,,,,,,,,,2.2
+GIN,Guinea,3280,Policy Instability,Value,,,,,,,,,,4.3
+GIN,Guinea,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,,5.1
+GIN,Guinea,3282,Tax Rates,Value,,,,,,,,,,1.6
+GIN,Guinea,3283,Tax Regulations,Value,,,,,,,,,,0
+GIN,Guinea,3284,Crime and Theft,Value,,,,,,,,,,10.1
+GIN,Guinea,3285,Foreign Currency Regulations,Value,,,,,,,,,,2.6
+GIN,Guinea,3286,Government Instability/Coups,Value,,,,,,,,,,9.4
+GIN,Guinea,3287,Inflation,Value,,,,,,,,,,2.4
+GIN,Guinea,3288,Poor Public Health,Value,,,,,,,,,,2.9
+GIN,Guinea,3289,Restrictive Labor Regulations,Value,,,,,,,,,,1.8
+GIN,Guinea,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,1.6
+GMB,"Gambia, The",3275,Access to Financing,Value,24.1,24.6,25,23.3,23.3,26,24.7,22.1,19.8,16.2
+GMB,"Gambia, The",3276,Corruption,Value,5.8,2.7,2.8,4,4.1,5.5,4.1,3.9,4.8,4.7
+GMB,"Gambia, The",3277,Inadequate Supply of Infrastructure,Value,10.9,8.9,7.9,5.4,5.3,4.8,7.3,7,6.4,3
+GMB,"Gambia, The",3278,Inadequately Educated Workforce,Value,11.6,9.2,7.2,7.4,4.6,3.1,3.4,4.8,3.3,2.2
+GMB,"Gambia, The",3279,Inefficient Government Bureaucracy,Value,,,,,,,,,3.4,6.9
+GMB,"Gambia, The",3280,Policy Instability,Value,,,,,,,,,2.1,3
+GMB,"Gambia, The",3281,Poor Work Ethic in Labor Force,Value,7.8,4.6,8.3,8.9,3.7,3.5,5.1,4.4,5,4.6
+GMB,"Gambia, The",3282,Tax Rates,Value,11.6,16.9,16.9,18.5,24.8,22.5,18.8,15.5,14.6,17.9
+GMB,"Gambia, The",3283,Tax Regulations,Value,4.5,12.6,7,5.2,6.6,6,4,,3.6,5.3
+GMB,"Gambia, The",3284,Crime and Theft,Value,,,,,,,,,0.9,0
+GMB,"Gambia, The",3285,Foreign Currency Regulations,Value,4.3,7,3.2,8.5,6,7.6,11.1,12.5,17.6,17
+GMB,"Gambia, The",3286,Government Instability/Coups,Value,,,,,,,,,0.7,6.3
+GMB,"Gambia, The",3287,Inflation,Value,5.9,4.7,7.1,6,4.5,8.2,9.1,12.5,13.6,7.9
+GMB,"Gambia, The",3288,Poor Public Health,Value,,,,,,,,,0.5,0.4
+GMB,"Gambia, The",3289,Restrictive Labor Regulations,Value,,,,,,,,,0.4,2.1
+GMB,"Gambia, The",40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,2.6
+GRC,Greece,3275,Access to Financing,Value,,,,,,,,,14,10
+GRC,Greece,3276,Corruption,Value,12,14,14,13,11.6,6.9,4.3,5.4,3.6,5.5
+GRC,Greece,3277,Inadequate Supply of Infrastructure,Value,6.4,4.8,3.9,3.6,1.8,2.8,2.4,3.9,3.8,2
+GRC,Greece,3278,Inadequately Educated Workforce,Value,3.3,2.3,1.4,0.9,0.8,0.3,1.5,0.8,0.6,0.5
+GRC,Greece,3279,Inefficient Government Bureaucracy,Value,26.5,25.3,27.2,22.1,21,21.2,19.8,17.7,15.6,18.1
+GRC,Greece,3280,Policy Instability,Value,6.1,8.7,11.5,10.6,14,12,14.2,16.4,17.6,13.8
+GRC,Greece,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,0.9,0.8
+GRC,Greece,3282,Tax Rates,Value,6.5,5,3.7,8.5,7.4,9.8,9.4,8.3,17.1,20.3
+GRC,Greece,3283,Tax Regulations,Value,15.6,12,11.1,11.8,11.9,14.5,16.4,,12.1,14.1
+GRC,Greece,3284,Crime and Theft,Value,,,,,,,,,0,0.1
+GRC,Greece,3285,Foreign Currency Regulations,Value,,,,,,,,,1,0.5
+GRC,Greece,3286,Government Instability/Coups,Value,,,,,,,,,9.3,10.8
+GRC,Greece,3287,Inflation,Value,3.2,0.8,0.6,0.7,0.2,0.1,0,0.2,0.1,0
+GRC,Greece,3288,Poor Public Health,Value,,,,,,,,,0.1,0.7
+GRC,Greece,3289,Restrictive Labor Regulations,Value,12.6,14.2,12,8.2,5.7,5.2,4.1,5.4,3.5,1.2
+GRC,Greece,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,1.4
+GTM,Guatemala,3275,Access to Financing,Value,4.2,9.4,4,3.2,4,3.7,3.1,4.1,2.7,4.9
+GTM,Guatemala,3276,Corruption,Value,15.1,16.3,18.5,18.3,17.1,18.1,16.4,18.1,17.7,13.9
+GTM,Guatemala,3277,Inadequate Supply of Infrastructure,Value,7.2,7.1,6.3,6.1,10.6,10.5,11.4,10.5,14.1,12.5
+GTM,Guatemala,3278,Inadequately Educated Workforce,Value,9.2,5.9,6.3,7.5,7.6,8.1,10.4,11.3,7.8,6.2
+GTM,Guatemala,3279,Inefficient Government Bureaucracy,Value,10.2,8.4,10.4,8.3,9.4,11,11,10.8,11,12.6
+GTM,Guatemala,3280,Policy Instability,Value,12.3,7.3,10.6,7.8,2.7,2.6,3.7,5.7,6,9.6
+GTM,Guatemala,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,1.3,2.3
+GTM,Guatemala,3282,Tax Rates,Value,,,,,,,,,1.7,2.4
+GTM,Guatemala,3283,Tax Regulations,Value,4.1,4.9,4.2,4.1,6.8,10,8.4,,5.5,5.7
+GTM,Guatemala,3284,Crime and Theft,Value,19.7,23.4,25.6,28.2,25.5,22,20.4,20.2,19.7,14
+GTM,Guatemala,3285,Foreign Currency Regulations,Value,,,,,,,,,0,0.8
+GTM,Guatemala,3286,Government Instability/Coups,Value,,,,,,,,,0.6,8.6
+GTM,Guatemala,3287,Inflation,Value,,,,,,,,,0,0.4
+GTM,Guatemala,3288,Poor Public Health,Value,,,,,,,,,3.5,1.2
+GTM,Guatemala,3289,Restrictive Labor Regulations,Value,5.1,6,4,5.1,4.6,5.5,5.2,5.9,5.3,2.6
+GTM,Guatemala,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,2.3
+GUY,Guyana,3275,Access to Financing,Value,6.3,10.3,9.24,11.2,10.1,5.4,8.3,11.1,,
+GUY,Guyana,3276,Corruption,Value,13,11.3,8.91,15.3,19,19.7,24.5,12.5,,
+GUY,Guyana,3278,Inadequately Educated Workforce,Value,8.1,9.3,10.79,5.9,6.8,7.2,1.8,3.6,,
+GUY,Guyana,3279,Inefficient Government Bureaucracy,Value,9.1,8,8.75,7.7,6.7,11.4,9.9,13.4,,
+GUY,Guyana,3281,Poor Work Ethic in Labor Force,Value,5.7,10.9,10.14,9.6,8.5,6.2,3,7.2,,
+GUY,Guyana,3282,Tax Rates,Value,11.2,13.9,15.29,12.7,11.5,11.7,15,9.8,,
+GUY,Guyana,3283,Tax Regulations,Value,6.4,8.1,8.34,2.2,,2.2,0.6,,,
+GUY,Guyana,3284,Crime and Theft,Value,23.5,12,11.94,18.2,19.3,9.7,14.3,9.8,,
+GUY,Guyana,3287,Inflation,Value,6.3,3.7,3.6,4.3,2.3,5.5,1.4,0.3,,
+HKG,"Hong Kong SAR, China",3275,Access to Financing,Value,6.2,16.8,5.7,6.8,6.9,2.8,4.4,3.7,4.4,6.5
+HKG,"Hong Kong SAR, China",3276,Corruption,Value,,,,,,,,,1.8,1.2
+HKG,"Hong Kong SAR, China",3277,Inadequate Supply of Infrastructure,Value,4.9,9,4.1,7.6,5.8,4.1,6.5,5.1,6.5,4.4
+HKG,"Hong Kong SAR, China",3278,Inadequately Educated Workforce,Value,14,15.1,11.9,11.9,10.9,10.2,9.9,11.6,9.9,10
+HKG,"Hong Kong SAR, China",3279,Inefficient Government Bureaucracy,Value,12.2,10.9,12.8,11.9,15.2,13.9,14.5,15.6,14.5,16.3
+HKG,"Hong Kong SAR, China",3280,Policy Instability,Value,6.2,9,5,11,4.8,11,9.8,8.1,9.8,5
+HKG,"Hong Kong SAR, China",3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,3.5,5.4
+HKG,"Hong Kong SAR, China",3282,Tax Rates,Value,,,,,,,,,2,1.6
+HKG,"Hong Kong SAR, China",3283,Tax Regulations,Value,6.2,4.8,8.2,2.4,1.8,0.1,1.2,,1.2,0.3
+HKG,"Hong Kong SAR, China",3284,Crime and Theft,Value,,,,,,,,,0.1,0
+HKG,"Hong Kong SAR, China",3285,Foreign Currency Regulations,Value,8.5,3.6,4.3,4.2,1.6,1.3,2.5,1.1,2.5,1.9
+HKG,"Hong Kong SAR, China",3286,Government Instability/Coups,Value,,,,,,,,,2,2.9
+HKG,"Hong Kong SAR, China",3287,Inflation,Value,26.7,10.1,16.9,20.5,20.6,13.8,11.7,10.5,11.7,12.4
+HKG,"Hong Kong SAR, China",3288,Poor Public Health,Value,,,,,,,,,1.1,1.4
+HKG,"Hong Kong SAR, China",3289,Restrictive Labor Regulations,Value,5.4,7.1,13,10.7,6.7,9.2,11.4,8.4,11.4,8.3
+HKG,"Hong Kong SAR, China",40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,22.4
+HND,Honduras,3275,Access to Financing,Value,11,11.9,14,7,9.7,8.4,10.4,8.9,6.9,4.6
+HND,Honduras,3276,Corruption,Value,15,13.2,17.5,16.4,16.4,18,17.7,13.4,13.2,11.5
+HND,Honduras,3277,Inadequate Supply of Infrastructure,Value,7.4,4.9,3.9,4,4.8,4.1,3.5,4.8,3.9,3.3
+HND,Honduras,3278,Inadequately Educated Workforce,Value,6.5,10.8,5,6.3,3.5,3.4,2.7,4.5,4.9,4.2
+HND,Honduras,3279,Inefficient Government Bureaucracy,Value,16.2,12.3,11.9,12.3,11.7,20.1,15.4,13.5,15.3,13.6
+HND,Honduras,3280,Policy Instability,Value,7.3,7.5,7.5,8.9,5.9,7.2,2.3,1.7,4.2,9.2
+HND,Honduras,3281,Poor Work Ethic in Labor Force,Value,4.7,6.1,4.9,3.6,3.5,2.8,2,1.6,1.4,1.1
+HND,Honduras,3282,Tax Rates,Value,,,,,,,,,13.8,15.5
+HND,Honduras,3283,Tax Regulations,Value,,,,,,,,,13,9.7
+HND,Honduras,3284,Crime and Theft,Value,10.8,14.4,13.1,19.2,20.2,15.8,16.5,17,13.5,13.9
+HND,Honduras,3285,Foreign Currency Regulations,Value,,,,,,,,,0.8,1.5
+HND,Honduras,3286,Government Instability/Coups,Value,,,,,,,,,2.3,2.4
+HND,Honduras,3287,Inflation,Value,6.2,2.1,1.7,3.6,2.9,0.9,3.2,1.9,0.8,1.4
+HND,Honduras,3288,Poor Public Health,Value,,,,,,,,,1.5,0.9
+HND,Honduras,3289,Restrictive Labor Regulations,Value,,,,,,,,,3.3,5
+HND,Honduras,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,2.4
+HRV,Croatia,3275,Access to Financing,Value,9.7,16.7,10.9,8.7,10.6,9,10.4,10.2,6.2,5
+HRV,Croatia,3276,Corruption,Value,12.7,15.7,13.2,14.7,12.2,10.9,12.4,5.6,9.4,11.5
+HRV,Croatia,3277,Inadequate Supply of Infrastructure,Value,5.2,4.5,1.4,4.1,1.8,1.9,2.4,2.4,1.4,1.4
+HRV,Croatia,3278,Inadequately Educated Workforce,Value,10,6,2.7,4.7,3.2,2.1,1.5,5.8,3.7,3.7
+HRV,Croatia,3279,Inefficient Government Bureaucracy,Value,18.5,20,18.8,17.8,17.4,19.9,18.6,16.6,20.8,21.8
+HRV,Croatia,3280,Policy Instability,Value,,,,,,,,,14.2,13.4
+HRV,Croatia,3281,Poor Work Ethic in Labor Force,Value,5.7,5.7,2.9,5.2,4.7,4.2,3.3,4.8,3.5,3.2
+HRV,Croatia,3282,Tax Rates,Value,9.6,8.5,13.8,9.5,9.4,10,10.6,12.5,15.3,11
+HRV,Croatia,3283,Tax Regulations,Value,10,9.2,13.5,6,7.6,6.8,11.5,,11.7,12.4
+HRV,Croatia,3284,Crime and Theft,Value,,,,,,,,,1.1,2.4
+HRV,Croatia,3285,Foreign Currency Regulations,Value,,,,,,,,,0,0.3
+HRV,Croatia,3286,Government Instability/Coups,Value,,,,,,,,,0.9,3.3
+HRV,Croatia,3287,Inflation,Value,,,,,,,,,0,0
+HRV,Croatia,3288,Poor Public Health,Value,,,,,,,,,0.5,0.3
+HRV,Croatia,3289,Restrictive Labor Regulations,Value,5.7,7.1,8.8,9.2,9.6,9.5,7.2,9.8,5.9,5
+HRV,Croatia,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,5.2
+HTI,Haiti,3275,Access to Financing,Value,,,,,,,,,,23.4
+HTI,Haiti,3276,Corruption,Value,,,,,,,,,,7.2
+HTI,Haiti,3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,,10.5
+HTI,Haiti,3278,Inadequately Educated Workforce,Value,,,,,,,,,,4.4
+HTI,Haiti,3279,Inefficient Government Bureaucracy,Value,,,,,,,,,,3.9
+HTI,Haiti,3280,Policy Instability,Value,,,,,,,,,,11
+HTI,Haiti,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,,1.6
+HTI,Haiti,3282,Tax Rates,Value,,,,,,,,,,2.2
+HTI,Haiti,3283,Tax Regulations,Value,,,,,,,,,,1.1
+HTI,Haiti,3284,Crime and Theft,Value,,,,,,,,,,4.9
+HTI,Haiti,3285,Foreign Currency Regulations,Value,,,,,,,,,,2.9
+HTI,Haiti,3286,Government Instability/Coups,Value,,,,,,,,,,13.1
+HTI,Haiti,3287,Inflation,Value,,,,,,,,,,9
+HTI,Haiti,3288,Poor Public Health,Value,,,,,,,,,,1.8
+HTI,Haiti,3289,Restrictive Labor Regulations,Value,,,,,,,,,,0.5
+HTI,Haiti,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,2.6
+HUN,Hungary,3275,Access to Financing,Value,7.5,14,14.6,17.6,13.7,16.3,13.5,6.3,5,7.9
+HUN,Hungary,3276,Corruption,Value,6.7,8,12,10.3,9.8,9.4,13,14.6,20.5,14.9
+HUN,Hungary,3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,3.8,3
+HUN,Hungary,3278,Inadequately Educated Workforce,Value,6.1,3.5,4.5,7.5,3.4,3.9,6.9,7.6,8.8,15.2
+HUN,Hungary,3279,Inefficient Government Bureaucracy,Value,12.1,10.8,7.4,9.2,10.5,9.9,10.3,12.2,8.3,6.3
+HUN,Hungary,3280,Policy Instability,Value,13.1,11.9,10.6,10.1,14.5,15.9,15.1,15.7,21,7.7
+HUN,Hungary,3281,Poor Work Ethic in Labor Force,Value,3.8,3.6,5.2,7.1,4.8,5.4,5.8,7.3,3.6,7.2
+HUN,Hungary,3282,Tax Rates,Value,16.4,12.8,17.3,11.4,12.2,12.1,10.1,9.8,5.4,10.4
+HUN,Hungary,3283,Tax Regulations,Value,17.7,15.4,16.7,12.8,11.7,10.7,11,,9.7,9.8
+HUN,Hungary,3284,Crime and Theft,Value,,,,,,,,,0.8,2
+HUN,Hungary,3285,Foreign Currency Regulations,Value,,,,,,,,,0.4,0.7
+HUN,Hungary,3286,Government Instability/Coups,Value,,,,,,,,,0,0.4
+HUN,Hungary,3287,Inflation,Value,6.8,2.4,2.3,3.6,4.3,1.8,0.1,1.3,0.1,1
+HUN,Hungary,3288,Poor Public Health,Value,,,,,,,,,3.4,4.3
+HUN,Hungary,3289,Restrictive Labor Regulations,Value,,,,,,,,,1.5,3.2
+HUN,Hungary,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,5.7
+IDN,Indonesia,3275,Access to Financing,Value,7.5,7.3,7.8,7.2,5.4,6.9,10.6,8.4,8.6,9.2
+IDN,Indonesia,3276,Corruption,Value,10.7,8.7,16,15.4,14.2,19.3,15.7,11.7,11.8,13.8
+IDN,Indonesia,3277,Inadequate Supply of Infrastructure,Value,16.4,14.8,8.4,9.5,8.7,9.1,7.5,9.6,9,8.8
+IDN,Indonesia,3278,Inadequately Educated Workforce,Value,4.4,4.7,5.4,6.3,4.1,4.2,4.1,2.7,5.6,4.3
+IDN,Indonesia,3279,Inefficient Government Bureaucracy,Value,19.3,20.2,16.2,14.3,15.4,15,8.3,10.6,9.3,11.1
+IDN,Indonesia,3280,Policy Instability,Value,5,9,6,7.4,5.4,5.7,6.9,8.7,6.5,8.6
+IDN,Indonesia,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,6.3,5.8
+IDN,Indonesia,3282,Tax Rates,Value,,,,,,,,,6.1,6.4
+IDN,Indonesia,3283,Tax Regulations,Value,6.7,6.8,5.6,6,5.1,2.6,2.9,,4.8,5.2
+IDN,Indonesia,3284,Crime and Theft,Value,,,,,,,,,4,4
+IDN,Indonesia,3285,Foreign Currency Regulations,Value,,,,,,,,,4.6,3.3
+IDN,Indonesia,3286,Government Instability/Coups,Value,,,,,,,,,4.1,6.5
+IDN,Indonesia,3287,Inflation,Value,7.8,6.1,6.7,6.1,5.6,5.2,9.5,7.1,7.6,4.7
+IDN,Indonesia,3288,Poor Public Health,Value,,,,,,,,,4,1.8
+IDN,Indonesia,3289,Restrictive Labor Regulations,Value,9.7,7.1,5.3,3.6,6.8,6.3,4.9,2,3.7,4
+IDN,Indonesia,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,2.5
+IND,India,3275,Access to Financing,Value,,,,,,,,,,8.5
+IND,India,3276,Corruption,Value,10.1,11,17.3,16.7,15.8,17.3,8,10.1,,9.2
+IND,India,3277,Inadequate Supply of Infrastructure,Value,25.5,24.6,18.5,17,20.4,18.1,8.1,7.3,,7
+IND,India,3278,Inadequately Educated Workforce,Value,4.8,2.6,4.6,5.5,5.1,2.2,6.3,5.5,,6.6
+IND,India,3279,Inefficient Government Bureaucracy,Value,14.6,14,14.4,13.5,12.7,17.5,7.6,6.6,,5.9
+IND,India,3280,Policy Instability,Value,5,6,5.6,6.1,7.6,6.6,4.8,9.6,,4.3
+IND,India,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,,7
+IND,India,3282,Tax Rates,Value,4.3,4,3.5,5.3,1.9,3.4,8.7,6.8,,7.9
+IND,India,3283,Tax Regulations,Value,8.8,8,6,8.7,6.2,7.6,4.5,,,4.8
+IND,India,3284,Crime and Theft,Value,,,,,,,,,,4.9
+IND,India,3285,Foreign Currency Regulations,Value,,,,,,,,,,5.7
+IND,India,3286,Government Instability/Coups,Value,,,,,,,,,,6.6
+IND,India,3287,Inflation,Value,5.6,1,4.4,8.5,7.5,4.3,4.5,8.9,,6.4
+IND,India,3288,Poor Public Health,Value,,,,,,,,,,4.9
+IND,India,3289,Restrictive Labor Regulations,Value,9.9,10.6,9.5,6,5.7,5.8,6.5,5.5,,5.5
+IND,India,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,4.7
+IRL,Ireland,3275,Access to Financing,Value,7.3,25.1,26.7,28.6,30.1,32.4,29.9,28.1,15.7,9.7
+IRL,Ireland,3276,Corruption,Value,,,,,,,,,0,0
+IRL,Ireland,3277,Inadequate Supply of Infrastructure,Value,24.1,11.4,13.8,8.8,5.6,12.5,15.8,18.9,26.4,17.7
+IRL,Ireland,3278,Inadequately Educated Workforce,Value,,,,,,,,,2.3,3.6
+IRL,Ireland,3279,Inefficient Government Bureaucracy,Value,16.8,18.5,18.8,17.9,16.4,15.2,9.6,7.3,9.2,11.9
+IRL,Ireland,3280,Policy Instability,Value,3.1,8.2,7,7.1,7.4,2.2,1.5,2.7,4.2,4.3
+IRL,Ireland,3281,Poor Work Ethic in Labor Force,Value,3.5,3.9,4,0.6,2,0.9,0.8,0.4,1.9,1.2
+IRL,Ireland,3282,Tax Rates,Value,4.3,5.5,5.8,8.3,6.7,7.8,13.4,15.5,15.9,16.7
+IRL,Ireland,3283,Tax Regulations,Value,,,,,,,,,4,3.6
+IRL,Ireland,3284,Crime and Theft,Value,,,,,,,,,0,0.7
+IRL,Ireland,3285,Foreign Currency Regulations,Value,,,,,,,,,0.4,2.5
+IRL,Ireland,3286,Government Instability/Coups,Value,,,,,,,,,1.3,8.8
+IRL,Ireland,3287,Inflation,Value,18.4,5.7,3.7,5.4,4.4,3,1.5,2.1,1,2.1
+IRL,Ireland,3288,Poor Public Health,Value,3.9,0.8,1.2,1.8,1,0.4,0.8,1.5,4.4,2.9
+IRL,Ireland,3289,Restrictive Labor Regulations,Value,9.3,10.9,9.9,9.8,10.4,6.5,8.7,5.2,4.2,7
+IRL,Ireland,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,7.5
+IRN,"Iran, Islamic Rep.",3275,Access to Financing,Value,,,,,,,,,14.8,14.6
+IRN,"Iran, Islamic Rep.",3276,Corruption,Value,,,,,,,,,10,9.1
+IRN,"Iran, Islamic Rep.",3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,9.2,9.9
+IRN,"Iran, Islamic Rep.",3278,Inadequately Educated Workforce,Value,,,,,,,,,4,3.6
+IRN,"Iran, Islamic Rep.",3279,Inefficient Government Bureaucracy,Value,,,,,,,,,12.1,10.9
+IRN,"Iran, Islamic Rep.",3280,Policy Instability,Value,,,,,,,,,10.9,10.4
+IRN,"Iran, Islamic Rep.",3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,3.6,4
+IRN,"Iran, Islamic Rep.",3282,Tax Rates,Value,,,,,,,,,4.6,4.7
+IRN,"Iran, Islamic Rep.",3283,Tax Regulations,Value,,,,,,,,,3,3.6
+IRN,"Iran, Islamic Rep.",3284,Crime and Theft,Value,,,,,,,,,1.5,1.5
+IRN,"Iran, Islamic Rep.",3285,Foreign Currency Regulations,Value,,,,,,,,,5.4,4.8
+IRN,"Iran, Islamic Rep.",3286,Government Instability/Coups,Value,,,,,,,,,0.6,2.6
+IRN,"Iran, Islamic Rep.",3287,Inflation,Value,,,,,,,,,12.2,9.6
+IRN,"Iran, Islamic Rep.",3288,Poor Public Health,Value,,,,,,,,,0.1,0.6
+IRN,"Iran, Islamic Rep.",3289,Restrictive Labor Regulations,Value,,,,,,,,,4.8,6.4
+IRN,"Iran, Islamic Rep.",40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,3.7
+ISL,Iceland,3275,Access to Financing,Value,30.2,29,25.2,17.5,11.4,14.7,16,12,8.7,5.1
+ISL,Iceland,3276,Corruption,Value,,,,,,,,,1.7,1.5
+ISL,Iceland,3277,Inadequate Supply of Infrastructure,Value,3.9,0.8,1,0.3,0.7,1.2,1.8,2.4,4.3,2.9
+ISL,Iceland,3278,Inadequately Educated Workforce,Value,2.9,1.5,0.9,1.2,1.5,1.6,2,1.3,1.9,3.8
+ISL,Iceland,3279,Inefficient Government Bureaucracy,Value,4.9,5.5,6.7,9.9,7.1,7.3,6.9,9.2,8.5,12.3
+ISL,Iceland,3280,Policy Instability,Value,4.1,6.2,4.7,8.7,7.7,6.4,5.2,6.4,8.7,7
+ISL,Iceland,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,0.5,0.6
+ISL,Iceland,3282,Tax Rates,Value,5.6,0.6,11.4,14.3,9.9,10.5,9.4,12,14.7,14.3
+ISL,Iceland,3283,Tax Regulations,Value,,,,,,,,,5.6,4.6
+ISL,Iceland,3284,Crime and Theft,Value,,,,,,,,,0.1,0
+ISL,Iceland,3285,Foreign Currency Regulations,Value,9.1,26,18.9,21,25.7,23.9,27,28.7,22.5,17.6
+ISL,Iceland,3286,Government Instability/Coups,Value,,,,,,,,,4,8.8
+ISL,Iceland,3287,Inflation,Value,27,18.5,14.2,4.5,17,16.4,14.9,9.9,12.1,12
+ISL,Iceland,3288,Poor Public Health,Value,,,,,,,,,0.5,0.3
+ISL,Iceland,3289,Restrictive Labor Regulations,Value,4.7,1.3,0.7,0.8,0.1,0.6,1.8,1.6,2.9,3.1
+ISL,Iceland,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,6.1
+ISR,Israel,3275,Access to Financing,Value,7.1,19.1,7,6.8,13.9,12.5,8.1,10.1,,5.7
+ISR,Israel,3276,Corruption,Value,,,,,,,,,,4.3
+ISR,Israel,3277,Inadequate Supply of Infrastructure,Value,11.1,9.2,10.1,10.5,6.5,6.7,9.7,7.9,,4.3
+ISR,Israel,3278,Inadequately Educated Workforce,Value,8,5.9,8.9,9.2,6.5,6.1,5.5,7.7,,10.1
+ISR,Israel,3279,Inefficient Government Bureaucracy,Value,18.6,18.8,21.5,19.5,23.2,24.5,22.1,20.5,,21.6
+ISR,Israel,3280,Policy Instability,Value,9.1,8.8,7.8,9,5.6,7.2,9.9,8.7,,7.6
+ISR,Israel,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,,5.2
+ISR,Israel,3282,Tax Rates,Value,14.6,8.4,10,13.3,11.5,5.5,10.4,14.9,,15.4
+ISR,Israel,3283,Tax Regulations,Value,6.2,6.3,5.7,10.2,5.8,9.3,7.6,,,7.8
+ISR,Israel,3284,Crime and Theft,Value,,,,,,,,,,0
+ISR,Israel,3285,Foreign Currency Regulations,Value,5.5,2.8,3.6,6.5,3.1,0.6,1.2,4.2,,3.1
+ISR,Israel,3286,Government Instability/Coups,Value,,,,,,,,,,4.4
+ISR,Israel,3287,Inflation,Value,,,,,,,,,,0.4
+ISR,Israel,3288,Poor Public Health,Value,,,,,,,,,,0
+ISR,Israel,3289,Restrictive Labor Regulations,Value,6.3,6.3,7.8,5.3,9.6,9.2,7.4,5.4,,8.6
+ISR,Israel,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,1.5
+ITA,Italy,3275,Access to Financing,Value,7.6,17.2,15.2,13.6,14.6,18.6,16.1,12.6,,9.6
+ITA,Italy,3276,Corruption,Value,5.9,4.6,5.8,6.9,7.1,6.5,7.2,7,,4.6
+ITA,Italy,3277,Inadequate Supply of Infrastructure,Value,11.2,11,11.9,10.1,8.3,5.3,5.5,6.2,,5.5
+ITA,Italy,3278,Inadequately Educated Workforce,Value,,,,,,,,,,3.4
+ITA,Italy,3279,Inefficient Government Bureaucracy,Value,21,18.2,19.3,19,16.3,17.1,19.9,19.6,,17.6
+ITA,Italy,3280,Policy Instability,Value,8.5,2.6,3.2,6.8,4.2,6.6,5.8,3.7,,8.2
+ITA,Italy,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,,1.6
+ITA,Italy,3282,Tax Rates,Value,14.7,11.2,14.9,16.1,17.1,22.5,18.7,18.4,,17.3
+ITA,Italy,3283,Tax Regulations,Value,13.7,11.6,13,9.3,8.8,7.9,8.6,,,10.5
+ITA,Italy,3284,Crime and Theft,Value,,,,,,,,,,1.3
+ITA,Italy,3285,Foreign Currency Regulations,Value,,,,,,,,,,0
+ITA,Italy,3286,Government Instability/Coups,Value,,,,,,,,,,3.8
+ITA,Italy,3287,Inflation,Value,3.2,1.1,0.6,0.9,0,0.3,0.6,0.2,,0
+ITA,Italy,3288,Poor Public Health,Value,,,,,,,,,,0.1
+ITA,Italy,3289,Restrictive Labor Regulations,Value,6.4,11.1,9.1,10.7,10.4,9.3,11.1,10.5,,11
+ITA,Italy,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,5.3
+JAM,Jamaica,3275,Access to Financing,Value,8.3,10.8,8.7,12.8,14.8,7.5,7.6,8.5,6.8,9.6
+JAM,Jamaica,3276,Corruption,Value,9.8,11.2,12.7,11.8,11.4,11.8,12,10.5,8,9.7
+JAM,Jamaica,3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,5.2,4.3
+JAM,Jamaica,3278,Inadequately Educated Workforce,Value,8,7.5,8.7,5.8,4.3,4.9,4.4,5.5,7,6.4
+JAM,Jamaica,3279,Inefficient Government Bureaucracy,Value,12.7,11.5,13.1,14,9.8,18.6,15,16.4,14.4,9.2
+JAM,Jamaica,3280,Policy Instability,Value,,,,,,,,,1.3,1.5
+JAM,Jamaica,3281,Poor Work Ethic in Labor Force,Value,8.3,7.7,7.8,7.9,8.6,6,8.9,6.9,7.3,8.6
+JAM,Jamaica,3282,Tax Rates,Value,8.2,8.2,6.6,8.2,10.8,9.2,11.5,11.3,11.9,12.6
+JAM,Jamaica,3283,Tax Regulations,Value,4.1,4.4,2.8,5.8,6.6,7.2,5.2,,5.7,5.2
+JAM,Jamaica,3284,Crime and Theft,Value,22.4,18.8,22.9,19.3,17.7,15.7,16.9,16,16.5,15.5
+JAM,Jamaica,3285,Foreign Currency Regulations,Value,,,,,,,,,3.3,3
+JAM,Jamaica,3286,Government Instability/Coups,Value,,,,,,,,,0.6,1.7
+JAM,Jamaica,3287,Inflation,Value,10.3,11.2,8.2,4.8,4.6,5.8,6.7,7.2,4.1,6.4
+JAM,Jamaica,3288,Poor Public Health,Value,,,,,,,,,1.4,1
+JAM,Jamaica,3289,Restrictive Labor Regulations,Value,,,,,,,,,2.1,1.4
+JAM,Jamaica,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,4.2
+JOR,Jordan,3275,Access to Financing,Value,5.3,10.5,12.6,12.6,10.9,10.9,9.5,18.8,8.7,12.2
+JOR,Jordan,3276,Corruption,Value,,,,,,,,,7.5,6.2
+JOR,Jordan,3277,Inadequate Supply of Infrastructure,Value,6.8,6.3,3.3,2.9,4.9,4.9,6.1,5.6,10.5,7.2
+JOR,Jordan,3278,Inadequately Educated Workforce,Value,11.4,12,10.3,7.5,8.5,8.5,6.6,11.3,4.5,7.9
+JOR,Jordan,3279,Inefficient Government Bureaucracy,Value,11.8,12.2,9.9,12.8,8.8,8.8,8.2,8,9.1,9.2
+JOR,Jordan,3280,Policy Instability,Value,,,,,,,,,13.6,9.8
+JOR,Jordan,3281,Poor Work Ethic in Labor Force,Value,6.1,6.8,7.9,9.1,5.2,5.2,3.4,4.4,3.3,6.4
+JOR,Jordan,3282,Tax Rates,Value,13.6,12.4,13.2,12.1,11.4,11.4,9.5,9.8,13.4,13.9
+JOR,Jordan,3283,Tax Regulations,Value,11.5,11.4,14.6,9.6,7,7,9.7,,7.5,7.1
+JOR,Jordan,3284,Crime and Theft,Value,,,,,,,,,1.2,1.8
+JOR,Jordan,3285,Foreign Currency Regulations,Value,,,,,,,,,1.7,1.6
+JOR,Jordan,3286,Government Instability/Coups,Value,,,,,,,,,2.1,2.5
+JOR,Jordan,3287,Inflation,Value,16,6.8,6.8,7.3,7.5,7.5,5.1,2.3,6.4,4.4
+JOR,Jordan,3288,Poor Public Health,Value,,,,,,,,,2.7,0.2
+JOR,Jordan,3289,Restrictive Labor Regulations,Value,8.6,10.1,9.9,5.6,11.5,11.5,13.4,9.1,6.6,7
+JOR,Jordan,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,2.7
+JPN,Japan,3275,Access to Financing,Value,3.1,7.7,3,2,1.3,2,1.2,2,,2.7
+JPN,Japan,3276,Corruption,Value,,,,,,,,,,0
+JPN,Japan,3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,,1.5
+JPN,Japan,3278,Inadequately Educated Workforce,Value,3.4,1.2,1.4,1.1,0.6,2.3,1.3,2.8,,3.3
+JPN,Japan,3279,Inefficient Government Bureaucracy,Value,19.6,16.7,14.4,13.9,13.9,14.5,13.9,12.1,,13.5
+JPN,Japan,3280,Policy Instability,Value,13.8,16,21.1,24.3,19.9,12.9,8.1,6,,6.2
+JPN,Japan,3281,Poor Work Ethic in Labor Force,Value,3.8,1.5,1.4,1,1.9,0.6,1.1,0.4,,1.2
+JPN,Japan,3282,Tax Rates,Value,17.6,17,17.8,20.2,20.1,20.5,26,25.1,,20.8
+JPN,Japan,3283,Tax Regulations,Value,19.5,17.1,17.8,8.7,7.1,7.4,5.8,,,9.3
+JPN,Japan,3284,Crime and Theft,Value,,,,,,,,,,0
+JPN,Japan,3285,Foreign Currency Regulations,Value,,,,,,,,,,0.2
+JPN,Japan,3286,Government Instability/Coups,Value,5.2,9,10,17.6,13.7,9.7,4.9,1.4,,1.1
+JPN,Japan,3287,Inflation,Value,,,,,,,,,,0
+JPN,Japan,3288,Poor Public Health,Value,,,,,,,,,,0
+JPN,Japan,3289,Restrictive Labor Regulations,Value,7.7,8.1,8.5,7.4,9.6,15.4,18.7,19.2,,21.1
+JPN,Japan,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,19
+KAZ,Kazakhstan,3275,Access to Financing,Value,10.3,11.9,12.1,12.1,9.5,8.5,14.6,13.9,11.5,14.5
+KAZ,Kazakhstan,3276,Corruption,Value,15.7,19.2,17.3,17.3,15.7,18.9,16.7,13.9,12.8,13.8
+KAZ,Kazakhstan,3277,Inadequate Supply of Infrastructure,Value,6.1,1.7,5.3,5.3,4.7,5.3,7.4,3.7,2,3.3
+KAZ,Kazakhstan,3278,Inadequately Educated Workforce,Value,8.1,4.8,12.3,12.3,17.2,13.3,6.8,7.4,5.7,11.9
+KAZ,Kazakhstan,3279,Inefficient Government Bureaucracy,Value,6,7.5,10.8,10.8,9,8.8,8,6.9,4.1,8.7
+KAZ,Kazakhstan,3280,Policy Instability,Value,,,,,,,,,0.6,1.6
+KAZ,Kazakhstan,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,2.9,6.9
+KAZ,Kazakhstan,3282,Tax Rates,Value,11.8,11.1,7.3,7.3,6.1,7.1,5.9,10,13,6.9
+KAZ,Kazakhstan,3283,Tax Regulations,Value,12.9,11,8.9,8.9,9.6,7.4,7.8,,8.9,8.7
+KAZ,Kazakhstan,3284,Crime and Theft,Value,3.1,3.4,3.3,3.3,1.6,3.1,4.3,0.9,3.7,1.5
+KAZ,Kazakhstan,3285,Foreign Currency Regulations,Value,,,,,,,,,7.2,5
+KAZ,Kazakhstan,3286,Government Instability/Coups,Value,,,,,,,,,1.1,1.5
+KAZ,Kazakhstan,3287,Inflation,Value,12.4,14.4,7.6,7.6,4.6,5.2,6.9,13.3,16.6,9.7
+KAZ,Kazakhstan,3288,Poor Public Health,Value,,,,,,,,,1.4,0.1
+KAZ,Kazakhstan,3289,Restrictive Labor Regulations,Value,,,,,,,,,3.8,0.5
+KAZ,Kazakhstan,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,5.3
+KEN,Kenya,3275,Access to Financing,Value,15.6,11.4,12.9,13.5,9,15.7,18.1,12.9,11.5,15.5
+KEN,Kenya,3276,Corruption,Value,17,23.3,21.7,21.2,20.8,21.1,20,19.7,17.8,19.1
+KEN,Kenya,3277,Inadequate Supply of Infrastructure,Value,14.8,12.6,9.5,11,8.1,8.3,9.9,9.7,8.1,9.3
+KEN,Kenya,3278,Inadequately Educated Workforce,Value,,,,,,,,,2.1,2.3
+KEN,Kenya,3279,Inefficient Government Bureaucracy,Value,7.5,7.5,12.2,6.6,5.6,8.4,8.2,7.9,9.6,5.4
+KEN,Kenya,3280,Policy Instability,Value,6.4,3.1,3.4,3.8,4.4,2,3.5,3.1,7.3,4
+KEN,Kenya,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,3.3,2.9
+KEN,Kenya,3282,Tax Rates,Value,9.7,10.1,7.2,10.1,11,13.8,9.9,11.2,13.7,13.7
+KEN,Kenya,3283,Tax Regulations,Value,5.5,4.2,5,1.9,2.3,2.3,3.3,,3.9,4.4
+KEN,Kenya,3284,Crime and Theft,Value,7.5,8,8,10.3,9.3,6.9,10.3,7.4,5.8,6.1
+KEN,Kenya,3285,Foreign Currency Regulations,Value,,,,,,,,,1.3,2.4
+KEN,Kenya,3286,Government Instability/Coups,Value,,,,,,,,,0.9,2
+KEN,Kenya,3287,Inflation,Value,5.3,8.3,7.5,7.6,13.9,9.2,6.8,7.5,6.1,7.3
+KEN,Kenya,3288,Poor Public Health,Value,,,,,,,,,1.7,0.8
+KEN,Kenya,3289,Restrictive Labor Regulations,Value,,,,,,,,,2.8,1.5
+KEN,Kenya,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,3.4
+KGZ,Kyrgyz Republic,3275,Access to Financing,Value,,,,,,,,,4.6,8
+KGZ,Kyrgyz Republic,3276,Corruption,Value,20.8,13.6,17.3,20.4,17.3,21.5,17.4,18.7,20.4,22.4
+KGZ,Kyrgyz Republic,3277,Inadequate Supply of Infrastructure,Value,8.3,4.7,3,1.6,3.4,1.6,1.7,2.8,3.9,5.7
+KGZ,Kyrgyz Republic,3278,Inadequately Educated Workforce,Value,7,3.5,4.3,1.6,5.8,1.9,6.2,3.4,2.4,5.3
+KGZ,Kyrgyz Republic,3279,Inefficient Government Bureaucracy,Value,6.9,7.9,6.2,8.4,9.3,6.6,8.9,8.7,7.3,6.4
+KGZ,Kyrgyz Republic,3280,Policy Instability,Value,10,13.1,16.1,20,17.7,18.6,13.1,11.5,10.1,11.2
+KGZ,Kyrgyz Republic,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,1.7,2.6
+KGZ,Kyrgyz Republic,3282,Tax Rates,Value,8.1,7.1,7.2,3.9,5.4,4.8,4.6,4.3,10.8,5.8
+KGZ,Kyrgyz Republic,3283,Tax Regulations,Value,11.7,11.2,7.5,2.9,2.1,4.8,3.9,,6.2,6.9
+KGZ,Kyrgyz Republic,3284,Crime and Theft,Value,,,,,,,,,5,4.7
+KGZ,Kyrgyz Republic,3285,Foreign Currency Regulations,Value,,,,,,,,,3.2,0.2
+KGZ,Kyrgyz Republic,3286,Government Instability/Coups,Value,7.4,9.9,12.9,22.8,11.3,18.7,20.2,10.9,9.4,10.2
+KGZ,Kyrgyz Republic,3287,Inflation,Value,6.1,5.6,6,2.5,4.4,2.5,4.3,13.7,11.8,5.9
+KGZ,Kyrgyz Republic,3288,Poor Public Health,Value,,,,,,,,,0.1,0.2
+KGZ,Kyrgyz Republic,3289,Restrictive Labor Regulations,Value,,,,,,,,,0.6,0.9
+KGZ,Kyrgyz Republic,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,3.6
+KHM,Cambodia,3275,Access to Financing,Value,4.9,6.6,7.8,10.9,10.9,7.2,12.2,6.9,5.6,4.5
+KHM,Cambodia,3276,Corruption,Value,24.5,23.9,21.5,16.8,21.5,19,19.4,19.4,18.2,15.4
+KHM,Cambodia,3277,Inadequate Supply of Infrastructure,Value,8.9,8.3,12.1,7.4,5.8,11.3,9.4,10.5,6.8,8.4
+KHM,Cambodia,3278,Inadequately Educated Workforce,Value,8.9,9.6,12.2,11.2,12.4,12.2,9.8,13.6,9.6,10.9
+KHM,Cambodia,3279,Inefficient Government Bureaucracy,Value,18.3,17.4,17.7,8.6,11.8,13.3,11.4,8.8,8.7,5.8
+KHM,Cambodia,3280,Policy Instability,Value,5,6.4,2.6,4.7,3.1,7.5,7,5.9,6.3,8.8
+KHM,Cambodia,3281,Poor Work Ethic in Labor Force,Value,4,4.8,4.4,6.5,4.8,4.3,3.1,7.5,7,5
+KHM,Cambodia,3282,Tax Rates,Value,,,,,,,,,6.8,7.3
+KHM,Cambodia,3283,Tax Regulations,Value,4.6,5.3,4.9,9.3,5.9,4.8,3.9,,7.4,6.5
+KHM,Cambodia,3284,Crime and Theft,Value,,,,,,,,,4.4,7.6
+KHM,Cambodia,3285,Foreign Currency Regulations,Value,,,,,,,,,0.6,0.4
+KHM,Cambodia,3286,Government Instability/Coups,Value,,,,,,,,,3.2,4.1
+KHM,Cambodia,3287,Inflation,Value,7.3,5.9,3.4,5.1,3.9,3.3,1.6,4,4.7,3.1
+KHM,Cambodia,3288,Poor Public Health,Value,,,,,,,,,4.7,5.9
+KHM,Cambodia,3289,Restrictive Labor Regulations,Value,,,,,,,,,1.9,0.4
+KHM,Cambodia,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,6
+KOR,"Korea, Rep.",3275,Access to Financing,Value,7.8,15.1,15.3,13.6,12.8,16.5,13.9,12.3,11.4,13.3
+KOR,"Korea, Rep.",3276,Corruption,Value,,,,,,,,,2.4,4.3
+KOR,"Korea, Rep.",3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,4.2,4.7
+KOR,"Korea, Rep.",3278,Inadequately Educated Workforce,Value,5.7,5.4,7.7,3,3.2,2.6,2.1,2.7,2.2,3.9
+KOR,"Korea, Rep.",3279,Inefficient Government Bureaucracy,Value,12.9,16.9,15.3,16.8,13.4,16.1,15.5,16.4,15.7,12.1
+KOR,"Korea, Rep.",3280,Policy Instability,Value,17.3,16.7,15.2,16.7,18.3,15.2,18,17.3,19.2,15.5
+KOR,"Korea, Rep.",3281,Poor Work Ethic in Labor Force,Value,5.8,0.8,2.4,6.2,5.8,6.8,5.6,4.6,5.4,5.7
+KOR,"Korea, Rep.",3282,Tax Rates,Value,6.5,4.2,3.9,4.9,5.2,4.8,4.2,7.3,5.2,6.9
+KOR,"Korea, Rep.",3283,Tax Regulations,Value,8.3,7.8,8.1,7.4,6.2,8.2,8.2,,7.3,5.8
+KOR,"Korea, Rep.",3284,Crime and Theft,Value,,,,,,,,,0.2,0
+KOR,"Korea, Rep.",3285,Foreign Currency Regulations,Value,,,,,,,,,1.5,1.3
+KOR,"Korea, Rep.",3286,Government Instability/Coups,Value,,,,,,,,,0.9,6.5
+KOR,"Korea, Rep.",3287,Inflation,Value,7.9,4.2,3.7,6.9,5.1,3.4,2.5,1.5,1.5,1.3
+KOR,"Korea, Rep.",3288,Poor Public Health,Value,,,,,,,,,0.1,0.1
+KOR,"Korea, Rep.",3289,Restrictive Labor Regulations,Value,11.3,14.6,12.7,9.3,9.3,8.6,11.9,13.3,13,8.7
+KOR,"Korea, Rep.",40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,9.8
+KWT,Kuwait,3275,Access to Financing,Value,8,15.6,17.4,11.3,9.1,11.5,10.3,13.4,5.7,8.1
+KWT,Kuwait,3276,Corruption,Value,11.5,7.2,7.6,10.3,8.6,9,14.3,8.4,12.7,12
+KWT,Kuwait,3277,Inadequate Supply of Infrastructure,Value,5.1,5.3,8.1,7.2,8,5.4,7,6.7,6.7,6.7
+KWT,Kuwait,3278,Inadequately Educated Workforce,Value,10.8,8.6,9.7,7.8,7.1,7.1,8.8,9.9,8,8.2
+KWT,Kuwait,3279,Inefficient Government Bureaucracy,Value,24.7,21.7,21.5,21,20.3,20.9,17.7,21.8,21.2,21.7
+KWT,Kuwait,3280,Policy Instability,Value,5,9,4.9,9.6,13.9,7.3,9.3,7.5,7.7,8.4
+KWT,Kuwait,3281,Poor Work Ethic in Labor Force,Value,5.4,5.1,6.4,6.7,5,7.1,4.3,5.2,8.5,8.7
+KWT,Kuwait,3282,Tax Rates,Value,,,,,,,,,0.4,0.6
+KWT,Kuwait,3283,Tax Regulations,Value,,,,,,,,,0.7,1.3
+KWT,Kuwait,3284,Crime and Theft,Value,,,,,,,,,0.6,0.4
+KWT,Kuwait,3285,Foreign Currency Regulations,Value,,,,,,,,,2.4,0.6
+KWT,Kuwait,3286,Government Instability/Coups,Value,,,,,,,,,3.4,5.5
+KWT,Kuwait,3287,Inflation,Value,5.3,2.7,2,0.8,1.7,0.4,0.3,0.4,1.3,0.9
+KWT,Kuwait,3288,Poor Public Health,Value,,,,,,,,,0.4,0.2
+KWT,Kuwait,3289,Restrictive Labor Regulations,Value,17.7,17.6,17.3,17.1,16.5,18,16.7,18.4,14.7,11.5
+KWT,Kuwait,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,4.9
+LAO,Lao PDR,3275,Access to Financing,Value,,,,,,,,,12.3,10.1
+LAO,Lao PDR,3276,Corruption,Value,,,,,,,,,4.2,6.9
+LAO,Lao PDR,3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,7.8,7.5
+LAO,Lao PDR,3278,Inadequately Educated Workforce,Value,,,,,,,,,20.6,14.1
+LAO,Lao PDR,3279,Inefficient Government Bureaucracy,Value,,,,,,,,,4.1,4.6
+LAO,Lao PDR,3280,Policy Instability,Value,,,,,,,,,3.9,3.3
+LAO,Lao PDR,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,11.9,6.8
+LAO,Lao PDR,3282,Tax Rates,Value,,,,,,,,,8,10.5
+LAO,Lao PDR,3283,Tax Regulations,Value,,,,,,,,,6,9.4
+LAO,Lao PDR,3284,Crime and Theft,Value,,,,,,,,,0.3,1.5
+LAO,Lao PDR,3285,Foreign Currency Regulations,Value,,,,,,,,,3.8,5.8
+LAO,Lao PDR,3286,Government Instability/Coups,Value,,,,,,,,,0.7,1.5
+LAO,Lao PDR,3287,Inflation,Value,,,,,,,,,3.3,5.5
+LAO,Lao PDR,3288,Poor Public Health,Value,,,,,,,,,3.4,4.1
+LAO,Lao PDR,3289,Restrictive Labor Regulations,Value,,,,,,,,,4.8,4.3
+LAO,Lao PDR,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,4.2
+LBN,Lebanon,3275,Access to Financing,Value,,,,,,,,,3.6,3.4
+LBN,Lebanon,3276,Corruption,Value,,,,,,,,,16.7,14.5
+LBN,Lebanon,3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,14,13.9
+LBN,Lebanon,3278,Inadequately Educated Workforce,Value,,,,,,,,,2.8,2.2
+LBN,Lebanon,3279,Inefficient Government Bureaucracy,Value,,,,,,,,,11.1,10.3
+LBN,Lebanon,3280,Policy Instability,Value,,,,,,,,,8.9,8.9
+LBN,Lebanon,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,5.5,3.9
+LBN,Lebanon,3282,Tax Rates,Value,,,,,,,,,4,4.5
+LBN,Lebanon,3283,Tax Regulations,Value,,,,,,,,,3.4,3.1
+LBN,Lebanon,3284,Crime and Theft,Value,,,,,,,,,1.1,1.3
+LBN,Lebanon,3285,Foreign Currency Regulations,Value,,,,,,,,,0,1
+LBN,Lebanon,3286,Government Instability/Coups,Value,,,,,,,,,15.8,21.2
+LBN,Lebanon,3287,Inflation,Value,,,,,,,,,4.3,5.5
+LBN,Lebanon,3288,Poor Public Health,Value,,,,,,,,,0.7,0.8
+LBN,Lebanon,3289,Restrictive Labor Regulations,Value,,,,,,,,,3.5,3.5
+LBN,Lebanon,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,1.8
+LBR,Liberia,3275,Access to Financing,Value,,,,,,,,,9.3,15.8
+LBR,Liberia,3276,Corruption,Value,,,,,,,,,7.5,10.9
+LBR,Liberia,3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,6.4,10.7
+LBR,Liberia,3278,Inadequately Educated Workforce,Value,,,,,,,,,6.3,7.9
+LBR,Liberia,3279,Inefficient Government Bureaucracy,Value,,,,,,,,,6.8,6.1
+LBR,Liberia,3280,Policy Instability,Value,,,,,,,,,5.8,0.1
+LBR,Liberia,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,6.8,10.8
+LBR,Liberia,3282,Tax Rates,Value,,,,,,,,,9.1,11.1
+LBR,Liberia,3283,Tax Regulations,Value,,,,,,,,,2.6,4.4
+LBR,Liberia,3284,Crime and Theft,Value,,,,,,,,,6.8,4.6
+LBR,Liberia,3285,Foreign Currency Regulations,Value,,,,,,,,,8.1,5.4
+LBR,Liberia,3286,Government Instability/Coups,Value,,,,,,,,,8.4,0.5
+LBR,Liberia,3287,Inflation,Value,,,,,,,,,2.7,4.4
+LBR,Liberia,3288,Poor Public Health,Value,,,,,,,,,3.6,3.4
+LBR,Liberia,3289,Restrictive Labor Regulations,Value,,,,,,,,,4.3,1.3
+LBR,Liberia,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,2.5
+LBY,Libya,3275,Access to Financing,Value,9.2,10.6,8.8,,9.9,8.7,11.4,,,
+LBY,Libya,3276,Corruption,Value,13.5,11.8,20.9,,13,10.1,10,,,
+LBY,Libya,3277,Inadequate Supply of Infrastructure,Value,9.5,12.9,10.4,,9.6,12.2,8,,,
+LBY,Libya,3278,Inadequately Educated Workforce,Value,12.9,5.8,10.9,,9.7,11,10.8,,,
+LBY,Libya,3279,Inefficient Government Bureaucracy,Value,17.1,21.2,16.4,,14.4,12.9,10.6,,,
+LBY,Libya,3280,Policy Instability,Value,13.5,9.7,12.3,,8.8,9.5,10.4,,,
+LBY,Libya,3281,Poor Work Ethic in Labor Force,Value,5.5,5.3,4.5,,5.2,8,6.9,,,
+LBY,Libya,3286,Government Instability/Coups,Value,5.3,4.6,3.3,,8.3,5.2,11.6,,,
+LBY,Libya,3289,Restrictive Labor Regulations,Value,5.9,10.6,7.1,,6.2,7.5,5.1,,,
+LKA,Sri Lanka,3275,Access to Financing,Value,7.3,14.2,10.7,6.5,6.5,12.8,13.1,10.7,9.7,6.7
+LKA,Sri Lanka,3276,Corruption,Value,11.5,7.1,10.5,9.1,9.1,7.1,8.2,8.4,5.6,5.3
+LKA,Sri Lanka,3277,Inadequate Supply of Infrastructure,Value,5.7,7.5,7.2,8.1,8.1,4.7,4.6,3.2,7.6,6.6
+LKA,Sri Lanka,3278,Inadequately Educated Workforce,Value,,,,,,,,,4.4,5.2
+LKA,Sri Lanka,3279,Inefficient Government Bureaucracy,Value,6.4,7.7,9.3,9.9,9.9,10,10.9,13.7,9.1,11.8
+LKA,Sri Lanka,3280,Policy Instability,Value,7.8,7.4,6.3,9.3,9.3,10.5,6.7,8.8,12.9,9.5
+LKA,Sri Lanka,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,6.5,11.1
+LKA,Sri Lanka,3282,Tax Rates,Value,10.4,12.5,15.2,15.7,15.7,11.2,8.4,8.3,8,7.1
+LKA,Sri Lanka,3283,Tax Regulations,Value,9.9,14.6,16.3,14.6,14.6,9.3,9.3,,7.8,5.1
+LKA,Sri Lanka,3284,Crime and Theft,Value,,,,,,,,,1.7,0.7
+LKA,Sri Lanka,3285,Foreign Currency Regulations,Value,,,,,,,,,4.7,3.2
+LKA,Sri Lanka,3286,Government Instability/Coups,Value,6.3,1.5,1.9,1,1,1.4,2.4,3.6,5.2,7.9
+LKA,Sri Lanka,3287,Inflation,Value,20,11.8,7.6,10.8,10.8,9.8,8.6,3.7,7.4,5.5
+LKA,Sri Lanka,3288,Poor Public Health,Value,,,,,,,,,0.1,0.8
+LKA,Sri Lanka,3289,Restrictive Labor Regulations,Value,,,,,,,,,3.7,9.2
+LKA,Sri Lanka,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,4.2
+LSO,Lesotho,3275,Access to Financing,Value,20.8,21.1,23.5,17,13.7,26.1,25,31.5,31.9,31.6
+LSO,Lesotho,3276,Corruption,Value,13.1,10.8,13,9.6,13.2,13.7,21,20.6,20,23.2
+LSO,Lesotho,3277,Inadequate Supply of Infrastructure,Value,8.5,7.1,16.2,12.4,7.1,15.9,14.6,5.6,15.6,12
+LSO,Lesotho,3278,Inadequately Educated Workforce,Value,,,,,,,,,4.4,1.2
+LSO,Lesotho,3279,Inefficient Government Bureaucracy,Value,9.8,7.4,8.3,15.5,7.9,13.8,5.6,6.4,9,7.3
+LSO,Lesotho,3280,Policy Instability,Value,,,,,,,,,4.8,5.3
+LSO,Lesotho,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,1.4,0.6
+LSO,Lesotho,3282,Tax Rates,Value,11.5,7.4,3.8,6.2,8.9,3.1,2,1.6,0.2,0.6
+LSO,Lesotho,3283,Tax Regulations,Value,8.3,6,2.1,3.9,2.4,1.1,0.4,,0.2,0.4
+LSO,Lesotho,3284,Crime and Theft,Value,4.6,7.8,5.2,5,12.5,8,5.3,8.5,0.6,1.8
+LSO,Lesotho,3285,Foreign Currency Regulations,Value,,,,,,,,,0.6,0
+LSO,Lesotho,3286,Government Instability/Coups,Value,,,,,,,,,1.5,12.7
+LSO,Lesotho,3287,Inflation,Value,4.8,6.3,3.2,2.5,6.1,1,1.2,0.6,0.2,0
+LSO,Lesotho,3288,Poor Public Health,Value,,,,,,,,,0.2,0.1
+LSO,Lesotho,3289,Restrictive Labor Regulations,Value,4.8,2.4,4.5,4.6,4.1,0,1.4,0.8,0.3,0
+LSO,Lesotho,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,3.2
+LTU,Lithuania,3275,Access to Financing,Value,,,,,,,,,4.6,5.3
+LTU,Lithuania,3276,Corruption,Value,10.6,7.8,9.3,11.8,10.6,8.5,10.6,8.8,5.3,4.6
+LTU,Lithuania,3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,3.3,2.6
+LTU,Lithuania,3278,Inadequately Educated Workforce,Value,9.3,3.4,2.2,7.4,6.3,6.6,8.9,9.3,9,9.7
+LTU,Lithuania,3279,Inefficient Government Bureaucracy,Value,13.8,14.1,16.3,18.3,14.8,17.2,17.3,16.6,14.1,15.6
+LTU,Lithuania,3280,Policy Instability,Value,5.9,7.7,9.1,3.4,3.7,3.7,3,3.6,4.9,5.2
+LTU,Lithuania,3281,Poor Work Ethic in Labor Force,Value,8.2,2.8,3,3.2,2.9,2.9,3.3,3.8,3.6,3.2
+LTU,Lithuania,3282,Tax Rates,Value,10.1,15.4,13.2,12.8,13.6,13.1,12.5,14.8,17.6,17.6
+LTU,Lithuania,3283,Tax Regulations,Value,7.2,13.5,14.2,13.1,13.5,11.1,9.8,,11.6,11.7
+LTU,Lithuania,3284,Crime and Theft,Value,,,,,,,,,0.8,0.3
+LTU,Lithuania,3285,Foreign Currency Regulations,Value,,,,,,,,,0,0
+LTU,Lithuania,3286,Government Instability/Coups,Value,,,,,,,,,3.9,4.7
+LTU,Lithuania,3287,Inflation,Value,14.4,8,2.8,2.6,3.9,1.3,1.1,1.2,1.6,1.6
+LTU,Lithuania,3288,Poor Public Health,Value,,,,,,,,,0.7,0.8
+LTU,Lithuania,3289,Restrictive Labor Regulations,Value,10.8,6.7,8.8,8.3,11.1,13,13.4,13.5,14.3,13.2
+LTU,Lithuania,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,3.7
+LUX,Luxembourg,3275,Access to Financing,Value,6.3,12.8,13.9,10.6,6.7,8.5,11,10.9,10.9,6.1
+LUX,Luxembourg,3276,Corruption,Value,,,,,,,,,0,0.9
+LUX,Luxembourg,3277,Inadequate Supply of Infrastructure,Value,10.6,10.5,9.9,6,5.4,4.3,3.9,5.9,4.9,9.8
+LUX,Luxembourg,3278,Inadequately Educated Workforce,Value,23.4,19.7,14.9,18.7,11.7,17.4,18.6,21,18.7,23.5
+LUX,Luxembourg,3279,Inefficient Government Bureaucracy,Value,12.8,11.1,15.9,15.7,17.3,15.4,12,13.1,10.4,11.1
+LUX,Luxembourg,3280,Policy Instability,Value,,,,,,,,,0,0
+LUX,Luxembourg,3281,Poor Work Ethic in Labor Force,Value,7.7,2.1,2.1,3,4.6,1.5,2.2,4.8,3.5,3.9
+LUX,Luxembourg,3282,Tax Rates,Value,4.5,2.1,6.2,7.6,3.9,5.1,6.7,6.8,8.2,4.8
+LUX,Luxembourg,3283,Tax Regulations,Value,4.3,2.5,7.1,2.8,1.9,3.6,5.6,,6.6,8.3
+LUX,Luxembourg,3284,Crime and Theft,Value,,,,,,,,,0,0
+LUX,Luxembourg,3285,Foreign Currency Regulations,Value,,,,,,,,,1.6,0.2
+LUX,Luxembourg,3286,Government Instability/Coups,Value,,,,,,,,,0,0
+LUX,Luxembourg,3287,Inflation,Value,9.6,6.1,7,12.2,11.2,6.1,4.1,5.9,3.7,3.9
+LUX,Luxembourg,3288,Poor Public Health,Value,,,,,,,,,0,0
+LUX,Luxembourg,3289,Restrictive Labor Regulations,Value,18.5,25.4,18.3,19.1,17.5,25,22.7,18.4,17.5,18.9
+LUX,Luxembourg,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,8.7
+LVA,Latvia,3275,Access to Financing,Value,6.7,15.4,15.2,18,9.8,13.9,11,11.5,,7.1
+LVA,Latvia,3276,Corruption,Value,8.5,7.6,12,12.2,8.8,10.1,9.3,5.4,,8
+LVA,Latvia,3277,Inadequate Supply of Infrastructure,Value,5.6,3.3,2.3,2.3,6.4,7.7,8,4.7,,2.6
+LVA,Latvia,3278,Inadequately Educated Workforce,Value,7.8,2.4,1.3,3.9,7.7,6.4,8.9,9.2,,7.5
+LVA,Latvia,3279,Inefficient Government Bureaucracy,Value,14.7,15.5,15.3,9.5,14.6,15.7,17.8,14.5,,18.2
+LVA,Latvia,3280,Policy Instability,Value,5.4,9.2,10.1,8.4,5.2,3.8,8.6,7.6,,7.2
+LVA,Latvia,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,,4.6
+LVA,Latvia,3282,Tax Rates,Value,5.3,10,12.7,21.1,16.9,14.3,4.1,15.1,,17.9
+LVA,Latvia,3283,Tax Regulations,Value,11.5,13.5,16.7,5.9,9,10.5,11.9,,,13
+LVA,Latvia,3284,Crime and Theft,Value,,,,,,,,,,0.8
+LVA,Latvia,3285,Foreign Currency Regulations,Value,,,,,,,,,,0
+LVA,Latvia,3286,Government Instability/Coups,Value,,,,,,,,,,3.5
+LVA,Latvia,3287,Inflation,Value,22.4,7.8,1.9,4.3,3.4,1.8,0.5,0.9,,0.5
+LVA,Latvia,3288,Poor Public Health,Value,,,,,,,,,,1.8
+LVA,Latvia,3289,Restrictive Labor Regulations,Value,,,,,,,,,,4.4
+LVA,Latvia,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,2.8
+MAR,Morocco,3275,Access to Financing,Value,11.8,15.9,18.6,18.6,14.8,13.5,16.3,17.9,15.4,11.4
+MAR,Morocco,3276,Corruption,Value,14.7,15.2,17.7,17.7,12.6,15.8,10,12.2,10.5,15.1
+MAR,Morocco,3277,Inadequate Supply of Infrastructure,Value,9.6,10.6,11.6,11.6,4.3,4.1,10.2,4.8,5.7,5.4
+MAR,Morocco,3278,Inadequately Educated Workforce,Value,5.9,8.3,5.7,5.7,11.6,7.9,11.3,11.2,13,10.3
+MAR,Morocco,3279,Inefficient Government Bureaucracy,Value,9.2,8.8,10,10,17.6,19.1,13.9,15.6,12.7,13.8
+MAR,Morocco,3280,Policy Instability,Value,,,,,,,,,0,2
+MAR,Morocco,3281,Poor Work Ethic in Labor Force,Value,5.3,4.4,3.5,3.5,7.1,3.5,4.2,4.4,5.3,5
+MAR,Morocco,3282,Tax Rates,Value,9.9,9.8,9.4,9.4,4.5,7.3,8.4,10,11.5,10.8
+MAR,Morocco,3283,Tax Regulations,Value,13.9,8.2,9.3,9.3,2.4,8.2,4.9,,5.8,5.9
+MAR,Morocco,3284,Crime and Theft,Value,4.9,2.9,1.6,1.6,1,0.7,0,0.4,0.4,1.2
+MAR,Morocco,3285,Foreign Currency Regulations,Value,,,,,,,,,2.5,2.9
+MAR,Morocco,3286,Government Instability/Coups,Value,,,,,,,,,0.1,0.9
+MAR,Morocco,3287,Inflation,Value,,,,,,,,,1.1,1.2
+MAR,Morocco,3288,Poor Public Health,Value,,,,,,,,,1.1,1.5
+MAR,Morocco,3289,Restrictive Labor Regulations,Value,,,,,,,,,3.9,4.5
+MAR,Morocco,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,8.1
+MDA,Moldova,3275,Access to Financing,Value,18.6,,14.2,10,9.1,6.9,6.9,8.1,6.2,8.7
+MDA,Moldova,3276,Corruption,Value,15,,13,16.8,17.9,19.8,22.2,20.1,20.6,20.7
+MDA,Moldova,3277,Inadequate Supply of Infrastructure,Value,10.7,,6.8,6.6,7.1,5.7,4.9,6.2,4.3,7.5
+MDA,Moldova,3278,Inadequately Educated Workforce,Value,6.4,,5.5,6.4,7.8,7,7.1,8.1,3.8,7
+MDA,Moldova,3279,Inefficient Government Bureaucracy,Value,6.8,,10.6,9.2,10.3,7.6,10.7,9,8,7.9
+MDA,Moldova,3280,Policy Instability,Value,8.1,,20.3,19.5,12.6,18.5,12.6,12.8,15.2,13.5
+MDA,Moldova,3281,Poor Work Ethic in Labor Force,Value,3.7,,3.1,3.4,4.3,1.5,2.5,3.2,2.2,1.9
+MDA,Moldova,3282,Tax Rates,Value,,,,,,,,,4.3,5.4
+MDA,Moldova,3283,Tax Regulations,Value,7.9,,5.8,5.4,7.8,7.6,7.7,,4,3.8
+MDA,Moldova,3284,Crime and Theft,Value,,,,,,,,,1.1,1.2
+MDA,Moldova,3285,Foreign Currency Regulations,Value,,,,,,,,,4.3,2.8
+MDA,Moldova,3286,Government Instability/Coups,Value,,,,,,,,,15,9.4
+MDA,Moldova,3287,Inflation,Value,14.8,,2.3,3.6,2.7,1.1,3.4,5.9,6.1,4.1
+MDA,Moldova,3288,Poor Public Health,Value,,,,,,,,,0.8,0.6
+MDA,Moldova,3289,Restrictive Labor Regulations,Value,,,,,,,,,2.4,3.2
+MDA,Moldova,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,2.3
+MDG,Madagascar,3275,Access to Financing,Value,17.5,15,9.9,14.8,14.3,15.3,15.1,15.3,12.6,11.8
+MDG,Madagascar,3276,Corruption,Value,11.4,12.2,13.2,17.3,12.4,16.6,14.9,13.1,14.7,9.2
+MDG,Madagascar,3277,Inadequate Supply of Infrastructure,Value,8.4,11.3,5.2,5.6,6.3,7,7.8,6,4.4,6.1
+MDG,Madagascar,3278,Inadequately Educated Workforce,Value,5.6,3.1,1.8,2.8,2.6,3.8,3.9,3.5,4.7,6.6
+MDG,Madagascar,3279,Inefficient Government Bureaucracy,Value,4.6,3.7,3,3.1,3.3,4.2,3.2,3.7,2.5,0.7
+MDG,Madagascar,3280,Policy Instability,Value,7.2,13.3,17.2,17.9,18.5,17.3,15.4,18.1,21,10.6
+MDG,Madagascar,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,2.3,5.4
+MDG,Madagascar,3282,Tax Rates,Value,7,3.4,3.5,3,2.1,3.7,4.6,9.2,7.8,9.7
+MDG,Madagascar,3283,Tax Regulations,Value,10.9,7.3,5.3,3.4,3.9,4,4,,5.1,5.3
+MDG,Madagascar,3284,Crime and Theft,Value,,,,,,,,,3.1,7.2
+MDG,Madagascar,3285,Foreign Currency Regulations,Value,,,,,,,,,3.2,3
+MDG,Madagascar,3286,Government Instability/Coups,Value,,,,,,,,,10.6,12.2
+MDG,Madagascar,3287,Inflation,Value,10.3,4.6,7.1,3.8,4,3.1,3.2,3.3,3.2,6
+MDG,Madagascar,3288,Poor Public Health,Value,,,,,,,,,0.7,1.2
+MDG,Madagascar,3289,Restrictive Labor Regulations,Value,,,,,,,,,0.2,2.6
+MDG,Madagascar,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,2.4
+MEX,Mexico,3275,Access to Financing,Value,7.7,12.3,13,10.7,10.1,9.9,9.8,8.3,7,7.1
+MEX,Mexico,3276,Corruption,Value,13.1,12.8,14.2,15.2,16.4,18,18.6,20.2,22.5,20.2
+MEX,Mexico,3277,Inadequate Supply of Infrastructure,Value,10.3,8.2,7.1,5.8,6.4,6.7,6.1,7.6,6.7,5.5
+MEX,Mexico,3278,Inadequately Educated Workforce,Value,6.4,5.1,4.1,4.2,4.3,4.2,3.7,3.6,5.1,4.8
+MEX,Mexico,3279,Inefficient Government Bureaucracy,Value,18.4,15.5,16,14.2,14.2,13.9,13.3,13.6,12.1,12.1
+MEX,Mexico,3280,Policy Instability,Value,,,,,,,,,2.3,3.9
+MEX,Mexico,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,1.6,2.6
+MEX,Mexico,3282,Tax Rates,Value,7.6,6.1,6.6,5,3.9,4.6,8.1,10.1,9.4,9.2
+MEX,Mexico,3283,Tax Regulations,Value,8.8,6.4,6.8,10.3,9,10,14.5,,8.6,7.5
+MEX,Mexico,3284,Crime and Theft,Value,6.7,12.4,12.7,16.5,16.3,14,12.9,13.3,12.7,12.9
+MEX,Mexico,3285,Foreign Currency Regulations,Value,,,,,,,,,0.7,0.9
+MEX,Mexico,3286,Government Instability/Coups,Value,,,,,,,,,0.4,3.3
+MEX,Mexico,3287,Inflation,Value,,,,,,,,,1.7,2.7
+MEX,Mexico,3288,Poor Public Health,Value,,,,,,,,,1.2,0.8
+MEX,Mexico,3289,Restrictive Labor Regulations,Value,10,10.5,9.3,9,9.3,7.5,4.1,4.5,4,3.1
+MEX,Mexico,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,3.3
+MKD,"Macedonia, FYR",3275,Access to Financing,Value,11.3,17.9,15.1,19.7,17.1,17.4,16.9,18.4,13.5,
+MKD,"Macedonia, FYR",3276,Corruption,Value,9.4,8.5,8.3,8.8,11.5,8.7,5,7,5.8,
+MKD,"Macedonia, FYR",3277,Inadequate Supply of Infrastructure,Value,5.9,7.6,8.1,5.2,9.3,15.2,9,6.1,7.1,
+MKD,"Macedonia, FYR",3278,Inadequately Educated Workforce,Value,5.7,7.7,7.7,10,12.5,11.9,10.9,10.7,12.6,
+MKD,"Macedonia, FYR",3279,Inefficient Government Bureaucracy,Value,12.4,14.7,18,13.2,11.4,10.6,9.6,9.4,10.1,
+MKD,"Macedonia, FYR",3280,Policy Instability,Value,14.8,10.9,12.7,8.1,5.7,3.3,8.4,6.8,14.8,
+MKD,"Macedonia, FYR",3281,Poor Work Ethic in Labor Force,Value,9.5,9.6,6.4,9.8,7.5,11.6,11.9,10.1,11.3,
+MKD,"Macedonia, FYR",3282,Tax Rates,Value,,,,,,,,,2.2,
+MKD,"Macedonia, FYR",3283,Tax Regulations,Value,7.5,5,6.4,7.3,3.7,3.1,4.2,,4.4,
+MKD,"Macedonia, FYR",3284,Crime and Theft,Value,,,,,,,,,4.5,
+MKD,"Macedonia, FYR",3285,Foreign Currency Regulations,Value,,,,,,,,,0.8,
+MKD,"Macedonia, FYR",3286,Government Instability/Coups,Value,,,,,,,,,3.8,
+MKD,"Macedonia, FYR",3287,Inflation,Value,5.1,2.1,1.2,3.1,2.2,0.4,1,2.7,0.5,
+MKD,"Macedonia, FYR",3288,Poor Public Health,Value,,,,,,,,,0.8,
+MKD,"Macedonia, FYR",3289,Restrictive Labor Regulations,Value,,,,,,,,,4.2,
+MLI,Mali,3275,Access to Financing,Value,23.9,24.8,19.8,26.9,24.6,25.9,26.9,23.8,,22.2
+MLI,Mali,3276,Corruption,Value,14.7,13.5,18.7,16.3,15.8,13.1,15.3,10.9,,14.7
+MLI,Mali,3277,Inadequate Supply of Infrastructure,Value,8.1,13.4,14.2,10.4,9.4,9.4,8.1,6.8,,6.9
+MLI,Mali,3278,Inadequately Educated Workforce,Value,10.6,8.6,6.4,9.3,7.2,7.4,6.6,8.7,,3.9
+MLI,Mali,3279,Inefficient Government Bureaucracy,Value,6.9,8,9.7,6.5,9.4,7.6,8.4,5.1,,12
+MLI,Mali,3280,Policy Instability,Value,,,,,,,,,,9.9
+MLI,Mali,3281,Poor Work Ethic in Labor Force,Value,6.6,3.1,3.2,5.4,4.4,2.1,3.3,2.6,,2.6
+MLI,Mali,3282,Tax Rates,Value,7.2,7.9,6,6.6,5.1,3.5,2.5,3.7,,7.1
+MLI,Mali,3283,Tax Regulations,Value,10.5,9.1,10.8,4.8,4.7,2.4,3.5,,,2.5
+MLI,Mali,3284,Crime and Theft,Value,,,,,,,,,,4
+MLI,Mali,3285,Foreign Currency Regulations,Value,,,,,,,,,,1.9
+MLI,Mali,3286,Government Instability/Coups,Value,,,,,,,,,,6.1
+MLI,Mali,3287,Inflation,Value,3.4,2.5,0.8,1.7,0.7,0.9,0.8,1.4,,0.7
+MLI,Mali,3288,Poor Public Health,Value,,,,,,,,,,0.1
+MLI,Mali,3289,Restrictive Labor Regulations,Value,,,,,,,,,,1.5
+MLI,Mali,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,3.9
+MLT,Malta,3275,Access to Financing,Value,12.2,11.6,8.8,11.5,13.3,14.8,15.4,16.1,,11.7
+MLT,Malta,3276,Corruption,Value,,,,,,,,,,7.9
+MLT,Malta,3277,Inadequate Supply of Infrastructure,Value,9.9,9.5,11.3,11.7,9.4,9.9,7.9,12.1,,11.7
+MLT,Malta,3278,Inadequately Educated Workforce,Value,8.5,10.1,9.9,8.4,6.4,5.2,11.3,12.3,,11.2
+MLT,Malta,3279,Inefficient Government Bureaucracy,Value,23.7,18,21,19.1,18.1,25.4,20.4,18.5,,14.6
+MLT,Malta,3280,Policy Instability,Value,,,,,,,,,,3
+MLT,Malta,3281,Poor Work Ethic in Labor Force,Value,4.7,5.9,6.6,6.9,3.5,5.2,6.5,3.4,,9.8
+MLT,Malta,3282,Tax Rates,Value,9.9,11.9,10.3,9.2,7.9,7.1,5.7,4.9,,4
+MLT,Malta,3283,Tax Regulations,Value,7.1,8.8,7.4,5.2,2.9,6.4,3.3,,,3.7
+MLT,Malta,3284,Crime and Theft,Value,,,,,,,,,,0
+MLT,Malta,3285,Foreign Currency Regulations,Value,,,,,,,,,,2
+MLT,Malta,3286,Government Instability/Coups,Value,,,,,,,,,,2.3
+MLT,Malta,3287,Inflation,Value,8.3,7.7,8.2,11.5,7.2,4.7,2.3,0.6,,0.7
+MLT,Malta,3288,Poor Public Health,Value,,,,,,,,,,0.1
+MLT,Malta,3289,Restrictive Labor Regulations,Value,9.7,7.8,7.7,6.5,6.8,5.2,3,4.9,,5
+MLT,Malta,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,12.4
+MNE,Montenegro,3275,Access to Financing,Value,6.1,14.6,16.4,20.4,2.8,19.2,17.8,18,17.4,16.4
+MNE,Montenegro,3276,Corruption,Value,9,10.6,8.4,6.6,3.2,10.9,12.1,8.2,9.1,10
+MNE,Montenegro,3277,Inadequate Supply of Infrastructure,Value,16.3,15.4,18.4,10.8,8.3,9.2,8.6,10.1,9.4,9.6
+MNE,Montenegro,3278,Inadequately Educated Workforce,Value,14.2,11.2,12.3,8.4,13,5.3,7.1,7.2,9.1,8.4
+MNE,Montenegro,3279,Inefficient Government Bureaucracy,Value,16.9,16.1,12.6,10.5,20.9,10.9,10.2,11.8,14.2,13.2
+MNE,Montenegro,3280,Policy Instability,Value,,,,,,,,,3,3.2
+MNE,Montenegro,3281,Poor Work Ethic in Labor Force,Value,9.6,5.3,7.3,8.6,22.6,6.1,11.6,7.8,7.5,5.9
+MNE,Montenegro,3282,Tax Rates,Value,4.3,4.1,5.6,12,0.1,10.5,6.2,9.5,8.1,7.1
+MNE,Montenegro,3283,Tax Regulations,Value,,,,,,,,,3.8,6.7
+MNE,Montenegro,3284,Crime and Theft,Value,3,2.2,2.8,2.1,3.5,3.8,5.4,3.7,2.9,1.8
+MNE,Montenegro,3285,Foreign Currency Regulations,Value,,,,,,,,,0.4,0.7
+MNE,Montenegro,3286,Government Instability/Coups,Value,,,,,,,,,2.4,1.5
+MNE,Montenegro,3287,Inflation,Value,,,,,,,,,0.5,0.3
+MNE,Montenegro,3288,Poor Public Health,Value,,,,,,,,,1.2,1.8
+MNE,Montenegro,3289,Restrictive Labor Regulations,Value,10.3,8.2,5.8,11.1,1.1,5.1,5.2,5.1,4.6,8.4
+MNE,Montenegro,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,5.2
+MNG,Mongolia,3275,Access to Financing,Value,6.7,12.1,16.1,8.4,5.8,10.3,8.8,10.3,11.7,7.7
+MNG,Mongolia,3276,Corruption,Value,11.6,11.2,12.2,12.8,9.2,8.2,8.5,6.6,6.8,11.2
+MNG,Mongolia,3277,Inadequate Supply of Infrastructure,Value,12.5,6.8,6.7,11.5,11.3,10.7,6.6,4.4,2.7,3.5
+MNG,Mongolia,3278,Inadequately Educated Workforce,Value,10.5,8,10,13,17.9,15.6,9.6,8.3,6.8,8.2
+MNG,Mongolia,3279,Inefficient Government Bureaucracy,Value,19.3,14.8,19.7,15.5,14.9,14.4,13.8,11.3,9.1,10.2
+MNG,Mongolia,3280,Policy Instability,Value,10,8.8,9.5,8.9,6.4,10.2,9.1,8.3,10.1,10.5
+MNG,Mongolia,3281,Poor Work Ethic in Labor Force,Value,6.8,5.3,5.7,7.9,5.7,3.5,4.6,3.6,4.6,3
+MNG,Mongolia,3282,Tax Rates,Value,,,,,,,,,7.9,6.8
+MNG,Mongolia,3283,Tax Regulations,Value,,,,,,,,,5.9,4.9
+MNG,Mongolia,3284,Crime and Theft,Value,,,,,,,,,0.4,0.2
+MNG,Mongolia,3285,Foreign Currency Regulations,Value,,,,,,,,,10.4,11.2
+MNG,Mongolia,3286,Government Instability/Coups,Value,5.3,2.7,2.2,2.3,3.5,4.7,4.5,13.8,11.8,9.8
+MNG,Mongolia,3287,Inflation,Value,5.3,8.4,4.2,5.1,8,5.3,9.3,9.6,4.4,7.4
+MNG,Mongolia,3288,Poor Public Health,Value,,,,,,,,,0.4,0.4
+MNG,Mongolia,3289,Restrictive Labor Regulations,Value,,,,,,,,,3.1,3
+MNG,Mongolia,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,1.7
+MOZ,Mozambique,3275,Access to Financing,Value,18.3,13.7,18.9,18.8,16.9,18.4,19,16.7,12.2,18.2
+MOZ,Mozambique,3276,Corruption,Value,14.3,13.1,17.2,15.2,16.6,18.3,15.5,14.8,15.5,14.7
+MOZ,Mozambique,3277,Inadequate Supply of Infrastructure,Value,7.6,10.6,7.3,7.9,12.8,10,12.5,5.1,5.8,6.3
+MOZ,Mozambique,3278,Inadequately Educated Workforce,Value,8.2,8.7,5.4,8.2,10.7,10.6,10,7.8,4.8,8.2
+MOZ,Mozambique,3279,Inefficient Government Bureaucracy,Value,14.4,12.4,12.2,14.5,12.2,12.9,12.3,14.9,9.3,11.5
+MOZ,Mozambique,3280,Policy Instability,Value,,,,,,,,,12.3,7
+MOZ,Mozambique,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,1.6,4
+MOZ,Mozambique,3282,Tax Rates,Value,,,,,,,,,5.8,4.3
+MOZ,Mozambique,3283,Tax Regulations,Value,7,6,4,3.3,3.8,3.5,1.2,,2.1,0.5
+MOZ,Mozambique,3284,Crime and Theft,Value,5.3,5,5.7,4.3,3.7,3.8,6.7,4.2,3.9,4
+MOZ,Mozambique,3285,Foreign Currency Regulations,Value,,,,,,,,,10.1,3.7
+MOZ,Mozambique,3286,Government Instability/Coups,Value,,,,,,,,,2.6,3.5
+MOZ,Mozambique,3287,Inflation,Value,4.6,5.9,9.1,4.2,3.7,1.5,2,1.7,6.8,5.7
+MOZ,Mozambique,3288,Poor Public Health,Value,,,,,,,,,2.3,1.5
+MOZ,Mozambique,3289,Restrictive Labor Regulations,Value,6.1,4.6,3.2,6.3,2,5.8,4.5,6.7,3.6,5.7
+MOZ,Mozambique,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,1.3
+MRT,Mauritania,3275,Access to Financing,Value,20.4,18.6,24.5,23.4,26.5,23.3,28.2,30.4,24,25.9
+MRT,Mauritania,3276,Corruption,Value,14.7,8.8,7.9,9.2,10,11.9,8.9,13.8,17.9,21.9
+MRT,Mauritania,3277,Inadequate Supply of Infrastructure,Value,5.9,8.5,12.5,8.7,7.2,6.2,13.9,6.3,5,2.8
+MRT,Mauritania,3278,Inadequately Educated Workforce,Value,10.7,7.5,9.8,6.8,9.9,7.6,4.5,6,2.7,2.7
+MRT,Mauritania,3279,Inefficient Government Bureaucracy,Value,6.5,4.4,7.7,4,5.7,7.6,3.4,6.8,3.9,5.7
+MRT,Mauritania,3280,Policy Instability,Value,,,,,,,,,0.9,3
+MRT,Mauritania,3281,Poor Work Ethic in Labor Force,Value,6.7,4.4,4.4,4.6,4,5.2,4.2,4.2,3.1,1.7
+MRT,Mauritania,3282,Tax Rates,Value,5.5,2.3,1.2,4.9,2.6,0,2.8,3.8,14.6,19.7
+MRT,Mauritania,3283,Tax Regulations,Value,9,8,3.7,2.8,1.7,1.4,1.9,,3.7,1
+MRT,Mauritania,3284,Crime and Theft,Value,,,,,,,,,0.7,0.5
+MRT,Mauritania,3285,Foreign Currency Regulations,Value,5.5,4.5,6.5,6.5,5,1.4,8.2,2.1,3.5,1.1
+MRT,Mauritania,3286,Government Instability/Coups,Value,,,,,,,,,2.7,1.6
+MRT,Mauritania,3287,Inflation,Value,,,,,,,,,12.1,11.1
+MRT,Mauritania,3288,Poor Public Health,Value,,,,,,,,,1.3,0
+MRT,Mauritania,3289,Restrictive Labor Regulations,Value,,,,,,,,,2.5,0.7
+MRT,Mauritania,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,0.6
+MUS,Mauritius,3275,Access to Financing,Value,4.5,10.1,9.1,7.9,13.5,10.7,13.1,10.4,7.2,10
+MUS,Mauritius,3276,Corruption,Value,8,9.8,7,11.4,9.2,11.3,7.2,9.2,11.1,7.7
+MUS,Mauritius,3277,Inadequate Supply of Infrastructure,Value,15.2,17.1,15.5,13.9,11.1,10.6,9.6,9.8,8.5,9.8
+MUS,Mauritius,3278,Inadequately Educated Workforce,Value,15.2,9.1,14.3,11,10.6,9.1,9,11.9,13.7,11.8
+MUS,Mauritius,3279,Inefficient Government Bureaucracy,Value,18.6,18.2,15.8,20.3,17.3,18.2,17,17,16.9,21.2
+MUS,Mauritius,3280,Policy Instability,Value,4.1,1.3,2.4,4.4,3.8,3.7,2.5,3.5,2.4,4.2
+MUS,Mauritius,3281,Poor Work Ethic in Labor Force,Value,7.2,12.7,12.2,11,8.6,7.5,8,10.2,7.1,9.5
+MUS,Mauritius,3282,Tax Rates,Value,,,,,,,,,2,1
+MUS,Mauritius,3283,Tax Regulations,Value,,,,,,,,,1.1,1.1
+MUS,Mauritius,3284,Crime and Theft,Value,,,,,,,,,1.1,1.1
+MUS,Mauritius,3285,Foreign Currency Regulations,Value,,,,,,,,,0.6,0.8
+MUS,Mauritius,3286,Government Instability/Coups,Value,,,,,,,,,1.7,2.7
+MUS,Mauritius,3287,Inflation,Value,7.2,5.9,4.7,6.6,4.5,2.3,4.7,3.7,4.9,2.2
+MUS,Mauritius,3288,Poor Public Health,Value,,,,,,,,,1,0.7
+MUS,Mauritius,3289,Restrictive Labor Regulations,Value,10.7,6.4,4.9,4.5,4.6,7.2,7.5,6,4.6,2.9
+MUS,Mauritius,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,13.3
+MWI,Malawi,3275,Access to Financing,Value,20.1,15,22.7,18.3,12.3,14.5,19.1,14,14.2,13
+MWI,Malawi,3276,Corruption,Value,8.2,6.1,6.4,5,6.5,11.6,16.8,13.8,11.2,19.7
+MWI,Malawi,3277,Inadequate Supply of Infrastructure,Value,15,10.2,11,10.7,11.5,7.1,10.1,6.4,11.1,8.4
+MWI,Malawi,3278,Inadequately Educated Workforce,Value,5.3,5.2,4.7,3.7,3.5,2.1,2.2,3.2,4.9,4.7
+MWI,Malawi,3279,Inefficient Government Bureaucracy,Value,,,,,,,,,9.1,7.8
+MWI,Malawi,3280,Policy Instability,Value,,,,,,,,,6.2,7
+MWI,Malawi,3281,Poor Work Ethic in Labor Force,Value,5.6,7,3.7,2.8,2.8,4.7,1.5,5,3.9,3.8
+MWI,Malawi,3282,Tax Rates,Value,8.7,11.7,10.4,11.7,10.7,11.8,8.8,10.7,7.9,12.5
+MWI,Malawi,3283,Tax Regulations,Value,5.9,9.1,7.5,8,5.3,2.4,1.7,,1.6,0.9
+MWI,Malawi,3284,Crime and Theft,Value,7.5,4.3,3.5,2.2,1.9,8.7,6.7,10.7,4.3,3.8
+MWI,Malawi,3285,Foreign Currency Regulations,Value,10.5,14.3,20.8,26.2,25.9,18.3,6.4,5.5,9.9,3.4
+MWI,Malawi,3286,Government Instability/Coups,Value,,,,,,,,,0.3,1.6
+MWI,Malawi,3287,Inflation,Value,,,,,,,,,12.6,11.7
+MWI,Malawi,3288,Poor Public Health,Value,,,,,,,,,0,0.2
+MWI,Malawi,3289,Restrictive Labor Regulations,Value,,,,,,,,,0.6,0.4
+MWI,Malawi,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,1.3
+MYS,Malaysia,3275,Access to Financing,Value,,,,,,,,,12.4,12.5
+MYS,Malaysia,3276,Corruption,Value,14.5,10.4,8,9.6,12.7,14.4,17,8.6,8.8,7.4
+MYS,Malaysia,3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,2.6,4.3
+MYS,Malaysia,3278,Inadequately Educated Workforce,Value,6.2,8,9.5,8.7,9.2,7,3.9,7.6,5.9,7
+MYS,Malaysia,3279,Inefficient Government Bureaucracy,Value,16.7,11.3,13,12.9,13.8,14.7,8.8,10.8,8.4,8.9
+MYS,Malaysia,3280,Policy Instability,Value,6.5,8.5,9.9,8.3,4.3,3.3,5.9,6.4,6.3,4.8
+MYS,Malaysia,3281,Poor Work Ethic in Labor Force,Value,5.5,7.9,7.9,7,9.2,9.5,5.8,7,5.9,6.1
+MYS,Malaysia,3282,Tax Rates,Value,,,,,,,,,5,7.9
+MYS,Malaysia,3283,Tax Regulations,Value,6.1,4.9,6.2,2.9,4.1,3,4.4,,4,4.5
+MYS,Malaysia,3284,Crime and Theft,Value,8.3,5.9,4.4,4.1,4.5,6.2,9.5,4.7,3.3,0.9
+MYS,Malaysia,3285,Foreign Currency Regulations,Value,,,,,,,,,7.1,9.2
+MYS,Malaysia,3286,Government Instability/Coups,Value,,,,,,,,,8.1,6.4
+MYS,Malaysia,3287,Inflation,Value,8.3,4.4,4.7,5.8,7.6,5.3,6.4,5.1,6.9,8.5
+MYS,Malaysia,3288,Poor Public Health,Value,,,,,,,,,1.2,0.4
+MYS,Malaysia,3289,Restrictive Labor Regulations,Value,5.9,6.4,9.4,10.4,8.4,6.1,3.4,5.3,7.2,5.9
+MYS,Malaysia,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,5.4
+NAM,Namibia,3275,Access to Financing,Value,6.4,12.5,16.8,9.4,11.8,11.6,14.5,14.5,17.7,15
+NAM,Namibia,3276,Corruption,Value,5.4,5.3,7.4,11.2,10.7,12.5,10.4,8,7.2,10.6
+NAM,Namibia,3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,4.6,4.1
+NAM,Namibia,3278,Inadequately Educated Workforce,Value,19.4,16,19.2,16.9,15,15,16,14.9,14.8,14.4
+NAM,Namibia,3279,Inefficient Government Bureaucracy,Value,12.7,11.7,11.1,11.4,9.7,8.5,9.8,8.7,10.3,11.1
+NAM,Namibia,3280,Policy Instability,Value,,,,,,,,,2,3.2
+NAM,Namibia,3281,Poor Work Ethic in Labor Force,Value,13.6,8.9,10.2,11.9,8.4,11.6,10.9,10.3,10.2,9.3
+NAM,Namibia,3282,Tax Rates,Value,6.4,5.8,6.7,5.1,5,3.6,5.5,5.7,5.6,4.6
+NAM,Namibia,3283,Tax Regulations,Value,,,,,,,,,2.3,2.6
+NAM,Namibia,3284,Crime and Theft,Value,4.9,7.2,4.3,7.7,7.1,6.8,4.4,6.5,3,4.9
+NAM,Namibia,3285,Foreign Currency Regulations,Value,,,,,,,,,2.8,3.2
+NAM,Namibia,3286,Government Instability/Coups,Value,,,,,,,,,1,1.6
+NAM,Namibia,3287,Inflation,Value,6.5,4.4,2.9,2.2,4.6,1.8,2.2,2.8,6.5,3.6
+NAM,Namibia,3288,Poor Public Health,Value,,,,,,,,,0.9,1.4
+NAM,Namibia,3289,Restrictive Labor Regulations,Value,15.1,13.5,10.2,9.8,10.3,8.4,11.5,6.1,5,3.4
+NAM,Namibia,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,7
+NGA,Nigeria,3275,Access to Financing,Value,19.9,21.5,24.6,22.2,22.7,18.1,17.7,12.7,13.9,13
+NGA,Nigeria,3276,Corruption,Value,14,12.4,15,17.7,18.1,21.3,19.6,19.7,15.9,12.4
+NGA,Nigeria,3277,Inadequate Supply of Infrastructure,Value,22.3,21.2,21.2,19.9,17.6,23.5,26.1,26.5,22.2,20.2
+NGA,Nigeria,3278,Inadequately Educated Workforce,Value,,,,,,,,,3.6,3.8
+NGA,Nigeria,3279,Inefficient Government Bureaucracy,Value,2.8,5.8,5.5,3.2,4.2,8.1,7.4,8.4,9.5,9.3
+NGA,Nigeria,3280,Policy Instability,Value,13.4,8.6,9.8,8.3,10.9,9.1,7.5,8.7,11,9.2
+NGA,Nigeria,3281,Poor Work Ethic in Labor Force,Value,4.5,3.7,2.5,1.2,1.7,3.5,3.1,2.6,3,1.8
+NGA,Nigeria,3282,Tax Rates,Value,,,,,,,,,1.1,1.8
+NGA,Nigeria,3283,Tax Regulations,Value,,,,,,,,,2,2
+NGA,Nigeria,3284,Crime and Theft,Value,6.2,4.8,2.8,5.8,6.5,3.4,2.6,1.6,1,1.9
+NGA,Nigeria,3285,Foreign Currency Regulations,Value,,,,,,,,,12.8,13.9
+NGA,Nigeria,3286,Government Instability/Coups,Value,2.5,0.7,5.7,3,4.7,0.5,0.6,0.3,0.7,4.4
+NGA,Nigeria,3287,Inflation,Value,8.3,4.7,3.4,5.3,4.1,1.6,1.8,3.4,2,4.8
+NGA,Nigeria,3288,Poor Public Health,Value,,,,,,,,,0,0.3
+NGA,Nigeria,3289,Restrictive Labor Regulations,Value,,,,,,,,,0.7,0
+NGA,Nigeria,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,1.2
+NIC,Nicaragua,3275,Access to Financing,Value,5.8,11.2,5.7,7.9,3.3,4.1,9.4,7.6,9.4,8.6
+NIC,Nicaragua,3276,Corruption,Value,16.8,13.1,12.9,14.5,9.6,10,10.7,16,10.7,15.7
+NIC,Nicaragua,3277,Inadequate Supply of Infrastructure,Value,8.4,7.7,7.2,9.5,12.3,7.7,11.5,10.1,11.5,7.6
+NIC,Nicaragua,3278,Inadequately Educated Workforce,Value,3.9,6.7,8.3,7,11.2,8.1,16.4,11.2,16.4,9.8
+NIC,Nicaragua,3279,Inefficient Government Bureaucracy,Value,9.5,8.9,11.8,15.4,14.8,14.7,17.2,18,17.2,19.1
+NIC,Nicaragua,3280,Policy Instability,Value,21.6,20.5,21.5,15.3,9.8,10.5,2.1,5.6,2.1,8.7
+NIC,Nicaragua,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,4.1,3.4
+NIC,Nicaragua,3282,Tax Rates,Value,4.1,3.8,6.2,4.7,3.9,3.8,8.2,11.1,8.2,6.7
+NIC,Nicaragua,3283,Tax Regulations,Value,,,,,,,,,8.6,3.6
+NIC,Nicaragua,3284,Crime and Theft,Value,,,,,,,,,0,1
+NIC,Nicaragua,3285,Foreign Currency Regulations,Value,,,,,,,,,0,0.4
+NIC,Nicaragua,3286,Government Instability/Coups,Value,7.8,4.1,6.5,3.8,5.1,8.5,0,1,0,3.4
+NIC,Nicaragua,3287,Inflation,Value,12,4.3,2.4,3.2,4,0.5,0.6,0.5,0.6,0.6
+NIC,Nicaragua,3288,Poor Public Health,Value,,,,,,,,,2.3,2.2
+NIC,Nicaragua,3289,Restrictive Labor Regulations,Value,,,,,,,,,1.2,2.7
+NIC,Nicaragua,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,6.5
+NLD,Netherlands,3275,Access to Financing,Value,4.2,22.3,21.3,14.7,19.9,19.3,18.5,15.1,10.2,8.6
+NLD,Netherlands,3276,Corruption,Value,,,,,,,,,0,0.6
+NLD,Netherlands,3277,Inadequate Supply of Infrastructure,Value,15.3,8.3,6.4,6.3,1.7,2.5,1.5,0.8,2,2
+NLD,Netherlands,3278,Inadequately Educated Workforce,Value,12.6,7,7.2,8.6,7.8,5.1,5.3,6.8,9.1,11.3
+NLD,Netherlands,3279,Inefficient Government Bureaucracy,Value,17.8,16.3,15,16.5,11.9,14.4,13.6,12,11.6,15.5
+NLD,Netherlands,3280,Policy Instability,Value,,,,,,,,,4.5,3.2
+NLD,Netherlands,3281,Poor Work Ethic in Labor Force,Value,3,3.7,3.9,5,4.7,2.5,2.7,2.7,1.9,2.6
+NLD,Netherlands,3282,Tax Rates,Value,8.8,7.8,7.8,10,5.1,10.7,12.9,12.5,16.1,13.1
+NLD,Netherlands,3283,Tax Regulations,Value,9.5,10.3,7.9,8.6,3.3,7.1,8.3,,7.8,10.2
+NLD,Netherlands,3284,Crime and Theft,Value,,,,,,,,,0.3,2.7
+NLD,Netherlands,3285,Foreign Currency Regulations,Value,,,,,,,,,0.4,0.8
+NLD,Netherlands,3286,Government Instability/Coups,Value,,,,,,,,,0,1.6
+NLD,Netherlands,3287,Inflation,Value,5,3.7,3,4.2,3.5,2.6,1.1,1.1,0.9,0.7
+NLD,Netherlands,3288,Poor Public Health,Value,,,,,,,,,0,0.2
+NLD,Netherlands,3289,Restrictive Labor Regulations,Value,20.4,14.2,17,18.8,15.2,16.5,19.2,18.9,21.1,18
+NLD,Netherlands,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,8.8
+NOR,Norway,3275,Access to Financing,Value,4.8,21.5,8.2,4.9,11.4,7.5,8.6,11.8,8.3,14
+NOR,Norway,3276,Corruption,Value,,,,,,,,,0,0.2
+NOR,Norway,3277,Inadequate Supply of Infrastructure,Value,12.3,10.9,10.1,10.2,13.3,14.7,11.7,12.7,8.9,6.1
+NOR,Norway,3278,Inadequately Educated Workforce,Value,10.5,3.4,3.9,7.1,6.7,4.2,2.5,3.5,3.3,1.6
+NOR,Norway,3279,Inefficient Government Bureaucracy,Value,7.3,11.5,15.4,13.5,10.8,12.3,11.5,12,12.2,10.1
+NOR,Norway,3280,Policy Instability,Value,5,4.1,4.3,5,2.6,1.5,1.8,2.5,1.8,2.4
+NOR,Norway,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,1.5,2.2
+NOR,Norway,3282,Tax Rates,Value,11.6,11.6,14.3,15.5,10.6,11.5,14.9,12.9,17,20.3
+NOR,Norway,3283,Tax Regulations,Value,17,14.2,15.1,9.7,9.1,11.2,11.5,,12.8,8.5
+NOR,Norway,3284,Crime and Theft,Value,,,,,,,,,0.9,0
+NOR,Norway,3285,Foreign Currency Regulations,Value,,,,,,,,,4.5,1.4
+NOR,Norway,3286,Government Instability/Coups,Value,,,,,,,,,1.2,1.4
+NOR,Norway,3287,Inflation,Value,3.6,2.4,1.6,1.7,1.2,1.5,0.8,1,0,0.4
+NOR,Norway,3288,Poor Public Health,Value,,,,,,,,,0,0
+NOR,Norway,3289,Restrictive Labor Regulations,Value,21.4,14.4,19,19.4,14.2,18.9,18.8,15.7,14.9,14.2
+NOR,Norway,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,17
+NPL,Nepal,3275,Access to Financing,Value,,,,,,,,,,8.3
+NPL,Nepal,3276,Corruption,Value,11.9,10.8,12.1,10,12.7,14.7,16.6,10.1,,9.1
+NPL,Nepal,3277,Inadequate Supply of Infrastructure,Value,10.2,12.2,8.9,8.6,7,10.8,12.2,13.3,,11.2
+NPL,Nepal,3278,Inadequately Educated Workforce,Value,,,,,,,,,,4.3
+NPL,Nepal,3279,Inefficient Government Bureaucracy,Value,10.7,9.2,10.4,11.8,10.3,11.1,7.9,8.9,,13.9
+NPL,Nepal,3280,Policy Instability,Value,13.5,10.1,11.5,10.4,10.3,10.3,11.1,12.2,,9.1
+NPL,Nepal,3281,Poor Work Ethic in Labor Force,Value,6.6,8.1,6.7,7.2,5.2,6.4,5.7,7.4,,6.3
+NPL,Nepal,3282,Tax Rates,Value,,,,,,,,,,2.5
+NPL,Nepal,3283,Tax Regulations,Value,4.4,4.2,1.9,2.5,2.5,2.2,2.4,,,2.5
+NPL,Nepal,3284,Crime and Theft,Value,,,,,,,,,,0.4
+NPL,Nepal,3285,Foreign Currency Regulations,Value,,,,,,,,,,2.6
+NPL,Nepal,3286,Government Instability/Coups,Value,23.4,17.2,21.8,21.8,23.7,21.9,16.9,18.2,,18.3
+NPL,Nepal,3287,Inflation,Value,4.6,2.9,3.8,3.4,3.6,2.3,2,2.2,,2.1
+NPL,Nepal,3288,Poor Public Health,Value,,,,,,,,,,0.7
+NPL,Nepal,3289,Restrictive Labor Regulations,Value,4,9.9,7.9,8.1,8,8.2,7.2,5.3,,5.2
+NPL,Nepal,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,3.4
+NZL,New Zealand,3275,Access to Financing,Value,6.8,23,16.9,16.9,13.4,9.6,10.8,7.8,8.7,8.6
+NZL,New Zealand,3276,Corruption,Value,,,,,,,,,0,0
+NZL,New Zealand,3277,Inadequate Supply of Infrastructure,Value,19.1,18,19.2,22.7,17.9,16,18.7,21.4,17.6,20.3
+NZL,New Zealand,3278,Inadequately Educated Workforce,Value,9.2,6.1,10.5,11.5,9.8,14.8,9.8,11.9,14.2,11.1
+NZL,New Zealand,3279,Inefficient Government Bureaucracy,Value,16.4,12.3,8.3,13.7,14.7,12.1,15,15.8,14.4,15.6
+NZL,New Zealand,3280,Policy Instability,Value,2.7,4.4,5.8,6.1,3.9,7.6,6.1,7.1,6.1,1.4
+NZL,New Zealand,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,4.7,6.1
+NZL,New Zealand,3282,Tax Rates,Value,15.8,12.2,14.9,9.9,7.4,8,7.9,3.4,4.3,7.5
+NZL,New Zealand,3283,Tax Regulations,Value,8.8,6.7,7,3.4,1.4,5.1,4.1,,5.3,3.6
+NZL,New Zealand,3284,Crime and Theft,Value,,,,,,,,,0,0.6
+NZL,New Zealand,3285,Foreign Currency Regulations,Value,,,,,,,,,0.8,0
+NZL,New Zealand,3286,Government Instability/Coups,Value,,,,,,,,,0,0
+NZL,New Zealand,3287,Inflation,Value,9.1,3,3,1.8,1,1.8,1.4,1.4,0.8,0
+NZL,New Zealand,3288,Poor Public Health,Value,,,,,,,,,3.7,3.3
+NZL,New Zealand,3289,Restrictive Labor Regulations,Value,7.2,8.1,7.8,8.8,9,6.4,7.5,10.3,7.1,8.4
+NZL,New Zealand,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,13.4
+OMN,Oman,3275,Access to Financing,Value,4.7,12.4,13.5,9.7,3.6,3.6,3.8,4.8,,13.8
+OMN,Oman,3276,Corruption,Value,2.1,1.3,1.6,2.6,1.2,1.2,3.9,6.1,,2.4
+OMN,Oman,3277,Inadequate Supply of Infrastructure,Value,8.2,7.5,8.6,3.8,3.7,3.7,4.9,5.5,,4.4
+OMN,Oman,3278,Inadequately Educated Workforce,Value,19.7,16.5,15.6,19.6,21.8,21.8,20,13.7,,17.5
+OMN,Oman,3279,Inefficient Government Bureaucracy,Value,8.2,7.4,4.5,8.2,7.4,7.4,14.4,14.3,,13.4
+OMN,Oman,3280,Policy Instability,Value,2.5,2.9,3.3,3.2,2.8,2.8,2.3,5.7,,1.7
+OMN,Oman,3281,Poor Work Ethic in Labor Force,Value,14.1,13.5,12.9,17.9,17.5,17.5,13.5,11.1,,6.6
+OMN,Oman,3282,Tax Rates,Value,,,,,,,,,,3.5
+OMN,Oman,3283,Tax Regulations,Value,,,,,,,,,,2.2
+OMN,Oman,3284,Crime and Theft,Value,,,,,,,,,,0.3
+OMN,Oman,3285,Foreign Currency Regulations,Value,,,,,,,,,,3.7
+OMN,Oman,3286,Government Instability/Coups,Value,,,,,,,,,,1
+OMN,Oman,3287,Inflation,Value,13.3,4.5,3.7,5.4,5.1,5.1,1.2,1.7,,2.4
+OMN,Oman,3288,Poor Public Health,Value,,,,,,,,,,0.3
+OMN,Oman,3289,Restrictive Labor Regulations,Value,22.2,28.4,28.3,26.2,28,28,30.2,25.6,,19.2
+OMN,Oman,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,7.6
+PAK,Pakistan,3275,Access to Financing,Value,7.5,8.7,5.2,7.9,8.6,11.6,7.6,7.9,8.4,6.5
+PAK,Pakistan,3276,Corruption,Value,13.1,11.5,18.4,11.6,17,16.7,13,16,15.6,17
+PAK,Pakistan,3277,Inadequate Supply of Infrastructure,Value,9.9,7.5,4.7,8.7,8.7,11.2,14.3,5.6,5.1,4.4
+PAK,Pakistan,3278,Inadequately Educated Workforce,Value,8.5,3.9,3.6,4.9,4.8,3.2,6.4,5.3,3.1,3.7
+PAK,Pakistan,3279,Inefficient Government Bureaucracy,Value,10.1,8,8.9,8.3,12.3,10.4,10.2,7.6,7.4,7
+PAK,Pakistan,3280,Policy Instability,Value,8.3,13.3,9.8,11.2,11.6,11.8,8.5,6.6,5.8,5.8
+PAK,Pakistan,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,3.6,6.6
+PAK,Pakistan,3282,Tax Rates,Value,,,,,,,,,9.2,10.5
+PAK,Pakistan,3283,Tax Regulations,Value,,,,,,,,,6.5,5.1
+PAK,Pakistan,3284,Crime and Theft,Value,4.8,5.4,7.9,4.4,6.1,5.4,5.6,4.9,10.8,7.2
+PAK,Pakistan,3285,Foreign Currency Regulations,Value,,,,,,,,,4.3,3.8
+PAK,Pakistan,3286,Government Instability/Coups,Value,13.7,19.2,16.4,12.8,11,6.1,7.3,6.9,7.9,8.2
+PAK,Pakistan,3287,Inflation,Value,10,9.3,9.6,7.9,8.1,6.5,3.7,8.8,5.6,2.5
+PAK,Pakistan,3288,Poor Public Health,Value,,,,,,,,,1.9,5.3
+PAK,Pakistan,3289,Restrictive Labor Regulations,Value,,,,,,,,,2.4,2.3
+PAK,Pakistan,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,4.3
+PAN,Panama,3275,Access to Financing,Value,,,,,,,,,3.6,4.7
+PAN,Panama,3276,Corruption,Value,19.3,19.5,15.8,19,16.5,15.8,16.8,15.3,18,14.6
+PAN,Panama,3277,Inadequate Supply of Infrastructure,Value,4.8,5.1,3.4,4.6,3.1,3.5,3.2,5.5,3.5,2.6
+PAN,Panama,3278,Inadequately Educated Workforce,Value,11.3,7.6,15.6,13.6,11.3,16.8,15.2,17.1,15.8,14.2
+PAN,Panama,3279,Inefficient Government Bureaucracy,Value,17.7,16.3,19.2,17.9,15.8,16.1,14.3,18.3,17.5,17.9
+PAN,Panama,3280,Policy Instability,Value,5.5,4.9,2.1,2.4,3.7,1.8,1.8,1.5,1.3,4
+PAN,Panama,3281,Poor Work Ethic in Labor Force,Value,5.2,5.2,6.8,6.5,5.6,5.9,6.9,6.4,6,8
+PAN,Panama,3282,Tax Rates,Value,4.2,4,2.9,2.5,4.4,3,3,3.5,3.5,2.5
+PAN,Panama,3283,Tax Regulations,Value,4.6,6.1,2.4,4.9,3.1,5.1,4,,2.3,2.7
+PAN,Panama,3284,Crime and Theft,Value,,,,,,,,,9,5.6
+PAN,Panama,3285,Foreign Currency Regulations,Value,,,,,,,,,0.5,0.5
+PAN,Panama,3286,Government Instability/Coups,Value,,,,,,,,,0.8,4.9
+PAN,Panama,3287,Inflation,Value,,,,,,,,,1,2.3
+PAN,Panama,3288,Poor Public Health,Value,,,,,,,,,1.6,2
+PAN,Panama,3289,Restrictive Labor Regulations,Value,15.7,14.8,15.6,11.9,7.7,9.2,10.5,9.4,10.6,9.9
+PAN,Panama,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,3.8
+PER,Peru,3275,Access to Financing,Value,3.2,7.8,4.9,2.7,5,3.1,2.7,2.5,,5.5
+PER,Peru,3276,Corruption,Value,12.4,11.8,15.3,16.8,16.1,15.7,15.1,14.1,,18
+PER,Peru,3277,Inadequate Supply of Infrastructure,Value,15.5,12.3,10.9,10.4,9.9,9.2,10,9.9,,8.8
+PER,Peru,3278,Inadequately Educated Workforce,Value,4.9,9.3,6.9,7.5,9.4,7.2,8,6.8,,6.8
+PER,Peru,3279,Inefficient Government Bureaucracy,Value,16.9,14.6,19.4,16,17.5,19.6,21.8,18.7,,13.9
+PER,Peru,3280,Policy Instability,Value,7.2,4.7,3.7,4.7,6.1,3,4.3,7.4,,3.2
+PER,Peru,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,,3.7
+PER,Peru,3282,Tax Rates,Value,6.9,6.3,6.8,6.8,4.4,5.3,3.9,5.5,,10
+PER,Peru,3283,Tax Regulations,Value,8,6.6,7.1,11.8,3.6,8.9,7.2,,,4.8
+PER,Peru,3284,Crime and Theft,Value,,,,,,,,,,8
+PER,Peru,3285,Foreign Currency Regulations,Value,,,,,,,,,,0.1
+PER,Peru,3286,Government Instability/Coups,Value,,,,,,,,,,3.8
+PER,Peru,3287,Inflation,Value,,,,,,,,,,1
+PER,Peru,3288,Poor Public Health,Value,,,,,,,,,,0.8
+PER,Peru,3289,Restrictive Labor Regulations,Value,18.8,16.6,14.9,10.5,13.6,14.1,12.2,16.6,,8.3
+PER,Peru,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,3.3
+PHL,Philippines,3275,Access to Financing,Value,3.8,5.2,2.1,2.2,1.7,2,1.6,1.8,3,4.9
+PHL,Philippines,3276,Corruption,Value,23.9,24.3,22.7,24.4,19.3,17.8,17.6,16.3,16.9,13.7
+PHL,Philippines,3277,Inadequate Supply of Infrastructure,Value,13.1,15,15.4,16.5,16.2,21.1,15.9,17,17.8,17.9
+PHL,Philippines,3278,Inadequately Educated Workforce,Value,,,,,,,,,3,2.1
+PHL,Philippines,3279,Inefficient Government Bureaucracy,Value,19.7,20.6,18.3,18.3,17.2,16.9,12.6,18.5,18.8,19.7
+PHL,Philippines,3280,Policy Instability,Value,8.7,12.6,11.8,7.9,9.2,7.2,5.4,5.8,7,7.6
+PHL,Philippines,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,2,2.6
+PHL,Philippines,3282,Tax Rates,Value,5.9,3.3,5.1,5.7,6,6.3,9.7,9.8,10.8,8.9
+PHL,Philippines,3283,Tax Regulations,Value,6.4,4.8,9.2,5.6,7.7,8.6,13.3,,8.3,10.9
+PHL,Philippines,3284,Crime and Theft,Value,,,,,,,,,3,1.8
+PHL,Philippines,3285,Foreign Currency Regulations,Value,,,,,,,,,0.3,0.9
+PHL,Philippines,3286,Government Instability/Coups,Value,7,2.8,2.3,1.9,2,0.9,1.9,1.5,0.6,3.2
+PHL,Philippines,3287,Inflation,Value,3.5,0.6,1.2,2,3,1.2,3.8,1.8,0.3,0.4
+PHL,Philippines,3288,Poor Public Health,Value,,,,,,,,,0.1,0.1
+PHL,Philippines,3289,Restrictive Labor Regulations,Value,,,,,,,,,5.6,3
+PHL,Philippines,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,2.3
+POL,Poland,3275,Access to Financing,Value,7.2,16.7,12.5,9.4,10.3,10.5,9.6,7.8,6.1,6.9
+POL,Poland,3276,Corruption,Value,5.9,3.3,3.8,3,2.6,2.5,3.4,2.3,1.5,1.5
+POL,Poland,3277,Inadequate Supply of Infrastructure,Value,12.8,11.5,8.8,10.4,8.2,7.2,5.6,5.8,5,4
+POL,Poland,3278,Inadequately Educated Workforce,Value,4.6,4.1,4,3.9,3.2,2.9,2.7,5.1,6.2,7
+POL,Poland,3279,Inefficient Government Bureaucracy,Value,14.6,13.7,14,13.6,13.4,13.2,14.6,11.1,8.7,8.4
+POL,Poland,3280,Policy Instability,Value,7,2.8,2.5,3.2,2.1,4,3.3,5.1,12.5,11.5
+POL,Poland,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,2.5,3.3
+POL,Poland,3282,Tax Rates,Value,6.8,7,10.4,13,11.5,11.3,11.2,12.8,12.3,13.8
+POL,Poland,3283,Tax Regulations,Value,14.9,17.7,21.8,20.7,20.4,22.3,23.2,,20.6,17.6
+POL,Poland,3284,Crime and Theft,Value,,,,,,,,,0.5,0.7
+POL,Poland,3285,Foreign Currency Regulations,Value,,,,,,,,,0.3,0.8
+POL,Poland,3286,Government Instability/Coups,Value,,,,,,,,,2.3,6.5
+POL,Poland,3287,Inflation,Value,,,,,,,,,0.5,0.6
+POL,Poland,3288,Poor Public Health,Value,,,,,,,,,2.2,1.5
+POL,Poland,3289,Restrictive Labor Regulations,Value,9.3,13,13.2,13.4,13.6,16.5,15.5,14.7,14.1,12.5
+POL,Poland,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,3.3
+PRI,Puerto Rico,3275,Access to Financing,Value,6.5,10.6,10.1,13.7,10.8,11.2,9.5,,,
+PRI,Puerto Rico,3276,Corruption,Value,3.1,3.9,4.7,4.4,5.9,5.6,6,,,
+PRI,Puerto Rico,3277,Inadequate Supply of Infrastructure,Value,5.1,5.2,3.4,4.1,4.4,3.4,3.1,,,
+PRI,Puerto Rico,3279,Inefficient Government Bureaucracy,Value,27.4,28.1,24.9,22.5,24.7,24,26.2,,,
+PRI,Puerto Rico,3281,Poor Work Ethic in Labor Force,Value,5.5,3.3,4.8,5.7,4.5,4.7,3.1,,,
+PRI,Puerto Rico,3282,Tax Rates,Value,9.8,5.6,9.5,5,6,5.6,11.1,,,
+PRI,Puerto Rico,3283,Tax Regulations,Value,7,7.6,8.6,5.6,4.4,4.1,11.4,,,
+PRI,Puerto Rico,3287,Inflation,Value,10.3,4.7,4.9,4.7,2.4,2.7,2.6,,,
+PRI,Puerto Rico,3289,Restrictive Labor Regulations,Value,14,14.7,17.1,16.5,14.8,16.5,15,,,
+PRT,Portugal,3275,Access to Financing,Value,8.1,12.4,9.9,19.2,26.3,22.3,16.2,13.7,9.7,10.2
+PRT,Portugal,3276,Corruption,Value,3.2,3.5,4.4,4.1,3.2,2.9,2,2.9,4,3.2
+PRT,Portugal,3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,1.1,1.2
+PRT,Portugal,3278,Inadequately Educated Workforce,Value,12.6,11.6,7.7,5.4,2.8,2.5,3.4,5,5.5,4.5
+PRT,Portugal,3279,Inefficient Government Bureaucracy,Value,20.2,19.4,20.6,16.4,15.2,15.8,19.2,17.9,15.3,19.1
+PRT,Portugal,3280,Policy Instability,Value,8.8,8,13.5,14.1,9.7,12.9,14.1,9.9,14.3,13.1
+PRT,Portugal,3281,Poor Work Ethic in Labor Force,Value,3.3,2.3,2,1.5,1.3,0.8,1.1,1.3,1.1,1.2
+PRT,Portugal,3282,Tax Rates,Value,4,9.7,10.3,10.8,13.1,15.6,16.3,18.7,18.2,18.7
+PRT,Portugal,3283,Tax Regulations,Value,14.1,11,9.5,6.8,9.1,11.2,10.1,,11.1,6.5
+PRT,Portugal,3284,Crime and Theft,Value,,,,,,,,,0,0
+PRT,Portugal,3285,Foreign Currency Regulations,Value,,,,,,,,,0,0.3
+PRT,Portugal,3286,Government Instability/Coups,Value,,,,,,,,,1.6,2.8
+PRT,Portugal,3287,Inflation,Value,,,,,,,,,0.4,0.5
+PRT,Portugal,3288,Poor Public Health,Value,,,,,,,,,0.3,0.1
+PRT,Portugal,3289,Restrictive Labor Regulations,Value,21.6,19.3,19.2,16.5,11.2,11,11.5,12.2,13.3,13.8
+PRT,Portugal,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,4.8
+PRY,Paraguay,3275,Access to Financing,Value,9,15.1,11.3,6.6,11.8,8.8,9.5,8.2,10.5,10.4
+PRY,Paraguay,3276,Corruption,Value,24.7,19.2,17,17.3,17.8,16.6,18.7,18.7,18.2,18.4
+PRY,Paraguay,3277,Inadequate Supply of Infrastructure,Value,8,7.4,10.3,10.5,10,13.6,14.9,14.7,15,12.5
+PRY,Paraguay,3278,Inadequately Educated Workforce,Value,12.1,10.8,13.8,16.1,14.5,19.1,15.8,18.7,14.5,13.5
+PRY,Paraguay,3279,Inefficient Government Bureaucracy,Value,14,14.2,15.6,15.1,13.7,15.9,15.9,12.3,13.6,12.5
+PRY,Paraguay,3280,Policy Instability,Value,7.8,8,8.2,6.2,5.4,1.7,0.6,1.1,1.5,6.1
+PRY,Paraguay,3281,Poor Work Ethic in Labor Force,Value,5.4,6,5.1,6.4,5.4,2.5,3.4,5.3,5.2,4.4
+PRY,Paraguay,3282,Tax Rates,Value,,,,,,,,,0.7,0.8
+PRY,Paraguay,3283,Tax Regulations,Value,,,,,,,,,2.5,2.2
+PRY,Paraguay,3284,Crime and Theft,Value,3.3,3.6,4.2,4.9,4.5,1.9,2.3,4.2,3.6,4
+PRY,Paraguay,3285,Foreign Currency Regulations,Value,,,,,,,,,1.2,0.8
+PRY,Paraguay,3286,Government Instability/Coups,Value,,,,,,,,,0.4,3.6
+PRY,Paraguay,3287,Inflation,Value,,,,,,,,,0.3,0.5
+PRY,Paraguay,3288,Poor Public Health,Value,,,,,,,,,4.1,3.4
+PRY,Paraguay,3289,Restrictive Labor Regulations,Value,7.2,8.4,7.4,9,6.6,8.5,6.3,5.8,5.1,2.8
+PRY,Paraguay,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,4.2
+QAT,Qatar,3275,Access to Financing,Value,5.2,16.7,22.3,22.3,20.1,20.4,12.8,6.2,,21.7
+QAT,Qatar,3276,Corruption,Value,1.7,1,0,0,1.2,0.5,1.6,3.5,,1.3
+QAT,Qatar,3277,Inadequate Supply of Infrastructure,Value,12.4,11.1,8.2,8.2,13.4,16.5,11,6.8,,10.6
+QAT,Qatar,3278,Inadequately Educated Workforce,Value,11.8,8.6,10.6,10.6,15.1,12.7,15.3,12.5,,12.9
+QAT,Qatar,3279,Inefficient Government Bureaucracy,Value,10.8,6.4,6.2,6.2,6.5,12.1,7.1,11.1,,7.7
+QAT,Qatar,3280,Policy Instability,Value,,,,,,,,,,2.3
+QAT,Qatar,3281,Poor Work Ethic in Labor Force,Value,9.1,3,2.1,2.1,3.4,2.5,5.6,10,,4.3
+QAT,Qatar,3282,Tax Rates,Value,,,,,,,,,,0
+QAT,Qatar,3283,Tax Regulations,Value,,,,,,,,,,0.6
+QAT,Qatar,3284,Crime and Theft,Value,,,,,,,,,,0
+QAT,Qatar,3285,Foreign Currency Regulations,Value,3.1,1.4,7,7,0.6,0.8,2.3,4.3,,1.4
+QAT,Qatar,3286,Government Instability/Coups,Value,,,,,,,,,,0
+QAT,Qatar,3287,Inflation,Value,19.8,19.6,6.8,6.8,16.8,9.8,10,10.4,,7.8
+QAT,Qatar,3288,Poor Public Health,Value,,,,,,,,,,3.8
+QAT,Qatar,3289,Restrictive Labor Regulations,Value,21.8,22.2,27.7,27.7,16.5,11.8,14.6,13,,17.9
+QAT,Qatar,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,7.7
+ROU,Romania,3275,Access to Financing,Value,6.8,14.2,15.9,10.8,12.1,10.5,16.6,14,16.6,11.9
+ROU,Romania,3276,Corruption,Value,8.4,7.3,6.9,9.7,17.4,13.4,11,8.7,10.1,11.7
+ROU,Romania,3277,Inadequate Supply of Infrastructure,Value,9.7,6.7,13.9,8.9,7.1,6.2,12.8,12.6,7.3,10.1
+ROU,Romania,3278,Inadequately Educated Workforce,Value,9.2,4.7,4.7,3.6,4.2,5.7,1.6,6.8,10.4,11.9
+ROU,Romania,3279,Inefficient Government Bureaucracy,Value,10.8,9.3,12.2,13,12.8,10.2,9.9,14.7,15.9,12.9
+ROU,Romania,3280,Policy Instability,Value,13.2,15.1,8.6,11.9,5.4,7.3,4.7,3.3,3.5,6.1
+ROU,Romania,3281,Poor Work Ethic in Labor Force,Value,6.2,3.9,2.5,4.4,3.3,3.3,1,4.3,4.7,6.5
+ROU,Romania,3282,Tax Rates,Value,12.8,12.5,11.6,15.5,13.9,17.8,15.6,15.8,14.7,13
+ROU,Romania,3283,Tax Regulations,Value,11.2,15.7,11.2,8.7,7.6,11.8,9.9,,7.4,3.1
+ROU,Romania,3284,Crime and Theft,Value,,,,,,,,,0.8,1.1
+ROU,Romania,3285,Foreign Currency Regulations,Value,,,,,,,,,0.3,0
+ROU,Romania,3286,Government Instability/Coups,Value,,,,,,,,,1.5,4.3
+ROU,Romania,3287,Inflation,Value,,,,,,,,,1.1,1.7
+ROU,Romania,3288,Poor Public Health,Value,,,,,,,,,0.6,1
+ROU,Romania,3289,Restrictive Labor Regulations,Value,,,,,,,,,2.6,1.8
+ROU,Romania,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,2.8
+RUS,Russian Federation,3275,Access to Financing,Value,12.8,16.9,15.5,7.6,10,9.2,11.7,11.7,10.7,10.2
+RUS,Russian Federation,3276,Corruption,Value,19.4,19,21.2,22.8,20.5,19.1,14.3,14.3,10.9,13.1
+RUS,Russian Federation,3277,Inadequate Supply of Infrastructure,Value,8.3,3.6,3,4.9,4.3,4.5,4.6,4.6,4.3,3.9
+RUS,Russian Federation,3278,Inadequately Educated Workforce,Value,6.7,4.1,4.9,5.3,7.1,6.6,7.3,7.3,4.6,7.4
+RUS,Russian Federation,3279,Inefficient Government Bureaucracy,Value,11.5,8.2,8.4,13.3,11.9,9.8,8.2,8.2,6,6.1
+RUS,Russian Federation,3280,Policy Instability,Value,,,,,,,,,6.7,5.5
+RUS,Russian Federation,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,3.6,5.2
+RUS,Russian Federation,3282,Tax Rates,Value,9.2,8.2,7.5,9.1,9.3,13,12.3,12.3,13.3,13.1
+RUS,Russian Federation,3283,Tax Regulations,Value,14.8,11.6,11.4,6.2,6,10.7,10.8,,7.7,9.3
+RUS,Russian Federation,3284,Crime and Theft,Value,3.8,9,9.4,10.1,5.9,4.3,2.8,2.8,2.9,2.1
+RUS,Russian Federation,3285,Foreign Currency Regulations,Value,,,,,,,,,5.2,3.2
+RUS,Russian Federation,3286,Government Instability/Coups,Value,,,,,,,,,3.1,3.8
+RUS,Russian Federation,3287,Inflation,Value,8.4,8.7,8.5,6.7,4.1,7.1,7.6,7.6,13.8,10.1
+RUS,Russian Federation,3288,Poor Public Health,Value,,,,,,,,,1,1.4
+RUS,Russian Federation,3289,Restrictive Labor Regulations,Value,,,,,,,,,2.7,2.4
+RUS,Russian Federation,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,3.3
+RWA,Rwanda,3275,Access to Financing,Value,,,,,,,,,21.2,24.3
+RWA,Rwanda,3276,Corruption,Value,,,,,,,,,1,0
+RWA,Rwanda,3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,7.8,8.8
+RWA,Rwanda,3278,Inadequately Educated Workforce,Value,,,,,,,,,17.8,12.9
+RWA,Rwanda,3279,Inefficient Government Bureaucracy,Value,,,,,,,,,2,0.5
+RWA,Rwanda,3280,Policy Instability,Value,,,,,,,,,1.1,2.2
+RWA,Rwanda,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,5.4,4.8
+RWA,Rwanda,3282,Tax Rates,Value,,,,,,,,,14.8,15.8
+RWA,Rwanda,3283,Tax Regulations,Value,,,,,,,,,9.3,5.3
+RWA,Rwanda,3284,Crime and Theft,Value,,,,,,,,,0.2,0.1
+RWA,Rwanda,3285,Foreign Currency Regulations,Value,,,,,,,,,3.9,4.9
+RWA,Rwanda,3286,Government Instability/Coups,Value,,,,,,,,,0.9,0
+RWA,Rwanda,3287,Inflation,Value,,,,,,,,,3.5,9.6
+RWA,Rwanda,3288,Poor Public Health,Value,,,,,,,,,0.7,0.2
+RWA,Rwanda,3289,Restrictive Labor Regulations,Value,,,,,,,,,0.7,2.8
+RWA,Rwanda,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,7.7
+SAU,Saudi Arabia,3275,Access to Financing,Value,8.2,18,18.9,18.9,13.7,11.4,11.8,12.1,11.9,13
+SAU,Saudi Arabia,3276,Corruption,Value,5.9,3.6,2.5,2.5,4,4.2,3.5,1.7,3.6,4.1
+SAU,Saudi Arabia,3277,Inadequate Supply of Infrastructure,Value,8,9.3,8.8,8.8,4.6,2.9,5.3,4.1,6.2,2.9
+SAU,Saudi Arabia,3278,Inadequately Educated Workforce,Value,15.7,16.2,17,17,16.9,15.5,16.2,15.8,15.5,11.1
+SAU,Saudi Arabia,3279,Inefficient Government Bureaucracy,Value,13.1,12.8,10.2,10.2,9.9,12.4,11.9,14.1,10.1,7.2
+SAU,Saudi Arabia,3280,Policy Instability,Value,,,,,,,,,4.6,7.7
+SAU,Saudi Arabia,3281,Poor Work Ethic in Labor Force,Value,8.3,5.6,6.1,6.1,8.2,8.3,6.7,7.3,7.6,6.5
+SAU,Saudi Arabia,3282,Tax Rates,Value,,,,,,,,,2.9,7.3
+SAU,Saudi Arabia,3283,Tax Regulations,Value,,,,,,,,,1,4.8
+SAU,Saudi Arabia,3284,Crime and Theft,Value,3.6,0.7,0.9,0.9,1,0.4,0.4,0,0.2,1.3
+SAU,Saudi Arabia,3285,Foreign Currency Regulations,Value,,,,,,,,,2,4.2
+SAU,Saudi Arabia,3286,Government Instability/Coups,Value,,,,,,,,,0.7,1.5
+SAU,Saudi Arabia,3287,Inflation,Value,15,2.1,1.9,1.9,2.6,2.6,2.3,1.7,2.5,2.9
+SAU,Saudi Arabia,3288,Poor Public Health,Value,,,,,,,,,0.2,0.9
+SAU,Saudi Arabia,3289,Restrictive Labor Regulations,Value,14.5,21.9,22,22,24,25.6,26.9,24,24.9,20
+SAU,Saudi Arabia,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,4.7
+SEN,Senegal,3275,Access to Financing,Value,24.9,22.9,18.8,22.1,22.9,24.4,25.3,23.5,26.3,21.1
+SEN,Senegal,3276,Corruption,Value,12.3,8.8,11.3,14.1,9.8,15.3,6.4,7.6,7.8,8.3
+SEN,Senegal,3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,4.9,5.1
+SEN,Senegal,3278,Inadequately Educated Workforce,Value,,,,,,,,,7.2,6.9
+SEN,Senegal,3279,Inefficient Government Bureaucracy,Value,4.3,4,4.8,7.5,3.5,6.7,5.9,6.2,3.5,4.3
+SEN,Senegal,3280,Policy Instability,Value,6.7,4.2,2.7,4.8,3.1,1.2,4.6,0.5,1,4.6
+SEN,Senegal,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,7.5,2.7
+SEN,Senegal,3282,Tax Rates,Value,12.2,11.5,10.9,12.5,12.7,12.2,5.5,14.5,15.2,15.8
+SEN,Senegal,3283,Tax Regulations,Value,11.8,11.7,15.1,7.8,11.2,9.1,5.6,,7.7,8.8
+SEN,Senegal,3284,Crime and Theft,Value,,,,,,,,,2.3,1.7
+SEN,Senegal,3285,Foreign Currency Regulations,Value,3.5,2.4,4.1,4.2,3.5,2.3,4.8,3.5,4.5,4
+SEN,Senegal,3286,Government Instability/Coups,Value,,,,,,,,,0.4,2.2
+SEN,Senegal,3287,Inflation,Value,9.1,5.2,5.7,5.4,3.7,1.2,3.5,1.8,3.3,3.9
+SEN,Senegal,3288,Poor Public Health,Value,4.1,1.1,1.5,0.6,1,0.2,2.2,0.7,0.8,2.1
+SEN,Senegal,3289,Restrictive Labor Regulations,Value,,,,,,,,,4.3,3.8
+SEN,Senegal,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,4.8
+SGP,Singapore,3275,Access to Financing,Value,5.2,12.6,9.2,6.3,5.5,3.7,5,4.6,4.7,4.6
+SGP,Singapore,3276,Corruption,Value,,,,,,,,,0.1,0
+SGP,Singapore,3277,Inadequate Supply of Infrastructure,Value,5.9,6.2,7.7,6.1,5.1,5.1,4.6,3.6,2.5,3.4
+SGP,Singapore,3278,Inadequately Educated Workforce,Value,14.7,11.9,13.6,15,11.2,8.1,7.6,10.6,11,9.2
+SGP,Singapore,3279,Inefficient Government Bureaucracy,Value,2.2,3.4,3.3,2.4,2.5,2.2,1.9,2.1,2.7,3.1
+SGP,Singapore,3280,Policy Instability,Value,,,,,,,,,1.2,0.9
+SGP,Singapore,3281,Poor Work Ethic in Labor Force,Value,6.4,5.7,8.5,8.1,4.4,4.5,5.6,6,6,5.8
+SGP,Singapore,3282,Tax Rates,Value,9.4,7.9,9.2,7,3.3,5.4,4.7,2.2,3.1,3.8
+SGP,Singapore,3283,Tax Regulations,Value,7.6,9.4,7.3,3.7,2,3,2.3,,2.1,3.2
+SGP,Singapore,3284,Crime and Theft,Value,,,,,,,,,0.1,0.3
+SGP,Singapore,3285,Foreign Currency Regulations,Value,,,,,,,,,2.3,2.6
+SGP,Singapore,3286,Government Instability/Coups,Value,,,,,,,,,0,0.1
+SGP,Singapore,3287,Inflation,Value,35.4,20.3,21.6,29.1,24.7,22.4,20.5,16.3,14.9,14.1
+SGP,Singapore,3288,Poor Public Health,Value,,,,,,,,,0.5,0.2
+SGP,Singapore,3289,Restrictive Labor Regulations,Value,10.3,15.1,14.4,16.8,20.2,28.5,28.2,29.7,28.4,26.3
+SGP,Singapore,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,22.4
+SLE,Sierra Leone,3275,Access to Financing,Value,,,,,,,,,18.1,16.4
+SLE,Sierra Leone,3276,Corruption,Value,,,,,,,,,13.1,10.8
+SLE,Sierra Leone,3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,11.2,10.5
+SLE,Sierra Leone,3278,Inadequately Educated Workforce,Value,,,,,,,,,5.2,6.6
+SLE,Sierra Leone,3279,Inefficient Government Bureaucracy,Value,,,,,,,,,4.3,3.7
+SLE,Sierra Leone,3280,Policy Instability,Value,,,,,,,,,2.3,3.7
+SLE,Sierra Leone,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,5.2,5.2
+SLE,Sierra Leone,3282,Tax Rates,Value,,,,,,,,,7.8,5.6
+SLE,Sierra Leone,3283,Tax Regulations,Value,,,,,,,,,2,3.2
+SLE,Sierra Leone,3284,Crime and Theft,Value,,,,,,,,,5.9,4.9
+SLE,Sierra Leone,3285,Foreign Currency Regulations,Value,,,,,,,,,6.7,10.8
+SLE,Sierra Leone,3286,Government Instability/Coups,Value,,,,,,,,,0.2,2.9
+SLE,Sierra Leone,3287,Inflation,Value,,,,,,,,,7.9,9.3
+SLE,Sierra Leone,3288,Poor Public Health,Value,,,,,,,,,5.1,2.9
+SLE,Sierra Leone,3289,Restrictive Labor Regulations,Value,,,,,,,,,1.9,1.5
+SLE,Sierra Leone,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,2
+SLV,El Salvador,3275,Access to Financing,Value,7.6,18,13.4,12.4,14,22.8,16.8,7.9,5.5,7
+SLV,El Salvador,3276,Corruption,Value,10,8.5,9.3,8.5,12.6,11.9,6.9,7,14,15.9
+SLV,El Salvador,3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,2.8,3
+SLV,El Salvador,3278,Inadequately Educated Workforce,Value,10.1,6.3,3.4,5.7,4,3.7,4,6.8,4.3,5
+SLV,El Salvador,3279,Inefficient Government Bureaucracy,Value,14.8,9.8,9.4,9.6,11.3,6.2,9.8,15.8,12.1,11.1
+SLV,El Salvador,3280,Policy Instability,Value,7.8,14.3,17.3,12.7,11.1,11.9,9.8,12.8,10.8,10.4
+SLV,El Salvador,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,1.4,1.3
+SLV,El Salvador,3282,Tax Rates,Value,6.1,2.1,3.5,5.1,3.2,5.8,1.8,4.5,10.4,9.6
+SLV,El Salvador,3283,Tax Regulations,Value,4.7,2.7,4.8,5.1,2.2,0.9,4.8,,3.4,1.7
+SLV,El Salvador,3284,Crime and Theft,Value,21,22.7,25.7,24.8,18.4,6.8,24.7,24.3,26.6,19.5
+SLV,El Salvador,3285,Foreign Currency Regulations,Value,,,,,,,,,0,0
+SLV,El Salvador,3286,Government Instability/Coups,Value,,,,,,,,,1,8.4
+SLV,El Salvador,3287,Inflation,Value,7.1,5.3,3.9,6.3,9.5,5.5,7.5,2,1.3,0.5
+SLV,El Salvador,3288,Poor Public Health,Value,,,,,,,,,2.7,2.7
+SLV,El Salvador,3289,Restrictive Labor Regulations,Value,,,,,,,,,1.5,1.8
+SLV,El Salvador,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,2
+SRB,Serbia,3275,Access to Financing,Value,6.6,11.7,9.1,10,11.1,11.1,13.3,14.8,9,12.5
+SRB,Serbia,3276,Corruption,Value,12.2,14.3,16,14.2,12.5,13.8,11.9,10,8.7,11.4
+SRB,Serbia,3277,Inadequate Supply of Infrastructure,Value,7,5.2,4.7,6,5.9,7.3,5.1,5.8,6.9,4.7
+SRB,Serbia,3278,Inadequately Educated Workforce,Value,,,,,,,,,7.9,2.7
+SRB,Serbia,3279,Inefficient Government Bureaucracy,Value,10.5,11.5,12.6,15,13.1,13.1,13.7,11.9,10.6,11.7
+SRB,Serbia,3280,Policy Instability,Value,17,12.5,10.3,3.7,5.4,4.7,8.3,10.6,9,8.9
+SRB,Serbia,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,5.5,6.7
+SRB,Serbia,3282,Tax Rates,Value,6.1,5.3,5,7.9,7.5,5.5,6.8,5.7,11.7,12.5
+SRB,Serbia,3283,Tax Regulations,Value,6.3,5.2,8.9,6.7,6.3,4.2,6.1,,8.1,7.4
+SRB,Serbia,3284,Crime and Theft,Value,6.9,5.6,8.3,5.2,5.6,5.6,5.3,4.4,4.5,4.6
+SRB,Serbia,3285,Foreign Currency Regulations,Value,,,,,,,,,3.4,4.2
+SRB,Serbia,3286,Government Instability/Coups,Value,,,,,,,,,6.3,3.1
+SRB,Serbia,3287,Inflation,Value,6.3,6.7,7.7,9.6,5.3,5.6,3.3,2.5,0.6,1.7
+SRB,Serbia,3288,Poor Public Health,Value,,,,,,,,,0.4,1.9
+SRB,Serbia,3289,Restrictive Labor Regulations,Value,,,,,,,,,3.7,3
+SRB,Serbia,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,2.8
+SUR,Suriname,3275,Access to Financing,Value,12,11.5,,9.9,9.7,15.1,13.7,,,
+SUR,Suriname,3276,Corruption,Value,10.7,11.1,,9.1,13,15.7,16.7,,,
+SUR,Suriname,3277,Inadequate Supply of Infrastructure,Value,8.6,7.6,,7.9,5.4,5.9,3,,,
+SUR,Suriname,3278,Inadequately Educated Workforce,Value,5.7,5.8,,7.7,6.1,11.6,11.3,,,
+SUR,Suriname,3279,Inefficient Government Bureaucracy,Value,20.6,22.6,,19.4,18.6,20,19.4,,,
+SUR,Suriname,3281,Poor Work Ethic in Labor Force,Value,6.2,7.4,,7.9,4.1,8,7,,,
+SUR,Suriname,3282,Tax Rates,Value,6.7,3.7,,7.3,5.8,2.9,3.7,,,
+SUR,Suriname,3283,Tax Regulations,Value,7.2,4.9,,1.2,1.9,1.8,1.7,,,
+SUR,Suriname,3287,Inflation,Value,5.6,3.5,,9.7,7.4,1.8,3.9,,,
+SVK,Slovak Republic,3275,Access to Financing,Value,5.8,10.2,6.9,6.6,3.5,4.8,2.8,3.5,1.6,0.8
+SVK,Slovak Republic,3276,Corruption,Value,14.2,14.3,20.7,19.4,19.1,18.7,16.1,18.1,19.2,19.1
+SVK,Slovak Republic,3277,Inadequate Supply of Infrastructure,Value,17,10.7,10.1,10.5,8.7,7.4,9.3,4.6,5.3,6.9
+SVK,Slovak Republic,3278,Inadequately Educated Workforce,Value,10.7,3.8,2.7,3,5.2,2,6.3,6.6,7.4,8.5
+SVK,Slovak Republic,3279,Inefficient Government Bureaucracy,Value,17.8,16.5,21.4,19,21,19.7,17,16.6,14.8,15.7
+SVK,Slovak Republic,3280,Policy Instability,Value,,,,,,,,,5.6,5.2
+SVK,Slovak Republic,3281,Poor Work Ethic in Labor Force,Value,8,3.3,3.1,4.3,2.5,2.3,2,3,2.2,4.3
+SVK,Slovak Republic,3282,Tax Rates,Value,2,5.2,2.8,5.6,5.6,8.4,10.3,11.4,17.2,13.6
+SVK,Slovak Republic,3283,Tax Regulations,Value,6.1,6.3,5.4,6.3,5.5,5.9,10.1,,10.8,10.1
+SVK,Slovak Republic,3284,Crime and Theft,Value,,,,,,,,,0.6,0.6
+SVK,Slovak Republic,3285,Foreign Currency Regulations,Value,,,,,,,,,0.5,0.5
+SVK,Slovak Republic,3286,Government Instability/Coups,Value,,,,,,,,,0.3,1.6
+SVK,Slovak Republic,3287,Inflation,Value,,,,,,,,,0.3,0.1
+SVK,Slovak Republic,3288,Poor Public Health,Value,,,,,,,,,0.7,0.3
+SVK,Slovak Republic,3289,Restrictive Labor Regulations,Value,13.5,16.4,14.8,11,6.4,13.6,14.5,11.3,8.9,8.8
+SVK,Slovak Republic,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,3.9
+SVN,Slovenia,3275,Access to Financing,Value,5.3,19,17.4,17.4,20.8,24.3,20.5,14,5.4,7.7
+SVN,Slovenia,3276,Corruption,Value,5.7,5.5,6.4,6.4,7.2,8,8.9,6.3,7,5.4
+SVN,Slovenia,3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,2.5,2.3
+SVN,Slovenia,3278,Inadequately Educated Workforce,Value,8.8,5.1,4.2,4.2,3.2,1.6,2.3,2.1,3,4.4
+SVN,Slovenia,3279,Inefficient Government Bureaucracy,Value,13.5,12.1,15.6,15.6,18,17.5,16.5,15.9,18.9,16.5
+SVN,Slovenia,3280,Policy Instability,Value,,,,,,,,,9.6,8.4
+SVN,Slovenia,3281,Poor Work Ethic in Labor Force,Value,4.5,3.5,5,5,4.4,2.7,5.9,2.4,4.5,4.9
+SVN,Slovenia,3282,Tax Rates,Value,7.8,9.1,13.6,13.6,9.5,8.7,12.6,15.7,18.9,18.2
+SVN,Slovenia,3283,Tax Regulations,Value,14.2,9.5,13,13,6.5,5.9,7.6,,11.2,10.8
+SVN,Slovenia,3284,Crime and Theft,Value,,,,,,,,,0,0
+SVN,Slovenia,3285,Foreign Currency Regulations,Value,,,,,,,,,0,0.7
+SVN,Slovenia,3286,Government Instability/Coups,Value,,,,,,,,,2.1,2.1
+SVN,Slovenia,3287,Inflation,Value,18.1,2.9,1.2,1.2,1,0.6,0.6,0,0.2,0.3
+SVN,Slovenia,3288,Poor Public Health,Value,,,,,,,,,0.4,0.6
+SVN,Slovenia,3289,Restrictive Labor Regulations,Value,12.7,14.4,14.5,14.5,15.1,13.9,12.4,16.5,12.3,13.9
+SVN,Slovenia,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,3.8
+SWE,Sweden,3275,Access to Financing,Value,6.6,19,10.6,10.3,11.7,10.8,11,6.5,3.3,4.9
+SWE,Sweden,3276,Corruption,Value,,,,,,,,,0.1,1.6
+SWE,Sweden,3277,Inadequate Supply of Infrastructure,Value,9.3,4.1,6.5,6.3,6.5,7.3,5.5,6.9,6.1,4.9
+SWE,Sweden,3278,Inadequately Educated Workforce,Value,6.8,5.4,2,7.2,7.4,7.4,9.5,6.8,11,9.3
+SWE,Sweden,3279,Inefficient Government Bureaucracy,Value,4.2,2.4,5.7,9.3,7.5,6.9,9.2,5.1,5.9,6.9
+SWE,Sweden,3280,Policy Instability,Value,2,2.6,5.9,5.6,2,3.2,2.4,6.4,8.7,3
+SWE,Sweden,3281,Poor Work Ethic in Labor Force,Value,2.7,2.2,2,1.2,1.9,2.1,3.5,2.2,1.7,3.8
+SWE,Sweden,3282,Tax Rates,Value,24.6,22.2,22.6,22,17.5,17.3,16.5,21.8,24.6,22.6
+SWE,Sweden,3283,Tax Regulations,Value,16.6,13.8,16.1,9.8,11,11.1,13.6,,9.6,13.4
+SWE,Sweden,3284,Crime and Theft,Value,,,,,,,,,0,1.4
+SWE,Sweden,3285,Foreign Currency Regulations,Value,,,,,,,,,0.4,1
+SWE,Sweden,3286,Government Instability/Coups,Value,,,,,,,,,1,5.2
+SWE,Sweden,3287,Inflation,Value,,,,,,,,,0.1,2.8
+SWE,Sweden,3288,Poor Public Health,Value,,,,,,,,,1.4,1
+SWE,Sweden,3289,Restrictive Labor Regulations,Value,22.6,22.2,25.5,24.1,15.4,20.8,13.5,23.2,20.1,14.8
+SWE,Sweden,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,3.5
+SWZ,Swaziland,3275,Access to Financing,Value,,,,,,,,,,10.4
+SWZ,Swaziland,3276,Corruption,Value,,,,,,,,,,11.3
+SWZ,Swaziland,3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,,9.8
+SWZ,Swaziland,3278,Inadequately Educated Workforce,Value,,,,,,,,,,4
+SWZ,Swaziland,3279,Inefficient Government Bureaucracy,Value,,,,,,,,,,16.1
+SWZ,Swaziland,3280,Policy Instability,Value,,,,,,,,,,2
+SWZ,Swaziland,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,,5.4
+SWZ,Swaziland,3282,Tax Rates,Value,,,,,,,,,,4.2
+SWZ,Swaziland,3283,Tax Regulations,Value,,,,,,,,,,7
+SWZ,Swaziland,3284,Crime and Theft,Value,,,,,,,,,,2.3
+SWZ,Swaziland,3285,Foreign Currency Regulations,Value,,,,,,,,,,3.9
+SWZ,Swaziland,3286,Government Instability/Coups,Value,,,,,,,,,,3.4
+SWZ,Swaziland,3287,Inflation,Value,,,,,,,,,,0.5
+SWZ,Swaziland,3288,Poor Public Health,Value,,,,,,,,,,3.4
+SWZ,Swaziland,3289,Restrictive Labor Regulations,Value,,,,,,,,,,7.9
+SWZ,Swaziland,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,8.4
+SYC,Seychelles,3275,Access to Financing,Value,,,,,,,,,,24.1
+SYC,Seychelles,3276,Corruption,Value,,,,,,,,,,11.1
+SYC,Seychelles,3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,,4.3
+SYC,Seychelles,3278,Inadequately Educated Workforce,Value,,,,,,,,,,7.1
+SYC,Seychelles,3279,Inefficient Government Bureaucracy,Value,,,,,,,,,,6.9
+SYC,Seychelles,3280,Policy Instability,Value,,,,,,,,,,1.4
+SYC,Seychelles,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,,10.1
+SYC,Seychelles,3282,Tax Rates,Value,,,,,,,,,,11.2
+SYC,Seychelles,3283,Tax Regulations,Value,,,,,,,,,,1.4
+SYC,Seychelles,3284,Crime and Theft,Value,,,,,,,,,,4.1
+SYC,Seychelles,3285,Foreign Currency Regulations,Value,,,,,,,,,,0
+SYC,Seychelles,3286,Government Instability/Coups,Value,,,,,,,,,,2.6
+SYC,Seychelles,3287,Inflation,Value,,,,,,,,,,2.5
+SYC,Seychelles,3288,Poor Public Health,Value,,,,,,,,,,0
+SYC,Seychelles,3289,Restrictive Labor Regulations,Value,,,,,,,,,,8.3
+SYC,Seychelles,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,4.9
+SYR,Syrian Arab Republic,3275,Access to Financing,Value,9.6,11.3,10.7,8,,,,,,
+SYR,Syrian Arab Republic,3276,Corruption,Value,12.1,8,9.4,15.8,,,,,,
+SYR,Syrian Arab Republic,3277,Inadequate Supply of Infrastructure,Value,11.8,11.3,6.1,4.6,,,,,,
+SYR,Syrian Arab Republic,3278,Inadequately Educated Workforce,Value,11.5,13.4,16.2,15.4,,,,,,
+SYR,Syrian Arab Republic,3279,Inefficient Government Bureaucracy,Value,16,18.7,15.2,14.4,,,,,,
+SYR,Syrian Arab Republic,3281,Poor Work Ethic in Labor Force,Value,7.1,8,9,10.7,,,,,,
+SYR,Syrian Arab Republic,3283,Tax Regulations,Value,4.9,4.4,6.6,5.9,,,,,,
+SYR,Syrian Arab Republic,3285,Foreign Currency Regulations,Value,6.3,5.1,4,3.5,,,,,,
+SYR,Syrian Arab Republic,3289,Restrictive Labor Regulations,Value,8.2,14.6,14.4,10.7,,,,,,
+TCD,Chad,3275,Access to Financing,Value,18.8,16.3,16.9,18.1,24.3,20.5,21.3,16.9,,21.3
+TCD,Chad,3276,Corruption,Value,16.7,19.6,19.3,18,17.2,20.4,14.2,15.7,,17.9
+TCD,Chad,3277,Inadequate Supply of Infrastructure,Value,5,8,8.6,7.2,8.3,10.5,10.3,7.5,,6
+TCD,Chad,3278,Inadequately Educated Workforce,Value,4.7,4.8,5.7,8.4,6.3,7.6,7.3,8.5,,3.5
+TCD,Chad,3279,Inefficient Government Bureaucracy,Value,,,,,,,,,,2.9
+TCD,Chad,3280,Policy Instability,Value,10.4,8,5.7,5.4,5.8,3,5.5,4.3,,12
+TCD,Chad,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,,2.5
+TCD,Chad,3282,Tax Rates,Value,5.8,6.5,9,7.5,8.8,9.7,5.6,13,,14.1
+TCD,Chad,3283,Tax Regulations,Value,8.5,8.8,10.1,7.9,4.9,6.4,6,,,4.1
+TCD,Chad,3284,Crime and Theft,Value,4.1,5.3,3.4,4.6,5.6,3,2.9,3.9,,2.7
+TCD,Chad,3285,Foreign Currency Regulations,Value,,,,,,,,,,1
+TCD,Chad,3286,Government Instability/Coups,Value,11.5,9.8,5.8,6.1,2.5,2.5,3,2.4,,6.1
+TCD,Chad,3287,Inflation,Value,,,,,,,,,,1.3
+TCD,Chad,3288,Poor Public Health,Value,,,,,,,,,,1.3
+TCD,Chad,3289,Restrictive Labor Regulations,Value,,,,,,,,,,1
+TCD,Chad,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,2.4
+THA,Thailand,3275,Access to Financing,Value,,,,,,,,,4.7,4.8
+THA,Thailand,3276,Corruption,Value,10.3,11,11.4,14.5,16.7,20.2,21.4,12.5,11.3,10.1
+THA,Thailand,3277,Inadequate Supply of Infrastructure,Value,5.2,2.8,4.7,5.3,4,5.2,6.3,8.6,7.9,5.4
+THA,Thailand,3278,Inadequately Educated Workforce,Value,7.4,6.7,7.1,8.3,6.5,6.1,6.2,7,8.5,9.7
+THA,Thailand,3279,Inefficient Government Bureaucracy,Value,12.1,13.3,13.4,11.7,14.7,13.4,12.7,12.3,11.9,12.1
+THA,Thailand,3280,Policy Instability,Value,13,15.4,16.4,12.9,15.8,13.5,11.8,12,9.9,12
+THA,Thailand,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,4.1,4.1
+THA,Thailand,3282,Tax Rates,Value,,,,,,,,,3.3,3.9
+THA,Thailand,3283,Tax Regulations,Value,5.1,6.3,3.9,2.8,1.9,2.9,2.4,,4.3,5.4
+THA,Thailand,3284,Crime and Theft,Value,,,,,,,,,0.4,0.7
+THA,Thailand,3285,Foreign Currency Regulations,Value,4.6,1.8,1.6,6.8,0.6,1.1,0.1,1.2,2.3,2.1
+THA,Thailand,3286,Government Instability/Coups,Value,21.5,23.7,24.8,15.2,18.6,16.5,21,18.1,16.7,13.6
+THA,Thailand,3287,Inflation,Value,8.5,2,0.8,5.1,4.7,0.9,0.3,1.1,2.1,2.1
+THA,Thailand,3288,Poor Public Health,Value,,,,,,,,,1.7,0.4
+THA,Thailand,3289,Restrictive Labor Regulations,Value,,,,,,,,,0.9,3.4
+THA,Thailand,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,10.5
+TJK,Tajikistan,3275,Access to Financing,Value,8.6,21.8,17.9,15.3,17.2,,20.5,14.5,13.4,14.4
+TJK,Tajikistan,3276,Corruption,Value,12.5,11.4,10.5,12.6,15.4,,17.7,9.8,8.7,3.6
+TJK,Tajikistan,3277,Inadequate Supply of Infrastructure,Value,8.4,2.8,3.1,2.4,1.1,,1.8,2.2,2.3,2.1
+TJK,Tajikistan,3278,Inadequately Educated Workforce,Value,11.7,6.3,6.9,5.1,3.1,,2.7,4.4,3.4,2.9
+TJK,Tajikistan,3279,Inefficient Government Bureaucracy,Value,6.7,4.8,5.9,5.3,6.1,,2.5,5.5,3.7,1.1
+TJK,Tajikistan,3280,Policy Instability,Value,,,,,,,,,3.1,0.9
+TJK,Tajikistan,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,2.5,1.4
+TJK,Tajikistan,3282,Tax Rates,Value,13.8,12.5,13.7,15.4,17.1,,15.8,12,15.2,15.7
+TJK,Tajikistan,3283,Tax Regulations,Value,12.3,10.7,13.7,13.7,16.6,,15.4,,13.7,11.1
+TJK,Tajikistan,3284,Crime and Theft,Value,,,,,,,,,0.9,0.6
+TJK,Tajikistan,3285,Foreign Currency Regulations,Value,,,,,,,,,12.1,21.4
+TJK,Tajikistan,3286,Government Instability/Coups,Value,,,,,,,,,0,0
+TJK,Tajikistan,3287,Inflation,Value,9.8,8.1,5.7,8.6,3.9,,4.9,9.6,13.9,17.9
+TJK,Tajikistan,3288,Poor Public Health,Value,5.4,1.3,3.7,1.5,0.7,,0.3,1.9,2.5,5.2
+TJK,Tajikistan,3289,Restrictive Labor Regulations,Value,,,,,,,,,1.8,0
+TJK,Tajikistan,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,1.7
+TLS,Timor-Leste,3276,Corruption,Value,11.4,9.6,10.7,14.4,7.3,15.2,14.2,,,
+TLS,Timor-Leste,3277,Inadequate Supply of Infrastructure,Value,6.4,12,16.8,17.8,15.3,8.8,6.1,,,
+TLS,Timor-Leste,3278,Inadequately Educated Workforce,Value,6.2,11,6.3,11.7,10.2,9.2,12.6,,,
+TLS,Timor-Leste,3279,Inefficient Government Bureaucracy,Value,12.8,18.4,17.8,15.6,13.4,10,13.3,,,
+TLS,Timor-Leste,3281,Poor Work Ethic in Labor Force,Value,8.7,10,19.2,11.1,7.5,12.3,14.8,,,
+TLS,Timor-Leste,3282,Tax Rates,Value,7.1,1.2,0.7,1.1,,2.5,2.2,,,
+TLS,Timor-Leste,3283,Tax Regulations,Value,7.3,2.9,0,1.7,1.3,2.1,0.9,,,
+TLS,Timor-Leste,3284,Crime and Theft,Value,5.3,2,0.7,0,1.5,7.9,3.8,,,
+TLS,Timor-Leste,3286,Government Instability/Coups,Value,18.3,3.9,1.6,3.3,1.1,7.3,1.1,,,
+TTO,Trinidad and Tobago,3275,Access to Financing,Value,2.3,6.7,8.4,5.3,6.8,7,6.8,10.6,6.6,7.1
+TTO,Trinidad and Tobago,3276,Corruption,Value,13.2,9.1,11.7,11.9,12.7,15.9,18.4,14.7,14.4,12.2
+TTO,Trinidad and Tobago,3277,Inadequate Supply of Infrastructure,Value,5.7,5.1,7.4,6.6,6.7,4.2,4.1,4.7,4.3,3.2
+TTO,Trinidad and Tobago,3278,Inadequately Educated Workforce,Value,5.1,3.7,4.9,4.4,3.7,2.3,1.5,3.4,2.3,4.7
+TTO,Trinidad and Tobago,3279,Inefficient Government Bureaucracy,Value,11,14.4,10.9,17.1,17.7,17.3,19.2,14.4,13.9,13.3
+TTO,Trinidad and Tobago,3280,Policy Instability,Value,,,,,,,,,1.9,2.8
+TTO,Trinidad and Tobago,3281,Poor Work Ethic in Labor Force,Value,14.7,15.7,17.6,15,15.2,15.4,17.9,20.1,19.8,15.9
+TTO,Trinidad and Tobago,3282,Tax Rates,Value,,,,,,,,,1.6,2.9
+TTO,Trinidad and Tobago,3283,Tax Regulations,Value,,,,,,,,,1.1,1.3
+TTO,Trinidad and Tobago,3284,Crime and Theft,Value,21.9,17.9,18.3,19.6,16.9,19.7,15.5,12.2,11.9,11.4
+TTO,Trinidad and Tobago,3285,Foreign Currency Regulations,Value,,,,,,,,,10.7,11.4
+TTO,Trinidad and Tobago,3286,Government Instability/Coups,Value,,,,,,,,,1,2
+TTO,Trinidad and Tobago,3287,Inflation,Value,15.3,14.4,6.8,6,2.4,1.6,0.9,1.3,2.9,2
+TTO,Trinidad and Tobago,3288,Poor Public Health,Value,3.4,2,2.4,1.8,0.9,1,0.8,0.4,0.4,1.1
+TTO,Trinidad and Tobago,3289,Restrictive Labor Regulations,Value,,,,,,,,,2.3,3.6
+TTO,Trinidad and Tobago,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,5
+TUN,Tunisia,3275,Access to Financing,Value,15.8,14.1,17.7,11.9,,9.3,12.3,11.8,6.4,6.6
+TUN,Tunisia,3276,Corruption,Value,,,,,,,,,11.7,11.6
+TUN,Tunisia,3277,Inadequate Supply of Infrastructure,Value,7.5,7.6,8,8.2,,8,7.6,4.8,4.9,6.3
+TUN,Tunisia,3278,Inadequately Educated Workforce,Value,,,,,,,,,4,3.6
+TUN,Tunisia,3279,Inefficient Government Bureaucracy,Value,14.6,14.3,11,12.2,,11.9,12.7,16.4,18.1,18.1
+TUN,Tunisia,3280,Policy Instability,Value,,,,,,,,,13.8,10
+TUN,Tunisia,3281,Poor Work Ethic in Labor Force,Value,9.1,9.1,8.2,5.3,,5,6.4,5.7,5.7,3.9
+TUN,Tunisia,3282,Tax Rates,Value,6.9,7.5,7.9,4,,4.2,4.5,6.8,5.9,5.8
+TUN,Tunisia,3283,Tax Regulations,Value,7.7,6.8,7.8,5.1,,6.5,5.3,,5,4.7
+TUN,Tunisia,3284,Crime and Theft,Value,,,,,,,,,0.1,0.4
+TUN,Tunisia,3285,Foreign Currency Regulations,Value,5.8,10.5,10.5,4.8,,4.2,4.4,6,5.9,5.8
+TUN,Tunisia,3286,Government Instability/Coups,Value,,,,,,,,,4.3,7.5
+TUN,Tunisia,3287,Inflation,Value,8.6,4.9,4.4,2.7,,4.9,4.1,3.2,1.6,3.2
+TUN,Tunisia,3288,Poor Public Health,Value,,,,,,,,,0.5,0.3
+TUN,Tunisia,3289,Restrictive Labor Regulations,Value,13.9,11.5,11.7,10.4,,7.2,8.3,4.9,7.4,8.1
+TUN,Tunisia,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,4.2
+TUR,Turkey,3275,Access to Financing,Value,9.6,14.9,10.4,7.9,14.1,11.7,9.2,12.2,10.6,11.8
+TUR,Turkey,3276,Corruption,Value,,,,,,,,,2.7,0.3
+TUR,Turkey,3277,Inadequate Supply of Infrastructure,Value,7.7,6.3,6.7,7.7,8.2,7.8,6.7,6.6,4.8,6.2
+TUR,Turkey,3278,Inadequately Educated Workforce,Value,8.8,5.4,10.3,9.6,11.9,12.8,10.9,12,12.3,11.7
+TUR,Turkey,3279,Inefficient Government Bureaucracy,Value,13.5,11.3,13.4,14,10.3,12.4,11.7,7.1,10.5,8.9
+TUR,Turkey,3280,Policy Instability,Value,11.8,10.4,12.1,7.3,5.4,1.8,11.5,6.2,9.9,13.7
+TUR,Turkey,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,4.5,2.9
+TUR,Turkey,3282,Tax Rates,Value,9.6,11.6,10.3,15.4,13.2,14.8,10.8,14,8.3,7.4
+TUR,Turkey,3283,Tax Regulations,Value,12.1,15.2,11.2,10.3,8.3,8.6,6.6,,7.2,4
+TUR,Turkey,3284,Crime and Theft,Value,,,,,,,,,0.9,0.3
+TUR,Turkey,3285,Foreign Currency Regulations,Value,5.5,6.3,4.8,8.7,10,5.9,7.1,11.3,5,9.1
+TUR,Turkey,3286,Government Instability/Coups,Value,,,,,,,,,2.9,7.3
+TUR,Turkey,3287,Inflation,Value,4.9,3.7,2.8,1.2,3.4,2,4,5.1,7.4,7.9
+TUR,Turkey,3288,Poor Public Health,Value,,,,,,,,,2,0.8
+TUR,Turkey,3289,Restrictive Labor Regulations,Value,,,,,,,,,7.1,2.4
+TUR,Turkey,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,5.3
+TZA,Tanzania,3275,Access to Financing,Value,11.7,14.5,15.1,22.6,15.6,24.2,16.7,17.8,18.7,19.5
+TZA,Tanzania,3276,Corruption,Value,12.4,13.1,17.4,14.8,16.3,16.9,17,14.8,11.8,8.2
+TZA,Tanzania,3277,Inadequate Supply of Infrastructure,Value,15.8,11.7,13.3,12.2,10.8,11.5,10,12.4,14.5,11.5
+TZA,Tanzania,3278,Inadequately Educated Workforce,Value,12.9,8.1,3.9,4.6,6.7,5.2,6.2,4.6,3.7,3.4
+TZA,Tanzania,3279,Inefficient Government Bureaucracy,Value,9.1,8.7,6.2,8,8,10.2,11.3,7.1,6.5,5.2
+TZA,Tanzania,3280,Policy Instability,Value,,,,,,,,,1.4,4.5
+TZA,Tanzania,3281,Poor Work Ethic in Labor Force,Value,6.4,5.9,4,3.9,4.5,3,4.7,3.5,3.1,4.4
+TZA,Tanzania,3282,Tax Rates,Value,7.8,12.7,9,12.3,7.2,5.6,10.3,12.2,14.8,16.1
+TZA,Tanzania,3283,Tax Regulations,Value,6.6,7.8,7.9,4.3,4.4,3.3,6.7,,5.9,5.4
+TZA,Tanzania,3284,Crime and Theft,Value,,,,,,,,,4.1,2.8
+TZA,Tanzania,3285,Foreign Currency Regulations,Value,,,,,,,,,2.3,1.6
+TZA,Tanzania,3286,Government Instability/Coups,Value,,,,,,,,,0,1.9
+TZA,Tanzania,3287,Inflation,Value,5.4,6,6,8.2,10.7,7.6,6.6,6.7,5.4,8.8
+TZA,Tanzania,3288,Poor Public Health,Value,,,,,,,,,1.2,1.9
+TZA,Tanzania,3289,Restrictive Labor Regulations,Value,,,,,,,,,2.4,1.3
+TZA,Tanzania,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,3.5
+UGA,Uganda,3275,Access to Financing,Value,22.9,19.3,15.3,17.6,16.7,17.4,14,13.3,11.4,14.1
+UGA,Uganda,3276,Corruption,Value,17,17.8,21.9,20.2,18.4,23,22.5,17.2,16.1,14.7
+UGA,Uganda,3277,Inadequate Supply of Infrastructure,Value,11.4,13,13,10.3,12.8,13.2,11.5,11.1,11.2,13
+UGA,Uganda,3278,Inadequately Educated Workforce,Value,,,,,,,,,4.6,2.9
+UGA,Uganda,3279,Inefficient Government Bureaucracy,Value,8.6,7.1,6.7,7.3,4.2,6.1,7.6,5.4,4.5,5.2
+UGA,Uganda,3280,Policy Instability,Value,4,2.5,2.4,2.9,1.6,2.9,1.6,3.5,2.7,2.8
+UGA,Uganda,3281,Poor Work Ethic in Labor Force,Value,9.6,7.2,7.1,5.4,4.2,5.4,6.1,6.9,5.4,4.6
+UGA,Uganda,3282,Tax Rates,Value,9.9,8.6,8.9,11,9.6,10,13.5,16.8,14.5,16.4
+UGA,Uganda,3283,Tax Regulations,Value,4.3,3.9,4.4,2.5,1.1,2.1,3.2,,4.7,4.2
+UGA,Uganda,3284,Crime and Theft,Value,,,,,,,,,2.5,2.3
+UGA,Uganda,3285,Foreign Currency Regulations,Value,,,,,,,,,5.7,2.8
+UGA,Uganda,3286,Government Instability/Coups,Value,,,,,,,,,0.4,0.7
+UGA,Uganda,3287,Inflation,Value,4.6,7.3,6.3,13.3,16.3,9.7,8.4,9.2,11.9,12.7
+UGA,Uganda,3288,Poor Public Health,Value,,,,,,,,,1.2,1.8
+UGA,Uganda,3289,Restrictive Labor Regulations,Value,,,,,,,,,0.4,0.6
+UGA,Uganda,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,1.3
+UKR,Ukraine,3275,Access to Financing,Value,8.5,13.5,10.8,13.6,15.3,16.7,13.9,12.2,11.2,7
+UKR,Ukraine,3276,Corruption,Value,8.8,10.3,13.9,16,14,15.5,17.8,16.6,14,13.9
+UKR,Ukraine,3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,2.7,1.4
+UKR,Ukraine,3278,Inadequately Educated Workforce,Value,,,,,,,,,0.5,2.5
+UKR,Ukraine,3279,Inefficient Government Bureaucracy,Value,4.6,8.2,8.8,10.3,7.9,13.4,8.8,8,11.4,6.9
+UKR,Ukraine,3280,Policy Instability,Value,15.4,16.5,15.6,6.6,6.2,10.1,14,10.6,13.2,12.1
+UKR,Ukraine,3281,Poor Work Ethic in Labor Force,Value,5.7,2.5,0.8,0.8,1.9,0.6,0.6,0.9,1.5,1.9
+UKR,Ukraine,3282,Tax Rates,Value,13.4,3.9,8.4,9.3,10.5,8.4,7.7,8.1,7.3,9.7
+UKR,Ukraine,3283,Tax Regulations,Value,6.7,10.1,9.6,14.4,13.6,11,4.3,,6.8,9.4
+UKR,Ukraine,3284,Crime and Theft,Value,,,,,,,,,1.6,1.2
+UKR,Ukraine,3285,Foreign Currency Regulations,Value,,,,,,,,,4.5,4.3
+UKR,Ukraine,3286,Government Instability/Coups,Value,7,9.8,9.5,5.1,3.4,3.5,10.5,6.4,8.2,8.9
+UKR,Ukraine,3287,Inflation,Value,13.6,8.4,8.8,7.6,6.6,3.7,8,11.5,11.9,16.3
+UKR,Ukraine,3288,Poor Public Health,Value,,,,,,,,,1.3,1
+UKR,Ukraine,3289,Restrictive Labor Regulations,Value,,,,,,,,,2.5,1.7
+UKR,Ukraine,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,1.8
+URY,Uruguay,3275,Access to Financing,Value,11.9,12.8,11.7,8.5,6.2,6.5,5.9,4.4,3.7,4.5
+URY,Uruguay,3276,Corruption,Value,,,,,,,,,0.2,0.4
+URY,Uruguay,3277,Inadequate Supply of Infrastructure,Value,7.5,7.9,8.7,10.1,11.4,13.7,10.7,13.3,11.6,9.8
+URY,Uruguay,3278,Inadequately Educated Workforce,Value,5.7,5.4,5.1,10.3,9.2,10.8,11.1,10.9,11,10.7
+URY,Uruguay,3279,Inefficient Government Bureaucracy,Value,18,20.5,21.4,15.9,15.4,19.1,16.4,14.1,16.4,17.1
+URY,Uruguay,3280,Policy Instability,Value,5.5,1.2,0.2,0.4,0.2,1,0.2,0.2,0.2,1.7
+URY,Uruguay,3281,Poor Work Ethic in Labor Force,Value,3.3,2.4,2.2,2.8,4.6,2.5,4.9,5,5,3.3
+URY,Uruguay,3282,Tax Rates,Value,13.4,14.2,13.2,11.9,13.8,9.1,11.8,14.6,16.5,21.3
+URY,Uruguay,3283,Tax Regulations,Value,7.6,7.7,7.3,6.8,6.5,3.1,3.9,,1.3,2.4
+URY,Uruguay,3284,Crime and Theft,Value,,,,,,,,,1.9,1.7
+URY,Uruguay,3285,Foreign Currency Regulations,Value,,,,,,,,,0.4,0.1
+URY,Uruguay,3286,Government Instability/Coups,Value,,,,,,,,,0.2,0.5
+URY,Uruguay,3287,Inflation,Value,,,,,,,,,7.1,3.4
+URY,Uruguay,3288,Poor Public Health,Value,,,,,,,,,0.9,0.4
+URY,Uruguay,3289,Restrictive Labor Regulations,Value,22.6,22.5,24.8,24.6,21.5,22.2,22.8,23.9,17.9,16.8
+URY,Uruguay,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,6
+USA,United States,3275,Access to Financing,Value,9,19,14.4,12.9,9.5,8.7,9.1,6.7,4.2,7
+USA,United States,3276,Corruption,Value,,,,,,,,,1.8,7
+USA,United States,3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,5.2,5.5
+USA,United States,3278,Inadequately Educated Workforce,Value,12.1,5.6,6.4,6.3,6.8,6.8,7.8,8.6,7.4,4.4
+USA,United States,3279,Inefficient Government Bureaucracy,Value,14.2,12,13.3,13.2,15,14,14.7,13.7,11.2,6
+USA,United States,3280,Policy Instability,Value,7.6,4.3,6,5.7,6.5,5.7,4.1,5.2,4.9,5.3
+USA,United States,3281,Poor Work Ethic in Labor Force,Value,4,7,6.3,6.7,6.1,6.2,7.9,7,7.3,5.1
+USA,United States,3282,Tax Rates,Value,14.7,14.1,13.2,14.8,14.1,15.4,17,14,16,13
+USA,United States,3283,Tax Regulations,Value,14.3,12.8,12.5,10.9,10.8,16.3,16.7,,12,9.3
+USA,United States,3284,Crime and Theft,Value,,,,,,,,,3.5,4.9
+USA,United States,3285,Foreign Currency Regulations,Value,,,,,,,,,2.5,5.2
+USA,United States,3286,Government Instability/Coups,Value,,,,,,,,,1.4,4.3
+USA,United States,3287,Inflation,Value,9,7.9,8,9.8,7.1,4.8,4,3.5,6,7.5
+USA,United States,3288,Poor Public Health,Value,,,,,,,,,2,3.8
+USA,United States,3289,Restrictive Labor Regulations,Value,5.6,3.9,5.2,5.4,7.1,7.3,8.1,9.7,8,7.4
+USA,United States,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,4.5
+VEN,"Venezuela, RB",3275,Access to Financing,Value,,,,,,,,,1.4,1.1
+VEN,"Venezuela, RB",3276,Corruption,Value,8.4,6.7,8.4,10.4,7.7,7.3,6.5,8.5,9.4,9.5
+VEN,"Venezuela, RB",3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,2.2,2.1
+VEN,"Venezuela, RB",3278,Inadequately Educated Workforce,Value,,,,,,,,,0.4,0.1
+VEN,"Venezuela, RB",3279,Inefficient Government Bureaucracy,Value,13.8,15.3,12.1,12.1,11.3,11.7,9.6,12.9,9.7,7.7
+VEN,"Venezuela, RB",3280,Policy Instability,Value,19.3,18.4,15.2,12,12.5,8.3,10.8,10.3,11.5,11.1
+VEN,"Venezuela, RB",3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,0.8,0
+VEN,"Venezuela, RB",3282,Tax Rates,Value,,,,,,,,,2.4,1.3
+VEN,"Venezuela, RB",3283,Tax Regulations,Value,2.6,1.3,2.8,2.4,6,2.2,3.1,,1,0.6
+VEN,"Venezuela, RB",3284,Crime and Theft,Value,4.6,5.6,7.5,7,4.6,5.1,6,7.2,10.9,7.5
+VEN,"Venezuela, RB",3285,Foreign Currency Regulations,Value,20.1,21.6,24,24.9,28.2,28.3,28.2,27.7,24.2,20.4
+VEN,"Venezuela, RB",3286,Government Instability/Coups,Value,5.1,1.9,1,0.3,0.9,2,0,0.5,1.6,10.6
+VEN,"Venezuela, RB",3287,Inflation,Value,6.5,8,8.7,10.7,6.2,8.3,13,15.3,17,20.4
+VEN,"Venezuela, RB",3288,Poor Public Health,Value,,,,,,,,,0.2,0.1
+VEN,"Venezuela, RB",3289,Restrictive Labor Regulations,Value,12.6,10.1,12.4,11.9,12.8,18.1,17.6,12,7.1,7.4
+VEN,"Venezuela, RB",40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,0
+VNM,Vietnam,3275,Access to Financing,Value,7.7,13.2,17.7,15.8,18.2,18.4,15.9,12.5,9.7,12.3
+VNM,Vietnam,3276,Corruption,Value,9,5.1,4.8,5.7,5,8.2,11.2,9,8.8,10
+VNM,Vietnam,3277,Inadequate Supply of Infrastructure,Value,16.5,16.1,9.9,7.8,13.3,8.5,8,8.3,5.9,8.3
+VNM,Vietnam,3278,Inadequately Educated Workforce,Value,10.6,13.1,10.2,7.4,11.3,10,10.2,11,11.6,10.4
+VNM,Vietnam,3279,Inefficient Government Bureaucracy,Value,,,,,,,,,7.9,4.5
+VNM,Vietnam,3280,Policy Instability,Value,8.2,7.6,10.9,11.8,8.8,11.4,9.2,11.4,10.6,8.4
+VNM,Vietnam,3281,Poor Work Ethic in Labor Force,Value,8.1,6.8,5.4,4.8,5.9,6,6.7,9.1,9.3,9.5
+VNM,Vietnam,3282,Tax Rates,Value,3.9,5,4.8,3.6,5.5,6,5.5,6.8,9.7,6.5
+VNM,Vietnam,3283,Tax Regulations,Value,6.4,8.2,7,6.8,6,8.5,8.5,,9.8,8.7
+VNM,Vietnam,3284,Crime and Theft,Value,,,,,,,,,2.2,3.9
+VNM,Vietnam,3285,Foreign Currency Regulations,Value,,,,,,,,,3.5,3.9
+VNM,Vietnam,3286,Government Instability/Coups,Value,,,,,,,,,2.1,3
+VNM,Vietnam,3287,Inflation,Value,17.9,11.5,12.7,16.7,14.5,9.9,5.6,7.1,4.8,5
+VNM,Vietnam,3288,Poor Public Health,Value,,,,,,,,,0.5,0.5
+VNM,Vietnam,3289,Restrictive Labor Regulations,Value,,,,,,,,,2.1,2.7
+VNM,Vietnam,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,2.5
+YEM,"Yemen, Rep.",3275,Access to Financing,Value,,,,,,,,,16.3,15.6
+YEM,"Yemen, Rep.",3276,Corruption,Value,,,,,,,,,12.3,10.5
+YEM,"Yemen, Rep.",3277,Inadequate Supply of Infrastructure,Value,,,,,,,,,13.1,8.8
+YEM,"Yemen, Rep.",3278,Inadequately Educated Workforce,Value,,,,,,,,,5.8,3.9
+YEM,"Yemen, Rep.",3279,Inefficient Government Bureaucracy,Value,,,,,,,,,8.8,2.8
+YEM,"Yemen, Rep.",3280,Policy Instability,Value,,,,,,,,,12.6,14.5
+YEM,"Yemen, Rep.",3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,1.6,3.8
+YEM,"Yemen, Rep.",3282,Tax Rates,Value,,,,,,,,,1.3,1.8
+YEM,"Yemen, Rep.",3283,Tax Regulations,Value,,,,,,,,,1,1.9
+YEM,"Yemen, Rep.",3284,Crime and Theft,Value,,,,,,,,,1,3.7
+YEM,"Yemen, Rep.",3285,Foreign Currency Regulations,Value,,,,,,,,,4.7,7.7
+YEM,"Yemen, Rep.",3286,Government Instability/Coups,Value,,,,,,,,,14.4,15.9
+YEM,"Yemen, Rep.",3287,Inflation,Value,,,,,,,,,2,2.8
+YEM,"Yemen, Rep.",3288,Poor Public Health,Value,,,,,,,,,0,0.5
+YEM,"Yemen, Rep.",3289,Restrictive Labor Regulations,Value,,,,,,,,,3.3,4.1
+YEM,"Yemen, Rep.",40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,1.6
+ZAF,South Africa,3275,Access to Financing,Value,,,,,,,,,1.8,5.7
+ZAF,South Africa,3276,Corruption,Value,6.2,6.6,9.8,11.5,9,9.7,11,6,12.3,14.3
+ZAF,South Africa,3277,Inadequate Supply of Infrastructure,Value,12.9,4.1,7.8,8,10.8,7,9.8,13,4.2,3
+ZAF,South Africa,3278,Inadequately Educated Workforce,Value,22.3,16.4,16.2,16.8,19.7,19.7,16.9,10.9,12.9,6.1
+ZAF,South Africa,3279,Inefficient Government Bureaucracy,Value,8.3,13.9,18.5,19.6,16.4,19.3,14.8,17.6,17.7,7
+ZAF,South Africa,3280,Policy Instability,Value,5.8,2.4,2.9,3.2,6.1,5.7,7.4,12.4,12.8,5.3
+ZAF,South Africa,3281,Poor Work Ethic in Labor Force,Value,6,4.6,4.4,5.5,3.7,7.7,5.2,4.7,4.8,6.6
+ZAF,South Africa,3282,Tax Rates,Value,,,,,,,,,2.6,7.4
+ZAF,South Africa,3283,Tax Regulations,Value,,,,,,,,,0.8,2.8
+ZAF,South Africa,3284,Crime and Theft,Value,19.8,19.4,14.9,9.8,4.1,6.7,2.5,7.3,6.9,12.1
+ZAF,South Africa,3285,Foreign Currency Regulations,Value,,,,,,,,,1.7,2.2
+ZAF,South Africa,3286,Government Instability/Coups,Value,,,,,,,,,1.5,10.2
+ZAF,South Africa,3287,Inflation,Value,5.7,3.2,1.3,1.1,0.6,0.1,1.5,0.6,1.7,5.9
+ZAF,South Africa,3288,Poor Public Health,Value,,,,,,,,,0.6,2.3
+ZAF,South Africa,3289,Restrictive Labor Regulations,Value,8.1,11.7,13.4,16.1,18.5,19.4,19.8,18.3,17.5,6.3
+ZAF,South Africa,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,2.8
+ZMB,Zambia,3275,Access to Financing,Value,16.4,20.3,18.8,21.2,24.5,25.1,23.7,24,18.3,20.3
+ZMB,Zambia,3276,Corruption,Value,15.4,9.9,14.6,15.1,15,17.5,14.8,9.6,12,13.6
+ZMB,Zambia,3277,Inadequate Supply of Infrastructure,Value,13,7.9,10.5,10.5,7.7,9.9,8.6,9.6,4.1,5.2
+ZMB,Zambia,3278,Inadequately Educated Workforce,Value,,,,,,,,,1.1,3.2
+ZMB,Zambia,3279,Inefficient Government Bureaucracy,Value,7.4,7.8,8.8,7.1,3.7,5.2,6.3,7.6,5.2,5.2
+ZMB,Zambia,3280,Policy Instability,Value,,,,,,,,,5.2,6.9
+ZMB,Zambia,3281,Poor Work Ethic in Labor Force,Value,8.3,6.6,6.8,7.8,6.1,6.8,9.1,5.7,7.8,7.7
+ZMB,Zambia,3282,Tax Rates,Value,12.1,10.9,8.9,11.4,9.5,8.6,9.9,8.5,13.6,13.4
+ZMB,Zambia,3283,Tax Regulations,Value,8.5,6.5,6.2,3.2,3.4,1.5,2.6,,4.7,2.4
+ZMB,Zambia,3284,Crime and Theft,Value,,,,,,,,,2.8,2.3
+ZMB,Zambia,3285,Foreign Currency Regulations,Value,,,,,,,,,5.7,4.3
+ZMB,Zambia,3286,Government Instability/Coups,Value,,,,,,,,,1,2.2
+ZMB,Zambia,3287,Inflation,Value,6,13.2,7.2,8.1,3.9,5.7,4.6,6.7,10.1,6.9
+ZMB,Zambia,3288,Poor Public Health,Value,3.2,1.6,2.1,3.4,3.1,3,2.1,2.1,1.9,0.7
+ZMB,Zambia,3289,Restrictive Labor Regulations,Value,,,,,,,,,3.8,2.1
+ZMB,Zambia,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,3.6
+ZWE,Zimbabwe,3275,Access to Financing,Value,4.8,24.4,25.4,22.9,27.3,25.4,24.6,22.8,14.5,10.5
+ZWE,Zimbabwe,3276,Corruption,Value,5.6,7.7,6.4,7.4,7.6,10.7,11.4,11,12.7,9.2
+ZWE,Zimbabwe,3277,Inadequate Supply of Infrastructure,Value,6.1,12.1,17.4,17.4,16.3,14.3,15,12.3,10.1,8.3
+ZWE,Zimbabwe,3278,Inadequately Educated Workforce,Value,,,,,,,,,0.1,0
+ZWE,Zimbabwe,3279,Inefficient Government Bureaucracy,Value,8.5,9.2,6.9,6.1,9.9,7.9,11.9,11.5,11.2,13.6
+ZWE,Zimbabwe,3280,Policy Instability,Value,14.2,14.5,19.3,19.3,18.7,21.4,19.7,21.2,24.6,19.3
+ZWE,Zimbabwe,3281,Poor Work Ethic in Labor Force,Value,,,,,,,,,0.8,0
+ZWE,Zimbabwe,3282,Tax Rates,Value,,,,,,,,,5.1,4.6
+ZWE,Zimbabwe,3283,Tax Regulations,Value,,,,,,,,,1.8,4.1
+ZWE,Zimbabwe,3284,Crime and Theft,Value,,,,,,,,,0.5,0
+ZWE,Zimbabwe,3285,Foreign Currency Regulations,Value,24.4,4.6,0.3,1,1.4,0.5,0,0.7,5.1,15.9
+ZWE,Zimbabwe,3286,Government Instability/Coups,Value,9.4,10.4,11.5,10.5,4.9,2.8,0.9,2.3,3.3,8.8
+ZWE,Zimbabwe,3287,Inflation,Value,22.5,5.3,0,0.4,,0,0,0,1.3,0.8
+ZWE,Zimbabwe,3288,Poor Public Health,Value,1.8,2.2,2.1,1.2,0.4,0.1,0.3,0.3,0,0.2
+ZWE,Zimbabwe,3289,Restrictive Labor Regulations,Value,,,,,,,,,6.4,4.4
+ZWE,Zimbabwe,40060,Insufficient Capacity to Innovate,Value,,,,,,,,,,0.3
