@@ -1,5 +1,11 @@
 # GeoSpacial data visualization project
 
+You can also view the interactive version of this project on nbviewer:
+
+https://nbviewer.org/github/berserkus/GeoViz_mongoDB_project/blob/main/Main.ipynb
+
+## Project goal
+
 In this project we are looking to find the new office location for our start-up - a company in a gaming industry. We are a young and innovative company and we want our employees to be happy.
 
 Our employees have the following requirements:
