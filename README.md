@@ -88,7 +88,7 @@ But before doing that we need to standardize the values by their mean and standa
 This results in London, Berlin and Collingwood (Melbourne) as the top cities and the respective coordinates (mid-point of all start-ups around) below:
 
 <p align="center">
-<img src="https://github.com/berserkus/GeoViz_mongoDB_project/blob/main/output/table1.jpg">
+<img src="https://github.com/berserkus/GeoViz_mongoDB_project/blob/main/output/table 1.jpg">
 </p>
 
 ### Plot the maps of the three cities
